@@ -159,6 +159,58 @@ my %norm = (
     "aedhreacht" => "aeraíocht",
     "agaibh-se" => "agaibhse",
     "agam-sa" => "agamsa",
+    "aici-si" => "aicisí",
+    "aige-sean" => "aigesean",
+    "ainiar" => "aniar",
+    "ainim" => "ainm",
+    "ainíos" => "aníos",
+    "airigheadar" => "airíodar",
+    "amuich" => "amuigh",
+    "amus" => "amas",
+    "ana bheag" => "an-bheag",
+    "anáirde" => "in airde",
+    "ana mhaith" => "an-mhaith",
+    "ana mhór" => "an-mhór",
+    "asta" => "astu",
+    "atúrnae" => "aturnae",
+    "bailighthe" => "bailithe",
+    "baoghal" => "baol",
+    "bárr" => "barr",
+    "beithigheach" => "beithíoch",
+    "beó" => "beo",
+    "bhaoghal" => "bhaol",
+    "bhárr" => "bharr",
+    "bhreagh" => "bhreá",
+    "bhreóiteachtaí" => "bhreoiteachtaí",
+    "bhreóiteacht" => "bhreoiteacht",
+    "bhrígh" => "bhrí",
+    "bhrúth" => "bhrú",
+    "bosga" => "bosca",
+    "bpoibilidheacht" => "bpoiblíocht",
+    "bpúnc" => "bponc",
+    "breagh" => "breá",
+    "breágh" => "breá",
+    "breaghtha" => "breátha",
+    "breithniughadh" => "breathnú",
+    "breóiteacht" => "breoiteacht",
+    "brígh" => "brí",
+    "bríghe" => "brí",
+    "bríoghmhar" => "bríomhar",
+    "brúth" => "brú",
+    "charaig" => "charraig",
+    "chnuc" => "chnoc",
+    "chnuic" => "chnoic",
+    "cleasaidheacht" => "cleasaíocht",
+    "codla" => "codladh",
+    "coigcríoch" => "coigríoch",
+    "cómhluadar" => "comhluadar",
+    "cómhnuighe" => "cónaí",
+    "d'á" => "dá",
+    "deifrigheacht" => "difríocht",
+    "d'eileamh" => "d'éileamh",
+    "deimhnightheach" => "deimhneach",
+    "dhéanfaimíd" => "dhéanfaimid",
+    "dhearbhuigh" => "dhearbhaigh",
 );
 
 while(<>) {
@@ -170,23 +222,24 @@ while(<>) {
     s/!/ !/g;
     s/\?/ ?/g;
 
-    s/\bi n-aice /in aice /g;
-    s/\ble n-a /lena /g;
-    s/\b[Gg]ur ?bh’ ?/gurbh /g;
-    s/\b[Gg]ur ?b’ ?/gurb /g;
-    s/\b[Nn]ár bh’ ?/nárbh /g;
-    s/\b[Dd]ár bh’ ?/dárbh /g;
-    s/\b[Cc]ár bh’ ?/cárbh /g;
-    s/\b[Nn]íor bh’ ?/níorbh /g;
-    s/\bníb’ /níb'/g;
-    s/\bmb’ fhéidir\b/mb'fhéidir/g;
-    s/\bb’ fhéidir\b/b'fhéidir/g;
-    s/\bm’ /m'/g;
-    s/\bd’ /d'/g;
-    s/\b[Cc]é ’r bh’ ?/cérbh /g;
-    s/\bi n-aon /in aon/g;
-    s/b’ /b'/g;
-    s/i n-Éirinn/in Éirinn/g;
+    s/\bi n-aice /in aice /gi;
+    s/\ble n-a /lena /gi;
+    s/\b[Gg]ur ?bh’ ?/gurbh /gi;
+    s/\b[Gg]ur ?b’ ?/gurb /gi;
+    s/\b[Nn]ár bh’ ?/nárbh /gi;
+    s/\b[Dd]ár bh’ ?/dárbh /gi;
+    s/\b[Cc]ár bh’ ?/cárbh /gi;
+    s/\b[Nn]íor bh’ ?/níorbh /gi;
+    s/\bníb’ /níb'/gi;
+    s/\bmb’ fhéidir\b/mb'fhéidir/gi;
+    s/\bb’ fhéidir\b/b'fhéidir/gi;
+    s/\bm’ /m'/gi;
+    s/\bd’ /d'/gi;
+    s/\b[Cc]é ’r bh’ ?/cérbh /gi;
+    s/\bi n-aon /in aon/gi;
+    s/\b’dh eadh/dhea/gi;
+    s/\bb’ /b'/gi;
+    s/i n-Éirinn/in Éirinn/gi;
     s/’/'/g;
 
     for my $word (split/ /) {
