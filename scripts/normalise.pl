@@ -152,7 +152,13 @@ my %norm = (
     "adúbhairt", "a dúirt",
     "ó-thuaidh", "ó thuaidh",
     "chuaidh" -> "chuaigh",
-    "dhiaigh" -> "dhiaidh"
+    "dhiaigh" -> "dhiaidh",
+    "adtuaidh" => "aduaidh",
+    "adúbhairt" => "a dúirt",
+    "adúbhart" => "a dúirt",
+    "aedhreacht" => "aeraíocht",
+    "agaibh-se" => "agaibhse",
+    "agam-sa" => "agamsa",
 );
 
 while(<>) {
@@ -179,6 +185,10 @@ while(<>) {
     s/\bd’ /d'/g;
     s/\b[Cc]é ’r bh’ ?/cérbh /g;
     s/\bi n-aon /in aon/g;
+    s/b’ /b'/g;
+    s/i n-Éirinn/in Éirinn/g;
+    s/’/'/g;
+
     for my $word (split/ /) {
         my $lcword = irishlc($word);
         if (exists $norm{$word}) {
