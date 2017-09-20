@@ -151,6 +151,7 @@ my %norm = (
     'ortha' => 'orthu',
     "osgailt" => "oscailt",
     "osguil" => "oscail",
+    "n'osguil" => "n'oscail",
     "ó-thuaidh", "ó thuaidh",
     "phléasgamair" => "phléascamar",
     "réidhe" => "ré",
@@ -389,6 +390,9 @@ my %norm = (
     "'ach" => "ach",
     "adéarfaidh" => "a déarfaidh",
     "adeirim" => "a deirim",
+    "mháighistiríbh" => "mháistiribh",
+    "sgiomar" => "sciomar",
+    "sgrannradh" => "scanradh",
 );
 
 while(<>) {
@@ -421,6 +425,7 @@ while(<>) {
     s/\bana bheag/an-bheag/gi;
     s/\bana mhaith/an-mhaith/gi;
     s/\bana mhór/an-mhór/gi;
+    s/\bn’ osguil/n'oscail/gi;
     s/’/'/g;
 
     for my $word (split/ /) {
