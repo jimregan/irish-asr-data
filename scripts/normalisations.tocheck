@@ -2,9 +2,7 @@
 a'	ag
 a'	an
 a'	ar
-Abhan	Abhann
 abhfad	i bhfad
-Abhfad	I bhfad
 'ach	gach
 achmair	achomair
 a dh'imirt	ag imirt
@@ -63,13 +61,8 @@ beinn	binn
 beirtí	bheirtí
 bhéad	bheidh mé
 bhéadh	beadh
-bhéadh	bheadh
-Bhéadh	Bheadh
-bheannuigh	bheannaigh
 Bhearnain	Bhearna
-bheartughadh	bheartú
 bhéiceas	bhéic mé
-bheó	bheo
 bheóil	bhéil
 bhfágtí	bhfágfaí
 bhfaighdís	bhfaighidís
@@ -78,8 +71,6 @@ bh'fhada	b'fhada
 bh'fhiú	b'fhiú
 bh'fholáir	b'fholáir
 bhflathas	bhflaitheas
-bhFrainnc	bhFrainc
-bhFrainncis	bhFraincis
 bhfuaradar	bhfuaraíodar
 bhfuaras-sa	bhfuaraigh mise
 bhíd	bhíonn
@@ -102,13 +93,10 @@ bí	bíonn
 Bí	Bíonn
 bídh	bia
 bíod	bíodh
-bíon	bíonn
-Bíon	Bíonn
 blian	bliain
 B'shiniad	Ba iad sin
 buachaillíbh	buachaillí
 buaibh	ba
-bulóige	bollóige
 cabhrughadh	cabhrú
 cad 'tá	cad atá
 Cad 'tá	Cad atá
@@ -117,14 +105,10 @@ cailleamhaint	cailliúint
 caithtí	caití
 Caitilín	Caitlín
 cancarach	cancrach
-cannta	canta
-caraig	carraig
-Caraig	Carraig
 caraigreacha	carraigeacha
 caraigreachaibh	carraigeacha
 cár bh'	cárbh
 ceangaladh	ceanglaíodh
-ceannaighthe	ceannaithe
 cé 'r bh'	cérbh
 chailleamhaint	chailleadh
 chailleamhaint	chailliúint
@@ -141,7 +125,6 @@ cheathramhain	cheathrúin
 Chím	Feicim
 Chionntsáile	Chionn tSáile
 chítear	fheictear
-chlaidh	chlaí
 chlainn	chlann
 chloich	chloch
 chogaíbh	chogaí
@@ -174,23 +157,12 @@ chródha	chróga
 chroicean	chraiceann
 chroídhe	chroí
 Chromwell	Chromail
-chruadhtan	chruatan
-chuaidh	chuaigh
-Chuaidh	Chuaigh
 chuas	chuaigh mé
 chúcha	chucu
-chúghaibh	chugaibh
-chúghainn	chugainn
-chúgham	chugam
-chúgham-sa	chugamsa
-chúghat	chugat
-chúichi	chuici
 Chúig'	Chúige
 chúig	cúig
 chúigíbh	chúigí
-chúil-fhéith	chúiléith
 chuimhneóch'	chuimhneodh
-chuirean	chuireann
 chuireas	chuir mé
 Chuireas	Chuir mé
 chuirfir	chuirfidh tú
@@ -201,7 +173,6 @@ clasa	claiseanna
 coilltibh	coilltí
 coitchianta	coitianta
 comáint	tiomáint
-cómhair	comhair
 cómhairigheadh	comhaireadh
 cómharsain	comharsa
 cómharsain	comharsana
@@ -212,9 +183,6 @@ conganta	cúnta
 creideamhaint	creidiúint
 cródha	cróga
 Cromwell	Cromail
-cruadha	crua
-cruadhtain	cruatain
-cruadhtan	cruatan
 cruaidh	crua
 cruinnighthe	cruinnithe
 cruithneachtan	cruithneachta
@@ -239,13 +207,8 @@ D'airighinn	D'airínn
 dáiríribh	dáiríre
 daoinibh	daoine
 d'aoinne	d'aon duine
-d'aoís	d'aois
-d'árdughadh	d'ardú
-D'árduigh	D'ardaigh
 deabhramh	dealramh
-D'éaluigh	D'éalaigh
 déanfaí	dhéanfaí
-dearbhughadh	dearbhú
 déarca	déirce
 dé	dia
 d'é	é a
@@ -255,14 +218,9 @@ deineadh	rinneadh
 deintí	dhéantaí
 deire	deireadh
 deire	deiridh
-d'eirigh	d'éirigh
-D'eirigh	D'éirigh
-d'eirigheadar	d'éiríodar
 de'n	den
 des	de
 d'fhágáilt	d'fhágáil
-d'fhághail	d'fháil
-d'fheuch	d'fhéach
 d'fhreagairt	a fhreagairt
 dh'á	á
 dh'á	dá
@@ -277,15 +235,11 @@ dh'árdughadh	d'ardú
 dheasgaibh	dheasca
 dhe	de
 dhé	dhe
-dheimhniughadh	dheimhniú
 dheineadar	rinneadar
 dheineadh	dhéanadh
 Dheineadh	Rinneadh
 dheinean	dhéanann
 dheinidís	dhéanaidís
-dhein	rinne
-Dhein	Rinne
-dheire	dheireadh
 dh'éirigh	d'éirigh
 dheirigh	dheiridh
 dh'fághail	d'fháil
@@ -312,8 +266,6 @@ dhóibh	dóibh
 dhóich	dhóigh
 dhóithin	dhóthain
 dhom	dom
-Dhómhnaill	Dhomhnaill
-Dhómhnall	Dhomhnall
 dhómh-sa	domsa
 dhó-san	dósan
 dhrithár	dheartháireacha
@@ -323,21 +275,8 @@ dhuit	duit
 diaigh	diaidh
 díbireadh	díbríodh
 díbreadh	díbirt
-dícheal	dícheall
 did	dide
-d'imthigh	d'imigh
-D'imthigh	D'imigh
-d'imthigheadar	d'imíodar
-D'imthigheadh	D'imíodh
-D'innis	D'inis
-díoghaltas	díoltas
-díoluigheachta	díolaíochta
-d'iompuigh	d'iompaigh
-D'iompuigh	D'iompaigh
-d'iompuigheadar	d'iompaíodar
-D'iompuigheadar	D'iompaíodar
 dlighthibh	dlíthe
-dlúithte	dlúite
 dob'	ba
 dob' fhada	b'fhada
 do bhain	a bhain
@@ -381,18 +320,7 @@ do ritheas	rith mé
 doruis	dorais
 dorus	doras
 dos	do
-do tháinig	tháinig
-do thárla	tharla
-Do thárla	Tharla
-do thóg	thóg
-Do thóg	Thóg
-do thug	thug
 do thuigeas	thuig mé
-do thuig	thuig
-Do thuig	Thuig
-do thuit	a thit
-do thuit	thit
-Do thuit	Thit
 dreóghadh	dreo
 dritháir	deartháireacha
 Dritháir	Deartháireacha
@@ -400,7 +328,6 @@ dritháir	dearthár
 drithár	deartháir
 drithár	deartháireacha
 drochad	droichead
-droch aicme	drochaicme
 drochaid	droichid
 droch aigne	drochaigne
 droch mheas	drochmheas
@@ -445,9 +372,7 @@ fearaibh	fir
 fé	faoi
 Fé	Faoi
 feictí	d'fheictí
-feirmeóir	feirmeoir
 feirmeóiríbh	feirmeoirí
-feirmeóirí	feirmeoirí
 feisgint	feiceáil
 féitheamh	feitheamh
 fé ndeara	faoi deara
@@ -463,10 +388,6 @@ fhiafraighe	fhiafraí
 'fhios	a fhios
 fhios	a fhios
 fhíos	fhís
-fhoghluim	fhoghlaim
-Fhrainncis	Fhraincis
-fiacalach	fiaclach
-fiacala	fiacla
 fiacalaibh	fiacla
 fiacal	fiacla
 focalaibh	focail
@@ -477,7 +398,6 @@ fuaradh	fuarthas
 fuaras	fuair mé
 fuaras-sa	fuar mise
 fuid	fud
-Gaedhlaibh	Gaeil
 Gaeluinne	Gaeilge
 Gaeluinn	Gaeilge
 gáirí	gáire
@@ -492,13 +412,6 @@ gcrois	gcros
 gcruadhtan	gcruatan
 gcruinneóchadh	gcruinneodh
 géanaibh	géanna
-gearadh	gearradh
-gearfaí	ghearrfaí
-geartha	gearrtha
-geóbhfaí	gheofaí
-'gha	á
-'ghá	á
-'Ghá	Á
 Ghaedhlaibh	Ghaeil
 Ghaeluinne	Ghaeilge
 Ghaeluinn	Ghaeilge
@@ -527,11 +440,6 @@ gur bh'fhearr	gurbh fhearr
 gur bh'	gurbh
 gurbh'	gurbh
 gur deineadh	go ndearnadh
-h-achmair	hachomair
-h-aimsigheadh	haimsíodh
-h-aimsire	haimsire
-h-ainmneacha	hainmneacha
-h-airc	hairc
 h-aireachtaint	haireachtáil
 h-aireófaí	aireofaí
 h-airigheadh	hairíodh
@@ -583,8 +491,6 @@ itheas	itheann
 ithte	ite
 it	i do
 Laidion	Laidin
-láidire	láidre
-Laidne	Laidine
 láimh	lámh
 lánamhain	lánúin
 lasmuich	lasmuigh
@@ -616,7 +522,6 @@ leigint	ligean
 leig	lig
 leinbh	linbh
 le n-a	lena
-Le n-a	Lena
 le n'	lena
 lic	leac
 lín-tíghe	líon tí
@@ -627,15 +532,10 @@ Luimnighe	Luimnigh
 Lúnduin	Londain
 Maghchromtha	Maigh Chromtha
 má's	más
-m'athair-se	m'athairse
 mb' áil	mb'áil
-mbéadh	mbeadh
 mbéalaibh	mbéala
 mb' éigean	mb'éigean
-mbeimíd	mbeimid
 mb' fhéidir	mb'fhéidir
-mbiadh	mbia
-mbíon	mbíonn
 mblian	mbliana
 mb'	mba
 mhaireachtaint	mhaireachtáil
@@ -657,7 +557,6 @@ mí-chuíbhsach	míchuibheasach
 mnáibh	mná
 mnaoi	bean
 mnaoi	mbean
-mór-thímpal	mórthimpeall
 n-a	a
 ná béadh	nach mbeadh
 n-abrainn-se	ndeirinnse
@@ -677,7 +576,6 @@ nár bh'	nárbh
 'nar	inar
 n-ar	nár
 ná tógfadh	nach dtógfadh
-n-atúrnae	n-aturnae
 ndeaghas	ndeachaigh mé
 ndearbhughadh	ndearbhú
 ndeigheas	ndeachaigh mé
@@ -690,9 +588,6 @@ ndorus	ndoras
 ndrom	ndroim
 ndúbhairt	ndúirt
 ndúthaigh	ndúiche
-n-éaghmuis	n-éagmais
-neamhnídh	neamhní
-neamhspleadhach	neamhspleách
 neartuigheas	neartaigh mé
 neithe	nithe
 Neithe	Nithe
@@ -721,7 +616,6 @@ nochtaithe	nochta
 Nodlaig	Nollaig
 no	nó
 Nuadhat	Nuad
-n-Ubh	nUbh
 ó n-a	óna
 ó'n	ón
 páirceanaibh	páirceanna
@@ -759,7 +653,6 @@ ró mhaith	rómhaith
 ró mhór	rómhór
 rómpa	rompu
 ropairíbh	ropairí
-Ruadh	Rua
 ruagadh	ruaigeadh
 rugas	rug mé
 ruithfeadh	rithfeadh
@@ -823,9 +716,6 @@ slígh	slí
 slógh	slua
 slóighte	sluaite
 smidireacht	smiotaíl
-socarughadh	socrú
-socaruigheadh	socraíodh
-solusmhaire	solasmhaire
 sórd	sórt
 so	seo
 srathanaibh	sraitheanna
@@ -845,7 +735,6 @@ taraingthe	tarraingthe
 tarna	dara
 tar	thar
 ta	tá
-t-atharughadh	t-athrú
 t-eagla	eagla
 teangthachaibh	teangacha
 téigheadh	téadh
@@ -883,10 +772,6 @@ thuille	thuilleadh
 thuitfeadh	thitfeadh
 thuitim	thitim
 thuit	thit
-thu	thú
-tighearnas	tiarnas
-tighe	tí
-tíghe	tí
 tigh	teach
 tímpal	timpeall
 Tímpal	Timpeall
@@ -932,4 +817,3 @@ ua	uí
 uiriste	fhurasta
 uisge-fé-thalamh	uisce faoi thalamh
 umá	má
-VI	BHÍ
