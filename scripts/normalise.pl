@@ -37,7 +37,7 @@ while(<STDIN>) {
     s/!/ !/g;
     s/\?/ ?/g;
 
-    s/\bi n-aice /in aice /gi;
+    s/\bi n[-']aice /in aice /gi;
     s/\ble n-a /lena /gi;
     s/\b[Gg]ur ?bh’ ?/gurbh /gi;
     s/\b[Gg]ur ?b’ ?/gurb /gi;
@@ -60,6 +60,13 @@ while(<STDIN>) {
     s/\bana mhaith/an-mhaith/gi;
     s/\bana mhór/an-mhór/gi;
     s/\bn’ osguil/n'oscail/gi;
+    s/\bh-ana mhaith/han-mhaith/gi;
+    s/\bh-ana mhinic/han-mhinic/gi;
+    s/\bh-ana dheas/han-dheas/gi;
+    s/\bh-ana oban/han-oban/gi;
+    s/\bh-ana réidh/han-réidh/gi;
+    s/\bh-ana bhuartha/han-bhuartha/gi;
+
     s/’/'/g;
 
     for my $word (split/ /) {
