@@ -63,7 +63,7 @@ while(<>) {
         $text = $1;
     }
     if(/éigin$/) {
-        if($dialect ne 'M' && ($text ne 'éigin' || $text ne 'am éigin')) {
+        if($dialect ne 'M' || ($dialect eq 'M' && ($text ne 'éigin' && $text ne 'am éigin'))) {
             my $replacement = get_replacement('éigin', $dialect);
             $text =~ s/éigin/$replacement/;
             print "$text\n";
