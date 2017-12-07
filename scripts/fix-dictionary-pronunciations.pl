@@ -7,16 +7,6 @@ use utf8;
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
-my %tweak = (
-    'áit éigin' => 't',
-    'ar shlí éigin' => 't',
-    'am éigin' => 'fM',
-    'ar bhealach éigin' => 't',
-    'ar chuma éigin' => 't',
-    'ar dhóigh éigin' => 't',
-    'éigin' => '',
-);
-
 my %fixU = (
     'éigin' => 'inteacht'
 );
