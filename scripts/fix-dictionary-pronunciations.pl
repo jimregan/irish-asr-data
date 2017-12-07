@@ -20,10 +20,18 @@ my %fixU = (
     'éigin' => 'inteacht'
 );
 my %fixC = (
-    'éigin' => 'eicint'
+    'éigin' => 'eicint',
+    'zúmáil' => 'súmáil',
+    'zúm' => 'súm',
+    'zipeáil' => 'sipeáil',
+    'zip' => 'sip',
+    #vótóir = wótóir
+
 );
 my %fixM = (
-    'éigin' => 'éigin'
+    'éigin' => 'éigint',
+    'fáil' => 'fáilt',
+    # zónáilte = zónáilthe
 );
 
 while(<>) {
