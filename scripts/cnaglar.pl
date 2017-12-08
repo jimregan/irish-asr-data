@@ -53,17 +53,18 @@ my $index_scraper = scraper {
 #}
 
 my $content_scraper = scraper {
-    process '//script[contains(text(),"mp3:"]', 'script' => 'TEXT';
-    process '//div[@id = "text"]', 'text' => scraper {
-        process 'dl', 'chunk[]' => scraper {
-            process 'dt', 'speaker' => 'TEXT';
-            process 'dd', 'segments[]' => scraper {
-                process 'p', 'start' => '@start';
-                process 'p', 'end' => '@end';
-                process 'p', 'text' => 'TEXT';
-            };
-        };
-    };
+#    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
+    process '//script', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
+#    process '//div[@id = "text"]', 'text' => scraper {
+#        process 'dl', 'chunk[]' => scraper {
+#            process 'dt', 'speaker' => 'TEXT';
+#            process 'dd', 'segments[]' => scraper {
+#                process 'p', 'start' => '@start';
+#                process 'p', 'end' => '@end';
+#                process 'p', 'text' => 'TEXT';
+#            };
+#        };
+#    };
 };
 
 my $page = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/irgl0001.utf8.html");
