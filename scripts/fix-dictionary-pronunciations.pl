@@ -128,7 +128,7 @@ while(<>) {
     if($base =~ /\/([^\/]*)$/) {
         $text = $1;
     }
-    print URLS "http://www.teanglann.ie/Can$dialect/" . uri_escape($text) . ".mp3\n";
+    print URLS "http://www.teanglann.ie/Can$dialect/" . uri_escape_utf8($text) . ".mp3\n";
 
     my $outtext = '';
     if(/éigin$/) {
