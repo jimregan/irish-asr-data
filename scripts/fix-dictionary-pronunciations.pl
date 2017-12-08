@@ -4,6 +4,8 @@ use warnings;
 use strict;
 use utf8;
 
+use URI::Escape;
+
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
@@ -67,6 +69,13 @@ sub tolower {
     return join(" ", @lcpieces);
 }
 
+sub clean {
+    my $in = shift;
+    my $lwr = tolower($in);
+    $lwr =~ s/[!]//g;
+    return $lwr;
+}
+
 my $out = 1;
 my $spk = 1;
 
@@ -84,38 +93,55 @@ open(UTT, '>', 'data/train/utt2spk');
 open(TEXT, '>', 'data/train/text');
 binmode(TEXT, ":utf8");
 open(URLS, '>', 'audio/urls');
-open(WAVSCP '>', 'data/train/wav.scp');
+open(WAVSCP, '>', 'data/train/wav.scp');
+binmode(WAVSCP, ":utf8");
+
+my %spkutt = ();
 
 while(<>) {
     chomp;
     my $dialect = '';
     my ($file, $speaker) = split/\t/;
-    if ($speaker eq '') {
-        $speaker = "unk$spk";
+    if (!defined $speaker || $speaker eq '') {
+        $speaker = sprintf("unk%06d", $spk);
         $spk++;
     }
+
+    my $utt = sprintf("%s-%06d", $speaker, $out);
+    print UTT "$utt $spk\n";
+
+    if(exists $spkutt{$speaker}) {
+        $spkutt{$speaker} .= " $utt";
+    } else {
+        $spkutt{$speaker} = $utt;
+    }
+
     if ($file =~ /\/Can([CUM])\//) {
         $dialect = $1;
     }
     my $base = $file;
     $base =~ s/\.mp3$//;
-    my $outfile = $base . ".txt";
-    open(OUT, '>', "$outfile");
-    binmode(OUT, ":utf8");
+    my $text = '';
 
-    if(/\/([^\/]*)$/) {
+    print WAVSCP "$utt sox \"$file\" -t wav - |\n";
+
+    if($base =~ /\/([^\/]*)$/) {
         $text = $1;
     }
+    print URLS "http://www.teanglann.ie/Can$dialect/" . uri_escape($text) . ".mp3\n";
+
+    my $outtext = '';
     if(/éigin$/) {
         if($dialect ne 'M' || ($dialect eq 'M' && ($text ne 'éigin' && $text ne 'am éigin'))) {
             my $replacement = get_replacement('éigin', $dialect);
             $text =~ s/éigin/$replacement/;
-            print OUT tolower("$text\n");
+            $outtext = clean("$text");
         } else {
-            print OUT tolower("$text\n");
+            $outtext = clean("$text");
         }
     } else {
-        print OUT tolower(get_replacement($text, $dialect)) . "\n";
+        $outtext = clean(get_replacement($text, $dialect));
     }
-    close(OUT);
+    print TEXT "$utt\t$outtext\n";
+    $out++;
 }
