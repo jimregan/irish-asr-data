@@ -53,8 +53,9 @@ my $index_scraper = scraper {
 #}
 
 my $content_scraper = scraper {
-#    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
-    process '//script', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
+#    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
+    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => [sub { print Dumper @_;}];
+#    process '//script', 'script[]' => ['TEXT', sub { if (/mp3: "([^"]*)",/) { return $1;} else {return "";}}];
 #    process '//div[@id = "text"]', 'text' => scraper {
 #        process 'dl', 'chunk[]' => scraper {
 #            process 'dt', 'speaker' => 'TEXT';
