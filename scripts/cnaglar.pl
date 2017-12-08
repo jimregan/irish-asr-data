@@ -38,20 +38,34 @@ my $index_scraper = scraper {
     };
 };
 
-my $index = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/index.utf8.html");
+#my $index = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/index.utf8.html");
 
-my $idxres = $index_scraper->scrape($index);
+#my $idxres = $index_scraper->scrape($index);
 
-my @pages = ();
+#my @pages = ();
 
-for my $span (@{$idxres->{'spans'}}) {
-    for my $item (@{$span->{'items'}}) {     
-            if(exists $item->{'link'} && $item->{'link'} =~ m!/comhra/!) {
-                push @pages, $item->{'link'};
-            }
-    }
-}
+#for my $span (@{$idxres->{'spans'}}) {
+#    for my $item (@{$span->{'items'}}) {     
+#            if(exists $item->{'link'} && $item->{'link'} =~ m!/comhra/!) {
+#                push @pages, $item->{'link'};
+#            }
+#    }
+#}
 
-for my $page (@pages) {
-    print "$page\n";
-}
+my $content_scraper = scraper {
+    process '//script[contains(text(),"mp3:"]', 'script' => 'TEXT';
+    process '//div[@id = "text"]', 'text' => scraper {
+        process 'dl', 'chunk[]' => scraper {
+            process 'dt', 'speaker' => 'TEXT';
+            process 'dd', 'segments[]' => scraper {
+                process 'p', 'start' => '@start';
+                process 'p', 'end' => '@end';
+                process 'p', 'text' => 'TEXT';
+            };
+        };
+    };
+};
+
+my $page = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/irgl0001.utf8.html");
+my $res = $content_scraper->scrape($page);
+print Dumper $res;
