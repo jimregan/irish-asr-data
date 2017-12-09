@@ -64,7 +64,7 @@ sub extract_mp3 {
 }
 
 my $content_scraper = scraper {
-    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => [sub { extract_mp3(@_);}];
+    process '//script[count(@src) = 0 and contains(text(),"mp3:")]', 'script[]' => [sub { extract_mp3(@_); }];
     process '//div[@id = "text"]', 'text' => scraper {
         process 'dl', 'chunk[]' => scraper {
             process 'dt', 'speaker' => 'TEXT';
@@ -77,6 +77,15 @@ my $content_scraper = scraper {
     };
 };
 
-my $page = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/irgl0001.utf8.html");
-my $res = $content_scraper->scrape($page);
 print Dumper $res;
+
+sub proc_page {
+    my $page = shift;
+    my $base = 'https://www.scss.tcd.ie/~uidhonne/comhra/';
+    my $uri = URI->new($page);
+    my $id = '';
+    if($page =~ m!/comhra/([^.]*)\.!) {
+        $id = $1;
+    }
+    my $res = $content_scraper->scrape($uri);
+}
