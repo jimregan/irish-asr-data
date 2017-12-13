@@ -45,6 +45,7 @@ my %norm_word = (
     "mb'uafar." => "mb'uafar",
     "m'éadain." => "m'éadain",
     "m'fhear," => "m'fhear",
+    "b'fhéidir," => "b'fhéidir",
 );
 
 sub proc_file {
