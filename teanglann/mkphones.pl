@@ -9,6 +9,7 @@ my %phones = ();
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
+print "SIL\n";
 while(<>) {
     chomp;
     my ($a, $b) = split/\t/;
