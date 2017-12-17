@@ -26,8 +26,7 @@
 122.956508	128.111437	I've mentioned the seven schools and their teachers and all of the children that we have just left
 128.449371	130.990000	 and and how enthusiastic they were 
 131.250215	138.232280	but I also wanted to work on the Beal- uh  some s- special people the Bealtaine writers group
-134.360356	136.990000	special people the Bealtaine writers
-138.318196	142.293218	from the Lourde's Day Center in Sean McDermott Street 
+138.318196	142.092749	from the Lourde's Day Center in Sean McDermott Street 
 142.310402	147.259133	they gave of their time and to work with Rachel Joynte 
 147.259133	148.742607	and poet Enda Wyley
 149.189368	154.859789	eh to share their memories and their perspectives on life in Ireland
@@ -38,7 +37,7 @@
 180.170490	184.185607	with the others by the children of the 22nd century
 184.712555	192.748516	and your names are tell th- though now will like those of each of the children who were with us earlier will be forever erched? on Dearcan na nDaoine
 193.074995	198.447576	in fact it was wonderful to see the children finding their names on the beautiful piece
-199.063462	201.849829	I do want particularly to recall
+199.063462	201.586355	I do want particularly to recall
 201.867013	206.701190	eh eh Elizabeth O’Carroll who chaired the Bealtaine group's input to the project
 207.000000	216.617269	em Elizabeth died since the workshop and I was very pleased earlier to have the opportunity of meeting Tom and you are so welcome
 216.618701	219.014310	 fíor-chaoin fáilte romhat go? speisialta chomh maith
@@ -112,7 +111,7 @@
 439.000000	441.990000	ancestors who with other men and women
 442.000000	443.990000	took to the streets on Easter Monday
 444.000000	447.990000	1916 to make a demand for independence
-448.000000	451.990000	and to spo- respond directly to the
+448.000000	451.972703	and to spo- respond directly to the
 452.000000	454.990000	consequences of imperialism in Ireland
 455.000000	458.990000	there were those who participated were
 459.000000	460.990000	women and men who risked everything in
@@ -393,4 +392,4 @@
 1281.000000	1283.990000	awesome good Elliott and law merely
 1284.000000	1285.990000	because you are also welcome to be
 1286.000000	1287.990000	sharing this occasion with us thank you
-1288.000000	1288.990000	very much
+1288.000000	1289.224787	very much
