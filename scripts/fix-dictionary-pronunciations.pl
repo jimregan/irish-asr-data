@@ -100,10 +100,17 @@ binmode(WAVSCP, ":utf8");
 
 my %spkutt = ();
 
+my %empty_list = (
+    'www.teanglann.ie/CanC/boladh coirp.mp3' => 1,
+    'www.teanglann.ie/CanC/buille adhmaid.mp3' => 1,
+    'www.teanglann.ie/CanM/fiabhras faireoige.mp3' => 1,
+);
+
 while(<>) {
     chomp;
     my $dialect = '';
     my ($file, $speaker) = split/\t/;
+    next if(exists $empty_list{$file});
     if (!defined $speaker || $speaker eq '') {
         $speaker = sprintf("unk%06d", $spk);
         $spk++;
