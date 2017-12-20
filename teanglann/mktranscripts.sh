@@ -1,1 +1,1 @@
-find $1 -name '*.mp3' |awk -F/ '{print $NF}'|sed -e 's/\.mp3$//' |perl -C7 -ane 'BEGIN{my $c = 0}{$c++;chomp;s/([nt])([AEIOUÁÉÍÓÚ])/$1-$2/g; print "<s> " . lc($_) . " </s> (" . sprintf("%07d", $c) . ")\n";}'
+find $1 -name '*.mp3' |awk -F/ '{print $NF}'|sed -e 's/\.mp3$//' |perl -C7 -ane 'BEGIN{my $c = 0}{$c++;chomp;s/([nt])([AEIOUÁÉÍÓÚ])/$1-$2/g;s/!//g; print "<s> " . lc($_) . " </s> (" . sprintf("%07d", $c) . ")\n";}'
