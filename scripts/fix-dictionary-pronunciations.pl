@@ -20,6 +20,8 @@ my %fixC = (
     'zúm' => 'súm',
     'zipeáil' => 'sipeáil',
     'zip' => 'sip',
+    'agam' => "a'am",
+    'agat' => "a'at",
     #vótóir = wótóir
 
 );
