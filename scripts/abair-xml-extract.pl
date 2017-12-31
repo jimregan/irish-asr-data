@@ -55,22 +55,31 @@ sub proc_file {
 
     my $root = $doc->documentElement;
     my($utt) = $root->findnodes('/utterance/sentence');
-    print TRANS $utt->getAttribute("input_string") . "\n";
+    my $input_string = $utt->getAttribute("input_string");
+    if($input_string) {
+        print TRANS "$input_string\n";
+    }
+    my $reconstructed = '';
 
     my %strs = (
         '0' => ".",
+        'None' => ".",
         '1' => "\N{U+02C8}",
         '2' => "\N{U+02CC}"
     );
 
     foreach my $xword ($doc->findnodes('/utterance/sentence/token/word')) {
         my $input_string = $xword->getAttribute("input_string");
-        my $word = ($input_string) ? $input_string : "<sil>";
+        my $string = $xword->getAttribute("string");
+        my $word = ($input_string) ? $input_string : ($string) ? $string : "<sil>";
         if(exists $norm_word{$word}) {
             $word = $norm_word{$word};
         }
-        if($input_string) {
+        if($input_string || $string) {
             print LEX "$word\t";
+            if($word ne 'silence') {
+                $reconstructed .= " $word";
+            }
         } else {
             print LEX "<sil>\t";
         }
@@ -88,6 +97,9 @@ sub proc_file {
             }
         }
         print LEX "\n";
+    }
+    if(!$input_string) {
+        print TRANS "$reconstructed\n";
     }
 }
 
