@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 get_pdf_name() {
 	base=$(basename $1 '.mp4')
@@ -12,4 +12,4 @@ get_pdf_name() {
 	esac
 }
 
-get_pdf_name 20120320mean.mp4
+
