@@ -1,4 +1,7 @@
+
+'dh eadh	dhea
 'ghá	á
+'gá	á
 'mó	mó
 'á	á
 Aesop	Aesóp
@@ -50,6 +53,10 @@ Thuathaig	Thuathaigh
 Tlachtga	Tlachta
 Tlachtgha	Tlachta
 Tuathaig	Tuathaigh
+a dh'imirt	ag imirt
+a dh'innsint	ag insint
+a dh'ithe	ag ithe
+a dh'ól	ag ól
 a réir dlighe	de réir dlí // check
 a's	is
 abaile	abhaile
@@ -57,12 +64,19 @@ abalta	ábalta
 abb	ab
 abhan	abhann
 abhfad	i bhfad
+abhfuil	a bhfuil
 abhí	a bhí
 aca	acu
+acfuinn	acmhainn
 acfuinneach	acmhainneach
+achmair	achomair
+achran	achrann
+acu-san	acusan
 adeireadh	a deireadh
+adeiridís	a deiridís
 adeirim	a deirim
 adhbhar	ábhar
+admhuigh	admhaigh
 admhuighim	admhaím
 adtuaidh	aduaidh
 adubhairt	a dúirt
@@ -73,11 +87,16 @@ aedhreacht	aeraíocht
 agaibh-se	agaibhse
 agam-sa	agamsa
 agat-sa	agatsa
+aice	aici
 aici-si	aicisí
+aicillígheachta	aclaíochta
+aidhe	aí
 aifrean	aifreann
 aige-sean	aigesean
+ainbhfios	ainbhios
 ainiar	aniar
 ainim	ainm
+ainimhíghe	ainimhí
 ainíos	aníos
 air fuid	ar fud
 air-sean	airsean
@@ -86,8 +105,13 @@ airigheadh	airíodh
 airiú	arú
 airís	arís
 aitean	aiteann
+aithnigheadh	aithníodh
+aithnighim	aithním
 alla	ealla
+alluis	allais
+allus	allas
 ameasg	i measc
+amhthach	áfach
 amuich	amuigh
 amus	amas
 amáireach	amárach
@@ -98,7 +122,11 @@ an-chinéalta	an-chineálta
 an-chompóirdeach	an-chompordach
 an-chompórdach	an-chompordach
 ana dhathúil	an-dathúil
+ana fhada	an-fhada
+ana láidir	an-láidir
+ana mhaith	an-mhaith
 ana mhór	an-mhór
+ana naomhtha	an-naofa
 ana-chúmhachtach	an-chumhachtach
 ana-dhathúil	an-dathúil
 ana-dhrochmhúinte	an-drochmhúinte
@@ -106,22 +134,36 @@ ana-óg	an-óg
 anadhathúil	an-dathúil
 anadhrochmhúinte	an-drochmhúinte
 anamh	annamh
+anródh	anró
 anáirde	in airde
+anál	anáil
 aoirde	airde
 aontígheas	aontíos
 aoírde	airde
+aragóint	argóint
 ard-ríogh	ardrí
 asta	astu
+atharach	athrach
+atharughadh	athrú
+atharuighthe	athraithe
 atúrnae	aturnae
 aér	aer
 a’s	is
 b' fhéidir	b'fhéidir
+b'ainim	b'ainm
+b'féidir	b'fhéidir
 badh	ba
 bailighthe	bailithe
+bailiughadh	bailiú
 bainfar	bainfear
+bainfí	bhainfí
+balcuis	balcais
 ban-phrionsa	banphrionsa
 banríghin	banríon
 baoghal	baol
+baoghalach	baolach
+basgaithe	basctha
+beannughadh	beannú
 beannuighthe	beannaithe
 beartughadh	beartú
 beartuighthe	beartaithe
@@ -194,8 +236,8 @@ brúth	brú
 buadh	bua
 budh	ba
 buidhchas	buíochas
-buidhe-bhreac	buíbhreac
 buidhe	buí
+buidhe-bhreac	buíbhreac
 buidheach	buíoch
 builg	boilg
 bulóige	bollóige
@@ -252,8 +294,8 @@ chorán	chorrán
 chosg	chosc
 choídhche	choíche
 chreideamhnacha	chreidiúnacha
-chroidhe-se	chroíse
 chroidhe	chroí
+chroidhe-se	chroíse
 chroídhe	chroí
 chruadh chás	chruachás
 chruadh-chás	chruachás
@@ -282,8 +324,8 @@ chómnuighe	chónaí
 chúgat	chugat
 chúghaibh	chugaibh
 chúghainn	chugainn
-chúgham-sa	chugamsa
 chúgham	chugam
+chúgham-sa	chugamsa
 chúghat	chugat
 chúichi	chuici
 chúil-fhéith	chúiléith
@@ -306,8 +348,8 @@ cos-ar-bolg	cos ar bolg
 cosdais	costais
 cosg	cosc
 creideamhnach	creidiúnach
-croidhe-se	croíse
 croidhe	croí
+croidhe-se	croíse
 croídhe	croí
 cruadh chás	cruachás
 cruadh-chás	cruachás
@@ -969,13 +1011,13 @@ ngiorfhiadh	ngiorria
 ngréin	ngrian
 nua-Ghaedhilge	Nua-Ghaeilge
 nách	nach
-nár bh' eadh	nárbh ea
 nár bh'	nárbh
+nár bh' eadh	nárbh ea
 nár bh'eadh	nárbh ea
 nár bh'é	nárbh é
 nár bh'í	nárbh í
-nár bh’ eadh	nárbh ea
 nár bh’	nárbh
+nár bh’ eadh	nárbh ea
 nár bh’eadh	nárbh ea
 nár bh’é	nárbh é
 nár bh’í	nárbh í
@@ -998,8 +1040,8 @@ olan	olann
 ollamhughadh	ullmhú
 ollmhúcháin	ullmhúcháin
 orm-sa	ormsa
-ortha-san	orthusan
 ortha	orthu
+ortha-san	orthusan
 osgailt	oscailt
 osguil	oscail
 oídhche	oíche
@@ -1086,8 +1128,8 @@ sgurtha	scortha
 sgáil	scáil
 sgáinte	scáinte
 sgáth	scáth
-sgéal-sa	scéalsa
 sgéal	scéal
+sgéal-sa	scéalsa
 sgéala	scéala
 sgéalaidheachta	scéalaíochta
 sgéalta	scéalta
@@ -1194,8 +1236,8 @@ thimcheall	thimpeall
 thineóntaidhe	thionóntaí
 thorm	tharam
 threó	threo
-thruagh-sa	thruasa
 thruagh	thrua
+thruagh-sa	thruasa
 thugan	thugann
 thuigsint	thuiscint
 thuille	thuilleadh
@@ -1290,7 +1332,9 @@ ziliúin	zilliúin
 úrlabhra	urlabhra
 úrláir	urláir
 úrlár	urlár
+’dh eadh	dhea
 ’ghá	á
+’gá	á
 ’mó	mó
 ’ná	ná
 ’á	á
