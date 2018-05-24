@@ -59,6 +59,7 @@ a dh'ithe	ag ithe
 a dh'ól	ag ól
 a réir dlighe	de réir dlí // check
 a's	is
+a-n	an
 abaile	abhaile
 abalta	ábalta
 abb	ab
@@ -207,6 +208,7 @@ bhánuigh	bhánaigh
 bhárr	bharr
 bhéadh	bheadh
 bhéidh	bheidh
+bhím-se	bhímse
 bhímís	bhímis
 bhíon	bhíonn
 bhítheas	bhíothas
@@ -220,44 +222,77 @@ bliadhna	bliana
 bolognaise	bolognese
 bosga	bosca
 bpoibilidheacht	bpoiblíocht
+bprísún	bpríosún
+bpócaíbh	bpócaí
+bpúint	bpuint
 bpúnc	bponc
+bpúnt	bpunt
 breagh	breá
 breaghtha	breátha
 breaghthacht	breáthacht
 breithniughadh	breathnú
 breoidhte	breoite
 breágh	breá
+breóite	breoite
 breóiteacht	breoiteacht
+breóiteachta	breoiteachta
+brothal	brothall
 brothalach	brothallach
+bruighean	bruíon
 brígh	brí
 bríghe	brí
 bríoghmhar	bríomhar
+brúighte	brúite
 brúth	brú
 buadh	bua
+buailteóra	buailteora
 budh	ba
+buidhchais	buíochais
 buidhchas	buíochas
 buidhe	buí
 buidhe-bhreac	buíbhreac
 buidheach	buíoch
+buidhean	buíon
+buidhne	buíne
 builg	boilg
 bulóige	bollóige
 bádh	bá
+báidh	bá
+báidheamhail	báúil
+báithte	báite
+bár	barr
 bárr	barr
 béimíd	beimid
+bím-se	bímse
+bínn	binn
+bíod	bíodh
 bíon	bíonn
+bórd	bord
+búird	boird
+búntáiste	buntáiste
 b’ fhéidir	b’fhéidir
 b’ éigean	b’éigean
 cabhrughadh	cabhrú
 caibidiol	caibidil
 cailleamhaint	cailliúint
 cainnt	caint
+cainteóirí	cainteoirí
+caithim-se	caithimse
 caithte	caite
+caithtí	caití
 camastuíol	camastaíl
+cancarach	cancrach
 cannta	canta
 capal	capall
 caraig	carraig
 caraige	carraige
+caráiste	carráiste
+catharach	cathrach
+cathughadh	cathú
+ceannaidhe	ceannaí
+ceannaigheadh	ceannaíodh
 ceannaighthe	ceannaithe
+ceannrach	ceanrach
 ceathramhadh	ceathrú
 ceisteana	ceisteanna
 ceistiuchán	ceistiúchán
@@ -266,6 +301,7 @@ ceólmhar	ceolmhar
 chaillean	chailleann
 chapal	chapall
 charaig	charraig
+cheann-sa	cheannsa
 cheannrach	cheanrach
 cheilg	chealg
 cheud	chéad
@@ -453,6 +489,7 @@ dathamhail	dathúil
 de'n	den
 deagh-chroídheach	dea-chroíoch
 dearbhughadh	dearbhú
+dearg-bhuile	deargbhuile
 dearg-ruathar	deargruathar
 deifrigheacht	difríocht
 deifrígheachta	difríochta
@@ -469,6 +506,7 @@ dh'fhoghlaim	d'fhoghlaim
 dh'fhéadfadh	d'fhéadfadh
 dh'iompóch'	d'iompódh
 dhaingniughadh	dhaingniú
+dhaor-smacht	dhaorsmacht
 dhaoíne	dhaoine
 dhathamhail	dhathúil
 dhearbhuigh	dhearbhaigh
@@ -506,9 +544,16 @@ do’n	don
 drangháire	dranngháire
 drangháirí	dranngháirí
 draoidheacht	draíocht
+droch aicme	drochaicme
+droch aigeanta	drochaigeanta
 droch aigne	drochaigne
 droch amhras	drochamhras
+droch ghníomhartha	drochghníomhartha
 droch iontaoibh	drochiontaoibh
+droch mheas	drochmheas
+droch mhúinte	drochmhúinte
+droch obair	drochobair
+droch-mhúinte	drochmhúinte
 droch-rud	drochrud
 dronnaighe	dronnaí
 dtagaidh	dtaga
@@ -526,7 +571,9 @@ dícheal	dícheall
 díoghaltas	díoltas
 díoghbháil	díobháil
 díoluigheachta	díolaíochta
+díom-sa	díomsa
 díomhaoín	díomhaoin
+díot-sa	díotsa
 dódhéag	dó dhéag
 dóibh-sin	dóibh sin
 dóich	dóigh
@@ -626,6 +673,7 @@ fhoghmhar	fhómhar
 fhuiseóg	fhuiseog
 fhághail	fháil
 fhéadfaimíd	fhéadfaimid
+fhéadfainn-se	fhéadfainnse
 fhéadfá-sa	fhéadfása
 fhóghanta	fhónta
 fiacala	fiacla
@@ -654,11 +702,13 @@ fuinneamhail	fuinniúil
 fuiseóg	fuiseog
 fuínseóige	fuinseoige
 féuchaint	féachaint
+fíor-dhílis	fíordhílis
 fóghanta	fónta
 gCionntsáile	gCionn tSáile
 gConchubhar	gConchúr
 gCondae	gContae
 gConndae	gContae
+gabhaim-se	gabhaimse
 gabhtha	gafa
 garaidhe	garraí
 garaidhthe	garraithe
@@ -731,50 +781,79 @@ gur bh’í	gurbh í
 gádh	gá
 gáirdín	gairdín
 géana	géanna
+h-Aifrinn	hAifrinn
+h-Arrachtáin	hArrachtáin
 h-Icídhe	hIcí
 h-Inis	hInis
+h-Ola	hOla
 h-abartha	habartha
 h-abhan	habhann
 h-achmair	hachomair
 h-aghaidh	haghaidh
 h-aigne	haigne
 h-aimsigheadh	haimsíodh
+h-aimsir	haimsir
 h-aimsire	haimsire
 h-ainmneacha	hainmneacha
 h-airc	hairc
+h-aireachas	haireachas
+h-airgead	hairgead
 h-airigheadh	hairíodh
+h-airm	hairm
+h-aiste	haiste
 h-aithbhliana	hathbhliana
 h-aithnightear	haithnítear
+h-aithreacha	haithreacha
 h-amháin	hamháin
+h-ana	hana
 h-anam	hanam
 h-aon	haon
+h-aonar	haonar
 h-athair	hathair
 h-athar	hathar
 h-eadh	hea
+h-eagla	heagla
 h-eochair	heochair
+h-inbhear	hinbhear
 h-innsint	hinsint
 h-inntinne	hintinne
 h-iomlán	hiomlán
+h-itheadh	hitheadh
+h-obair	hobair
+h-ocht	hocht
+h-ocrach	hocrach
+h-ofrála	hofrála
 h-oibre	hoibre
 h-oileáin	hoileáin
+h-ola	hola
 h-olc	holc
 h-ollamh	hullamh
 h-oídhche	hoíche
+h-uachtaráin	huachtaráin
+h-uaigneach	huaigneach
 h-uair	huair
 h-uaire	huaire
 h-uaisle	huaisle
+h-uaisleachta	huaisleachta
+h-uasal	huasal
 h-uathbhás	huafás
+h-uchtach	huchtach
 h-udhacht	huacht
+h-urchair	hurchair
+h-urchar	hurchar
 h-Éirean	hÉireann
 h-Éirinn	hÉirinn
 h-áit	háit
 h-áite	háite
 h-áluinn	hálainn
 h-árduigheadh	hardaíodh
+h-é	hé
+h-éadach	héadach
 h-éagcruas	héagruas
 h-éagcóra	héagóra
 h-éiligheadh	héilíodh
 h-éitheach	héitheach
+h-ógánaigh	hógánaigh
 hIcídhe	hIcí
 habhan	habhann
 hachmair	hachomair
@@ -820,6 +899,7 @@ i nÉirinn	in Éirinn
 i n’ áit	in áit
 i n’aice	in aice
 i n’áit	in áit
+iad-san	iadsan
 iaracht	iarracht
 iaraidh	iarraidh
 imeal	imeall
@@ -841,6 +921,7 @@ innsint	insint
 inte	inti
 iomdha	iomaí
 iompuighthe	iompaithe
+ionam-sa	ionamsa
 ionan	ionann
 iongantach	iontach
 iongantas	iontas
@@ -854,7 +935,12 @@ labhruigheadh	labhraíodh
 laé	lae
 le n-a	lena
 le na	lena
+leath-acra	leathacra
+leath-amadán	leathamadán
 leath-bhfabhar	leathbhfabhar
+leath-bhliana	leathbhliana
+leath-bhriste	leathbhriste
+leath-mhíle	leathmhíle
 leath-sgéal	leithscéal
 leath-sgéil	leithscéil
 leath-shúil	leathshúil
@@ -866,6 +952,7 @@ leithéid-se	leithéidse
 leó	leo
 león	leon
 leór	leor
+liom-sa	liomsa
 liúgh	liú
 liúghfad	liúfad
 liúghfainn	liúfainn
@@ -907,6 +994,9 @@ marbhuightear	maraítear
 marbhóchaidh	maróidh
 marbhóchar	marófar
 marcaidheacht	marcaíocht
+mb' fhéidir	mb'fhéidir
+mb' áil	mb'áil
+mb' éigean	mb'éigean
 mbadh	mba
 mbanríghin	mbanríon
 mbeimíd	mbeimid
@@ -941,12 +1031,14 @@ mharbhóch’	mharódh
 mharbhú'	mharú
 mheadhon	mheán
 mheón	mheon
+mhion-airgead	mhionairgead
 mhisde	mhiste
 mhothuigh	mhothaigh
 mhuinteardha	mhuinteartha
 mhuíntir	mhuintir
 mháighistir	mháistir
 mháighistiríbh	mháistiribh
+mháthair-se	mháthairse
 mhéaduigh	mhéadaigh
 mhí dheiridh an Fhoghmhair	Mhí Dheireadh Fómhair
 mhódh	mhodh
@@ -964,24 +1056,29 @@ máighistir	máistir
 má’s	más
 mí dheiridh an Fhoghmhair	Mí Dheireadh Fómhair
 mí-chúmtha	míchumtha
+mí-nádúrtha	mínádúrtha
 mí-ádhbharach	mí-ámharach
 módh	modh
 mór-is-fiú	mór is fiú
+mór-sheisear	mórsheisear
 mór-thímpal	mórthimpeall
 mórthímpal	mórthimpeall
 múinteóir	múinteoir
 m’athair-se	m’athairse
+n-Abhainn	nAbhainn
 n-Aifric	nAifric
 n-Euróip	nEoraip
 n-Ocht	nOcht
 n-Ubh	nUbh
 n-Uíbh	nUíbh
+n-a	na
 n-achran	n-achrann
 n-ainmhidhthe	n-ainmhithe
 n-atúrnae	n-aturnae
 n-earball	n-eireaball
 n-ollamhughadh	n-ullmhú
 n-uradhas	n-urrús
+n-Éag	nÉag
 n-Éirinn	nÉirinn
 n-Órd	nOrd
 n-áirighthe	n-áirithe
@@ -1040,6 +1137,7 @@ olan	olann
 ollamhughadh	ullmhú
 ollmhúcháin	ullmhúcháin
 orm-sa	ormsa
+ort-sa	ortsa
 ortha	orthu
 ortha-san	orthusan
 osgailt	oscailt
@@ -1052,6 +1150,7 @@ phléasgamair	phléascamar
 prísúnach	príosúnach
 puínn	puinn
 púnt	punt
+rabhadar-san	rabhadarsan
 raint	roinnt
 rathmhaire	rafaire
 riaghail	riail
@@ -1068,7 +1167,12 @@ ríghneas	righneas
 ríghtheighlach	rítheaghlach
 ríogh	rí
 ríoghamhail	ríúil
+ró bheag	róbheag
+ró dheacair	ródheacair
+ró dhian	ródhian
+ró dhéanach	ródhéanach
 ró dhéanaighe	ródhéanaí
+ró fhada	rófhada
 ró mhaith	rómhaith
 ró mhór	rómhór
 rómpa	rompu
@@ -1083,6 +1187,7 @@ seachtmhadh	seachtú
 seadh	sea
 sean Ghall	Sean-Ghall
 sean fhocal	seanfhocal
+sean-fhocal	seanfhocal
 seansúir	seamsúir
 seansúr	seamsúr
 seóladh	seoladh
@@ -1189,7 +1294,9 @@ síthchána	síochána
 síthchánta	síochánta
 t'aigne	d'aigne
 t-Abb	tAb
+t-Athair	tAthair
 t-Easbog	tEaspag
+t-Iarla	tIarla
 t-abb	t-ab
 t-ainmhíghe	t-ainmhí
 t-atharughadh	t-athrú
@@ -1206,6 +1313,7 @@ t-éirleach	t-eirleach
 t-ím	t-im
 t-órd	t-ord
 tSlánuightheóra	tSlánaitheora
+tabhair-se	tabhairse
 tagan	tagann
 tairbhthe	tairbhe
 taisbeáin	taispeáin
@@ -1234,6 +1342,7 @@ theastuigh	theastaigh
 thighearna	thiarna
 thimcheall	thimpeall
 thineóntaidhe	thionóntaí
+thoil-se	thoilse
 thorm	tharam
 threó	threo
 thruagh	thrua
@@ -1247,11 +1356,13 @@ thuiteadh	thiteadh
 thárla	tharla
 théidhinn	théinn
 thógfaidhe	thógfaí
+thógfainn-se	thógfainnse
 thúirling	thuirling
 tighe	tí
 tighearna	tiarna
 tighearnas	tiarnas
 tineóntaidhe	tionóntaí
+to-day	today
 toirmeasg	toirmeasc
 toisg	toisc
 tonóisg	tionóisc
@@ -1285,6 +1396,7 @@ tínteáin	tinteáin
 tóirthnighe	toirní
 túisge	túisce
 ua	Ó
+uaim-se	uaimse
 uair a’ chluig	uair an chloig
 uait-se	uaitse
 uaithe	uaithi
@@ -1322,6 +1434,7 @@ ziliúin	zilliúin
 ó n-a	óna
 ó'n	ón
 ó-dheas	ó dheas
+ó-s	ós
 ó-thuaidh	ó thuaidh
 ódheas	ó dheas
 óig	óg
@@ -1338,176 +1451,3 @@ ziliúin	zilliúin
 ’mó	mó
 ’ná	ná
 ’á	á
-bosga	bosca
-bpoibilidheacht	bpoiblíocht
-bprísún	bpríosún
-bpócaíbh	bpócaí
-bpúint	bpuint
-bpúnc	bponc
-bpúnt	bpunt
-breithniughadh	breathnú
-breágh	breá
-breóite	breoite
-breóiteacht	breoiteacht
-breóiteachta	breoiteachta
-brothal	brothall
-brothalach	brothallach
-bruighean	bruíon
-brígh	brí
-bríghe	brí
-bríoghmhar	bríomhar
-brúighte	brúite
-brúth	brú
-buadh	bua
-buailteóra	buailteora
-buidhchais	buíochais
-buidhchas	buíochas
-buidhe	buí
-buidheach	buíoch
-buidhean	buíon
-buidhne	buíne
-bulóige	bollóige
-báidh	bá
-báidheamhail	báúil
-báithte	báite
-bár	barr
-bárr	barr
-bínn	binn
-bíod	bíodh
-bíon	bíonn
-bórd	bord
-búird	boird
-búntáiste	buntáiste
-cabhrughadh	cabhrú
-cailleamhaint	cailliúint
-cainteóirí	cainteoirí
-caithim-se	caithimse
-caithte	caite
-caithtí	caití
-cancarach	cancrach
-cannta	canta
-caraig	carraig
-caraige	carraige
-caráiste	carráiste
-catharach	cathrach
-cathughadh	cathú
-ceannaidhe	ceannaí
-ceannaigheadh	ceannaíodh
-ceannaighthe	ceannaithe
-ceannrach	ceanrach
-bím-se	bímse
-deirim-se	deirimse
-tabhair-se	tabhairse
-a-n	an
-agaibh-se	agaibhse
-bhím-se	bhímse
-cheann-sa	cheannsa
-dearg-bhuile	deargbhuile
-deirim-se	deirimse
-dhaor-smacht	dhaorsmacht
-droch aicme	drochaicme
-droch aigeanta	drochaigeanta
-droch aigne	drochaigne
-droch ghníomhartha	drochghníomhartha
-droch iontaoibh	drochiontaoibh
-droch mheas	drochmheas
-droch mhúinte	drochmhúinte
-droch obair	drochobair
-droch-mhúinte	drochmhúinte
-duit-se	duitse
-díom-sa	díomsa
-díot-sa	díotsa
-fheadar-sa	fheadarsa
-fhéadfainn-se	fhéadfainnse
-fhéadfá-sa	fhéadfása
-fíor-dhílis	fíordhílis
-gabhaim-se	gabhaimse
-h-Aifrinn	hAifrinn
-h-Arrachtáin	hArrachtáin
-h-Ola	hOla
-h-abartha	habartha
-h-aimsir	haimsir
-h-aimsire	haimsire
-h-ainmneacha	hainmneacha
-h-airc	hairc
-h-aireachas	haireachas
-h-airgead	hairgead
-h-airm	hairm
-h-aiste	haiste
-h-aithreacha	haithreacha
-h-amháin	hamháin
-h-ana	hana
-h-anam	hanam
-h-aon	haon
-h-aonar	haonar
-h-athair	hathair
-h-athar	hathar
-h-eagla	heagla
-h-inbhear	hinbhear
-h-itheadh	hitheadh
-h-obair	hobair
-h-ocht	hocht
-h-ocrach	hocrach
-h-ofrála	hofrála
-h-oibre	hoibre
-h-ola	hola
-h-olc	holc
-h-uachtaráin	huachtaráin
-h-uaigneach	huaigneach
-h-uair	huair
-h-uaire	huaire
-h-uaisle	huaisle
-h-uaisleachta	huaisleachta
-h-uasal	huasal
-h-uchtach	huchtach
-h-urchair	hurchair
-h-urchar	hurchar
-h-Éirinn	hÉirinn
-h-áit	háit
-h-áite	háite
-h-é	hé
-h-éadach	héadach
-h-éitheach	héitheach
-h-ógánaigh	hógánaigh
-iad-san	iadsan
-ionam-sa	ionamsa
-leath-acra	leathacra
-leath-amadán	leathamadán
-leath-bhliana	leathbhliana
-leath-bhriste	leathbhriste
-leath-mhíle	leathmhíle
-liom-sa	liomsa
-m'athair-se	m'athairse
-mb' fhéidir	mb'fhéidir
-mb' áil	mb'áil
-mb' éigean	mb'éigean
-mhion-airgead	mhionairgead
-mháthair-se	mháthairse
-mí-nádúrtha	mínádúrtha
-mór-sheisear	mórsheisear
-n-Abhainn	nAbhainn
-n-Ubh	nUbh
-n-a	na
-n-Éag	nÉag
-orm-sa	ormsa
-ort-sa	ortsa
-rabhadar-san	rabhadarsan
-ró bheag	róbheag
-ró dheacair	ródheacair
-ró dhian	ródhian
-ró dhéanach	ródhéanach
-ró fhada	rófhada
-ró mhaith	rómhaith
-ró mhór	rómhór
-sean-fhocal	seanfhocal
-shean-athair	sheanathair
-t-Athair	tAthair
-t-Iarla	tIarla
-t-é	té
-tabhair-se	tabhairse
-thoil-se	thoilse
-thógfainn-se	thógfainnse
-to-day	today
-uaim-se	uaimse
-uait-se	uaitse
-ó-s	ós
