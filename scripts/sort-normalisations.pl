@@ -6,6 +6,20 @@ use utf8;
 
 my %xforms = (
 	'eamhai' => 'iúi',
+	'amhai' => 'úi',
+	'ighi' => 'í',
+	'amhadh' => 'ú',
+	'úbhai' => 'úi',
+	'ughadh' => 'ú',
+	'aidhea' => 'aío',
+	'aidhe' => 'aí',
+	'aigheadh' => 'aíodh',
+	'aighea' => 'aío',
+	'ighea' => 'ío',
+	'aidhe' => 'aí',
+	'idh' => 'í',
+	'uidhe' => 'uí',
+	'ui' => 'ai',
 	'n' => 'nn',
 	'l' => 'll',
 	'ó' => 'o',
@@ -14,9 +28,7 @@ my %xforms = (
 	'í' => 'i',
 	'ú' => 'u',
 	'eu' => 'éa',
-	'amhadh' => 'ú',
 	'sg' => 'sc',
-	'úbhai' => 'úi',
 	'th' => '',
 );
 
@@ -45,13 +57,18 @@ while(<>) {
 	if($new =~ / / && $old !~ / /) {
 		my $tmp = $new;
 		$tmp =~ s/ //;
-		if ($tmp eq $new) {
+		if ($tmp eq $old) {
 			print "$old\t$new\n";
 			next;
 		}
 	}
 
-#	for my $xf (keys %xforms) {
-#		my $
-#	}
+	for my $xf (keys %xforms) {
+		my $tmp = $old;
+		$tmp =~ s/$xf/$xforms{$xf}/;
+		if($tmp eq $new) {
+			print "$old\t$new\n";
+			last;
+		}
+	}
 }
