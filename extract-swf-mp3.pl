@@ -8,7 +8,7 @@ if (!@ARGV) {
 }
 
 if (`which swfextract` eq '') {
-	die "Can't find swfextract";
+	die "Can't find swfextract - do you have swftools installed?";
 }
 
 for my $file (@ARGV) {
