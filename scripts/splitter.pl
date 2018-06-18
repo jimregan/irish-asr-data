@@ -14,12 +14,14 @@ binmode(STDOUT, ":utf8");
 
 my $splitter = Lingua::Sentence->new("ga");
 
+my $slurp = '';
 while(<>) {
 	chomp;
 	s/\r//;
 	s/„//g;
 	next if(/^$/);
-	my $firstpass = $splitter->split($_);
-	print "$firstpass\n";
+	$slurp .= "$_ ";
 }
+my $firstpass = $splitter->split($slurp);
+print "$firstpass\n";
 
