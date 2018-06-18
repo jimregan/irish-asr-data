@@ -1,0 +1,12 @@
+-0.040000	2.340000	Sin é an chúis go bhfuil Jimín Máire Thaidhg ormsa
+-0.040000	2.340000	1
+3.050000	4.950000	Rugadh mé fadó fadó
+3.050000	4.950000	2
+5.660000	9.120000	Ní cuimhin liomsa cathain ach deir Sean-Bhríd go bhfuil trí bliana déag ó shin ann
+9.580000	12.350000	Sean-Bhríd féin a fuair mé sa bhfeamnaigh ag barr taoide
+12.960000	14.680000	Bhí sceitimíní orthu go léir i mo thaobh
+15.010000	16.570000	Bhí mé ag béicigh i mo dhícheall
+16.730000	20.110000	Thagadh mná an bhaile go léir isteach agus bhídís ag féachaint orm
+20.700000	24.610000	Is breá an t-uchtach atá aige bail ó Dhia ar an leanbh a deireadh Peig Neans
+25.070000	26.750000	Mhuiricín a deireadh Síle Eoin
+27.380000	29.840000	nach baileach a thug sé dhá shúil Shean-Thaidhg leis
