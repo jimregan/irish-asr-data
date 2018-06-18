@@ -4,6 +4,9 @@ use warnings;
 use strict;
 use utf8;
 
+binmode(STDIN, ":utf8");
+binmode(STDOUT, ":utf8");
+
 my %xforms = (
 	'eamhai' => 'iúi',
 	'amhai' => 'úi',
@@ -19,6 +22,27 @@ my %xforms = (
 	'aidhe' => 'aí',
 	'idh' => 'í',
 	'uidhe' => 'uí',
+	'uigh' => 'ai',
+	'ódh' => 'ú',
+	'mhth' => 'f',
+	'thbh' => 'f',
+	'thb' => 'f',
+	'ei' => 'i',
+	'ighe' => 'í',
+	'íghe' => 'í',
+	'sgio' => 'scea',
+	'ádhbh' => 'ámh',
+	'fh' => '',
+	'ugh' => 'ú',
+	'ana-' => 'an-',
+	'ana ' => 'an-',
+	'an ' => 'an-',
+	'ana-' => 'an',
+	'ana ' => 'an',
+	'an ' => 'an',
+	'an-' => 'an',
+	'chómh ' => 'chomh',
+	'chómh-' => 'chomh',
 	'ui' => 'ai',
 	'n' => 'nn',
 	'l' => 'll',
@@ -27,9 +51,13 @@ my %xforms = (
 	'é' => 'e',
 	'í' => 'i',
 	'ú' => 'u',
+	'u' => 'o',
 	'eu' => 'éa',
 	'sg' => 'sc',
 	'th' => '',
+	'\'' => '',
+	' ' => '',
+	'-' => '',
 );
 
 while(<>) {
@@ -38,22 +66,6 @@ while(<>) {
 	my $old = $wds[0];
 	my $new = $wds[1];
 
-	if($old =~ / / && $new !~ / /) {
-		my $tmp = $old;
-		$tmp =~ s/ //;
-		if ($tmp eq $new) {
-			print "$old\t$new\n";
-			next;
-		}
-	}
-	if($old =~ /\-/ && $new !~ /\-/) {
-		my $tmp = $old;
-		$tmp =~ s/\-//;
-		if ($tmp eq $new) {
-			print "$old\t$new\n";
-			next;
-		}
-	}
 	if($new =~ / / && $old !~ / /) {
 		my $tmp = $new;
 		$tmp =~ s/ //;
