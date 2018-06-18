@@ -1,4 +1,5 @@
 #!/bin/sh
+# Reader: Dara Ó Cinnéide
 
 # Chapters 5 & 6 are missing
 for i in 1 2 3 4 7 8 9 10 11 12
