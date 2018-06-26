@@ -35,6 +35,7 @@ for my $file (@files) {
 		print "Skipping: $file is a copy of $seen{$digest}\n";
 		next;
 	}
+#	print "\t\"$digest\" => \"$file\",\n";
 	my $outfile = "$PATH/$copyto{$digest}";
 	copy($infile, $outfile) or die "$!";
 }
