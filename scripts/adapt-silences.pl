@@ -105,10 +105,10 @@ if(exists $json->{'fragments'}) {
 		}
 		if(contains($frag, $sils[$i])) {
 			my $orig_i = $i;
-			while(contains($frag, $sils[$i]) && $i < $#sils) {
+			do {
 				$i++;
 				last if ($i == $#sils);
-			};
+			} while(contains($frag, $sils[$i]));
 			$frag->{'begin'} = $sils[$orig_i]->{'begin'};
 			$frag->{'end'} = $sils[$i]->{'end'};
 			$i++;
