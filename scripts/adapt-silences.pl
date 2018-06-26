@@ -10,7 +10,7 @@ use JSON;
 use File::Slurp;
 use Data::Dumper;
 
-binmode(STDOUT, ":utf8");
+#binmode(STDOUT, ":utf8");
 my $fn = $ARGV[0];
 my $silfn = $ARGV[1];
 
@@ -28,14 +28,14 @@ while(<SILS>) {
 	chomp;
 	next if($_ !~ /\t/);
 	my ($start, $end, $label) = split/\t/;
-	if($start > 0.0) {
+	if($start < 0.0) {
 		$start = 0.0;
 	}
 	my %cursil = ('begin' => $start, 'end' => $end, 'label' => $label);
 	push (@sils, \%cursil);
 	$sils{$start} = $idx;
 	$sile{$end} = $idx;
-	if($realstart == 0.0 || $start < $realstart ) {
+	if($realstart == 0 || $start < $realstart ) {
 		$realstart = $start;
 	}
 	if($end > $realend) {
@@ -71,9 +71,22 @@ sub overlap {
 	my $ol = $end - $begin;
 	($ol < 0) ? 0 : $ol;
 }
+sub contains {
+	my $a = shift;
+	my $b = shift;
+	if($a->{'begin'} <= $b->{'begin'}
+	  && $a->{'end'} >= $b->{'end'} 
+	  && $b->{'end'} >= $a->{'begin'} 
+	  && $b->{'begin'} <= $a->{'end'}) {
+		return 1;
+	} else {
+		return 0;
+	} 
+}
 
 my $json = decode_json($rawjson);
 if(exists $json->{'fragments'}) {
+	my $i = 0;
 	for my $frag (@{$json->{'fragments'}}) {
 		my $id = $frag->{'id'};
 
@@ -87,22 +100,21 @@ if(exists $json->{'fragments'}) {
 		my $begin = $frag->{'begin'};
 		my $end = $frag->{'end'};
 
-		# Brute force.
-		# Could try to be smarter, starting from the last i
-		# but this is cheap, so meh
-		my $i = 0;
 		while ($sils[$i]->{'end'} < $begin) {
 			$i++;
 		}
-		my $j = $#sils;
-		while ($sils[$j]->{'begin'} > $end) {
-			$j--;
-		}
-		if($i == $j) {
-			$frag->{'begin'} = $sils[$i]->{'begin'};
+		if(contains($frag, $sils[$i])) {
+			my $orig_i = $i;
+			while(contains($frag, $sils[$i]) && $i < $#sils) {
+				$i++;
+				last if ($i == $#sils);
+			};
+			$frag->{'begin'} = $sils[$orig_i]->{'begin'};
 			$frag->{'end'} = $sils[$i]->{'end'};
+			$i++;
 		}
 	}
 }
-
+#my %a = ('begin' => 0.2, 'end' => 1.4);
+#my %b = ('begin' => 0.4, 'end' => 1.1);
 print encode_json($json);
