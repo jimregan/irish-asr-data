@@ -71,12 +71,25 @@ sub overlap {
 	my $ol = $end - $begin;
 	($ol < 0) ? 0 : $ol;
 }
-sub contains {
+sub pure_contains {
 	my $a = shift;
 	my $b = shift;
 	if($a->{'begin'} <= $b->{'begin'}
 	  && $a->{'end'} >= $b->{'end'} 
 	  && $b->{'end'} >= $a->{'begin'} 
+	  && $b->{'begin'} <= $a->{'end'}) {
+		return 1;
+	} else {
+		return 0;
+	} 
+}
+sub contains {
+	my $a = shift;
+	my $b = shift;
+	my $fuzz = shift;
+	if($a->{'begin'} <= ($b->{'begin'} + $fuzz)
+	  && $a->{'end'} >= ($b->{'end'} - $fuzz)
+	  && $b->{'end'} >= $a->{'begin'}
 	  && $b->{'begin'} <= $a->{'end'}) {
 		return 1;
 	} else {
@@ -103,18 +116,19 @@ if(exists $json->{'fragments'}) {
 		while ($sils[$i]->{'end'} < $begin) {
 			$i++;
 		}
-		if(contains($frag, $sils[$i])) {
+		if(contains($frag, $sils[$i], 0.1)) {
 			my $orig_i = $i;
-			do {
-				$i++;
-				last if ($i == $#sils);
-			} while(contains($frag, $sils[$i]));
+			while($i < $#sils && contains($frag, $sils[$i + 1], 0.1)) {
+				if ($i == $#sils) {
+					last;
+				} else {
+					$i++;
+				}
+			};
 			$frag->{'begin'} = $sils[$orig_i]->{'begin'};
 			$frag->{'end'} = $sils[$i]->{'end'};
 			$i++;
 		}
 	}
 }
-#my %a = ('begin' => 0.2, 'end' => 1.4);
-#my %b = ('begin' => 0.4, 'end' => 1.1);
 print encode_json($json);
