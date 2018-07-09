@@ -16,11 +16,73 @@ my $first_page = 1;
 my $last_page = 1;
 my $pagenums = 'none';
 my $append = '';
+my $leftx;
+my $rightx;
+my $y;
+my $width;
+my $height;
+my $firstside;
+my $lastside;
 
 my $res = GetOptions("first=i" => \$first_page,
            "last=i" => \$last_page,
            "pagenums=s" => \$pagenums,
-           "appendpunct=s" => \$append);
+           "appendpunct=s" => \$append,
+           "leftx=i" => \$leftx,
+           "rightx=i" => \$rightx,
+           "y=i" => \$y,
+           "width=i" => \$width,
+           "height=i" => \$height,
+           "firstside=s" => \$firstside,
+           "lastside=s" => \$lastside);
+
+my $cmdleft = '';
+my $cmdright = '';
+if($leftx || $rightx || $y || $width || $height || $firstside || $lastside) {
+	my @set = ();
+	my @unset = ();
+	if(!$leftx) {
+		push @unset, "--leftx";
+	} else {
+		push @set, "--leftx";
+	}
+	if(!$rightx) {
+		push @unset, "--rightx";
+	} else {
+		push @set, "--rightx";
+	}
+	if(!$y) {
+		push @unset, "--y";
+	} else {
+		push @set, "--y";
+	}
+	if(!$width) {
+		push @unset, "--width";
+	} else {
+		push @set, "--width";
+	}
+	if(!$height) {
+		push @unset, "--height";
+	} else {
+		push @set, "--height";
+	}
+	if(!$firstside) {
+		push @unset, "--firstside";
+	} else {
+		push @set, "--firstside";
+	}
+	if(!$lastside) {
+		push @unset, "--lastside";
+	} else {
+		push @set, "--lastside";
+	}
+	if(@set && @unset) {
+		print "Error: option(s) " . join(", ", @set) . " used without: " . join(", ", @unset) . "\n";
+		die;
+	}
+	$cmdleft = " -x $leftx -y $y -W $width -H $height";
+	$cmdright = " -x $rightx -y $y -W $width -H $height";
+}
 
 my %appendpages = ();
 if($append ne '') {
@@ -43,9 +105,26 @@ if(`which pdftotext` eq '') {
 }
 
 for(my $i = $first_page; $i <= $last_page; $i++) {
-	open(my $cmdin, "-|:raw", "pdftotext -nopgbrk -eol unix -f $i -l $i \"$file\" -");
-	binmode($cmdin, ":utf8");
-	my $text = join('', <$cmdin>);
+	my $text = '';
+	if($cmdleft eq '' && $cmdright eq '') {
+		open(my $cmdin, "-|:raw", "pdftotext -nopgbrk -eol unix -f $i -l $i \"$file\" -");
+		binmode($cmdin, ":utf8");
+		$text = join('', <$cmdin>);
+		close($cmdin);
+	} else {
+		if(!($i == $first_page && $firstside eq 'r')) {
+			open(my $cmdinl, "-|:raw", "pdftotext -nopgbrk -eol unix -f $i -l $i $cmdleft \"$file\" -");
+			binmode($cmdinl, ":utf8");
+			$text = join('', <$cmdinl>);
+			close($cmdinl);
+		}
+		if(!($i == $last_page && $lastside eq 'l')) {
+			open(my $cmdinr, "-|:raw", "pdftotext -nopgbrk -eol unix -f $i -l $i $cmdright \"$file\" -");
+			binmode($cmdinr, ":utf8");
+			$text .= join('', <$cmdinr>);
+			close($cmdinr);
+		}
+	}
 	my @lines = split/\n/, $text;
 	my @filt = ();
 	for my $line (@lines) {
@@ -62,5 +141,4 @@ for(my $i = $first_page; $i <= $last_page; $i++) {
 		$filt[0] .= '.';
 	}
 	print join("\n", @filt) . "\n";
-	close($cmdin);
 }
