@@ -33,6 +33,15 @@ while(<MAP>) {
     $map{'GLOTTAL_STOP'} = "\N{U+0294}";
 }
 
+sub phmap {
+    my $ph = shift;
+    if(exists $map{$ph}) {
+        return $map{$ph};
+    } else {
+        print STDERR "Missing mapping for phone: $ph\n";
+    }
+}
+
 while(<>) {
     chomp;
     my @elems = split/ /;
@@ -42,7 +51,7 @@ while(<>) {
     next if($lem eq 'GLOTTAL_STOP');
     next if($lem eq 'SILENCE_TOKEN');
     my @phones = split/ /, $pron;
-    my @ophones = map { $map{$_} } @phones;
+    my @ophones = map { $phmap($_) } @phones;
     if(!@ophones) {
       print STDERR "Error in line: $_\n";
     }
