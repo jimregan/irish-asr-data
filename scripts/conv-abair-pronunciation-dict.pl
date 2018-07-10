@@ -43,6 +43,9 @@ while(<>) {
     next if($lem eq 'SILENCE_TOKEN');
     my @phones = split/ /, $pron;
     my @ophones = map { $map{$_} } @phones;
+    if(@ophones) {
+      print STDERR "Error in line: $_\n";
+    }
     my $right = join(" ", @ophones);
     $right =~ s/  +/ /g;
     next if($right eq '' && $lem =~ /^\p{Punct}+$/);
