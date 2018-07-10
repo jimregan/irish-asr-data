@@ -51,7 +51,7 @@ while(<>) {
     next if($lem eq 'GLOTTAL_STOP');
     next if($lem eq 'SILENCE_TOKEN');
     my @phones = split/ /, $pron;
-    my @ophones = map { $phmap($_) } @phones;
+    my @ophones = map { phmap($_) } @phones;
     if(!@ophones) {
       print STDERR "Error in line: $_\n";
     }
