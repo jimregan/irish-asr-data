@@ -57,11 +57,24 @@ while(<IN>) {
         }
         delete $vtt{$pieces[0]};
         # Deliberately not updating $previd; 'merge with previous' doesn't want this
-    } elsif($#pieces == 1 && $pieces[1] eq 'mp') {
+    } elsif($pieces[1] eq 'mp') {
         if($previd eq '') {
             die "previd unset";
         }
-        $vtt{$previd} .= " $vtt{$pieces[0]}";
+        my $text = $vtt{$id};
+        if($#pieces > 1) {
+            for(my $i = 2; $i <= $#pieces; $i += 2) {
+                my $what = quotemeta($pieces[$i]);
+                my $with = '';
+                if($i == $#pieces && $#pieces % 2 != 1) {
+                    $with = '';
+                } else {
+                    $with = $pieces[$i + 1];
+                }
+                $text =~ s/$what/$with/g;
+            }
+        } else {
+        $vtt{$previd} .= " $vtt{$text}";
         delete $vtt{$pieces[0]};
     } else {
         if($#pieces < 3) {

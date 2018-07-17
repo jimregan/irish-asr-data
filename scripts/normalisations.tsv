@@ -1,10 +1,11 @@
-
 'dh eadh	dhea
 'ghá	á
 'gá	á
 'mó	mó
+'n-a	'na
 'á	á
 Aesop	Aesóp
+Bermuda Beirmiúda
 Chionntsáile	Chionn tSáile
 Chonchubhair	Chonchúir
 Cionntsáile	Cionn tSáile
@@ -14,12 +15,15 @@ Conchubhar	Conchúr
 Críosdaidhe	Críostaí
 Críostaidhe	Críostaí
 Críostaidheachta	Críostaíochta
+D'á	Dá
+Dfhéadfá	D'fhéadfá
 Dhiarmuda	Dhiarmada
 Dhiarmuid	Dhiarmaid
 Dhómhnaill	Dhomhnaill
 Dhómhnall	Dhomhnall
 Diarmuid	Diarmaid
 Dómhnaill	Dónaill
+D’á	Dá
 Euróip	Eoraip
 Eóghan	Eoghan
 Eúróip	Eoraip
@@ -45,6 +49,7 @@ Lughnasa	Lúnasa
 Luimníghe	Luimnigh
 M'lsheachlainn	Maoilsheachlainn
 Midhe	Mí
+M’lsheachlainn	Maoilsheachlainn
 Nuadhat	Nuat
 Réidhleáin	Réileáin
 Seághan	Seán
@@ -59,6 +64,10 @@ a dh'imirt	ag imirt
 a dh'innsint	ag insint
 a dh'ithe	ag ithe
 a dh'ól	ag ól
+a dh’imirt	ag imirt
+a dh’innsint	ag insint
+a dh’ithe	ag ithe
+a dh’ól	ag ól
 a réir dlighe	de réir dlí // check
 a's	is
 a-n	an
@@ -140,6 +149,7 @@ anamh	annamh
 anródh	anró
 anáirde	in airde
 anál	anáil
+aoinne	éinne
 aoirde	airde
 aontígheas	aontíos
 aoírde	airde
@@ -168,6 +178,7 @@ baoghalach	baolach
 basgaithe	basctha
 beannughadh	beannú
 beannuighthe	beannaithe
+bear    béar
 beartughadh	beartú
 beartuighthe	beartaithe
 beathuighthe	beathaithe
@@ -186,7 +197,7 @@ bhaoghal	bhaol
 bheannuigh	bheannaigh
 bheannuighthe	bheannaithe
 bheartughadh	bheartú
-bheul	bhéal // 'bhuel' i dtéacs nua-aimseartha
+bheul	bhéal
 bheó	bheo
 bhfeirmeóir	bhfeirmeoir
 bhfhearr	bhfearr
@@ -223,6 +234,7 @@ bhíon	bhíonn
 bhítheas	bhíothas
 bhúntáiste	bhuntáiste
 biadh	bia
+bingo   biongó
 biotáile	biotáille
 bitheamhnach	bithiúnach
 bleachtfhéileacháin	bleachtfhéileacáin
@@ -281,6 +293,8 @@ búird	boird
 búntáiste	buntáiste
 b’ fhéidir	b’fhéidir
 b’ éigean	b’éigean
+b’ainim	b’ainm
+b’féidir	b’fhéidir
 cabhrughadh	cabhrú
 caibidiol	caibidil
 cailleamhaint	cailliúint
@@ -325,6 +339,7 @@ chnuc	chnoc
 chnuic	chnoic
 chodla	chodladh
 choimeádan	choimeádann
+choinghill	choinníll
 choláisde	choláiste
 chomhnaidhe	chónaí
 chomhnuidh	chónaigh
@@ -432,6 +447,7 @@ cé ’r bh’	cérbh
 cé'cu	cé acu
 céadna	céanna
 céireach	céarach
+cé’cu	cé acu
 cíosana	cíosanna
 cómhair	comhair
 cómhairigheadh	cómhairíodh
@@ -551,7 +567,10 @@ dhísgiughadh	dhísciú
 dhóich	dhóigh
 dhóithin	dhóthain
 dhúthchas	dhúchas
+dh’fhan	d’fhan
+dh’fhoghlaim	d’fhoghlaim
 dh’fhéadfadh	d’fhéadfadh
+dh’iompóch’	d’iompódh
 dlighe	dlí
 dlighthe	dlíthe
 dlígh	dlí
@@ -566,6 +585,7 @@ do’n	don
 drangháire	dranngháire
 drangháirí	dranngháirí
 draoidheacht	draíocht
+drithár	driothár
 droch aicme	drochaicme
 droch aigeanta	drochaigeanta
 droch aigne	drochaigne
@@ -584,7 +604,9 @@ dteangthacha	dteangacha
 dteighlach	dteaghlach
 dtreó	dtreo
 dtuairisgí	dtuairiscí
+dtugtí	dtugtaí
 dtuigean	dtuigeann
+dtéigheadh	dtéadh
 dtúirní	dtuirní
 dubhairt	dúirt
 dubhradar	dúradar
@@ -604,6 +626,7 @@ dóibh-sin	dóibh sin
 dóich	dóigh
 dóighte	dóite
 dómh-sa	domsa
+dúbha	dubha
 dúbhairt	dúirt
 dúbhradh	dúradh
 dúrthachtach	dúthrachtach
@@ -634,8 +657,11 @@ d’eirigh	d’éirigh
 d’eirigheadar	d’éiríodar
 d’fheuch	d’fhéach
 d’fheuchadar	d’fhéachadar
+d’fhuasgailt	d’fhuascailt
 d’fhuiling	d’fhulaing
 d’fhághail	d’fháil
+d’fhásgadh	d’fháscadh
+d’imtheacht	d’imeacht
 d’imthig	d’imigh
 d’imthigh	d’imigh
 d’imthigheadar	d’imíodar
@@ -646,6 +672,7 @@ d’innsint	d’insint
 d’iompuigh	d’iompaigh
 d’iompuigheadar	d’iompaíodar
 d’iongnadh	d’ionadh
+d’ollamhughadh	d’ullmhú
 d’osgail	d’oscail
 d’á	dá
 d’ár	dár
@@ -728,6 +755,7 @@ fuinneamhail	fuinniúil
 fuiseóg	fuiseog
 fuínseóige	fuinseoige
 fágan	fágann
+fághail	fáil
 fásgadh	fáscadh
 féachan	féachann
 féuchaint	féachaint
@@ -779,6 +807,7 @@ ghabhan	ghabhann
 ghaoíl	ghaoil
 gharaidhe	gharraí
 ghearadh	ghearradh
+ghioracht	ghiorracht
 ghiorfhiadh	ghiorria
 ghleusadh	ghléasadh
 ghoirgeach	ghairgeach
@@ -815,6 +844,8 @@ gur bh'í	gurbh í
 gur bh’	gurbh
 gur bh’é	gurbh é
 gur bh’í	gurbh í
+gur b’é	gurb é
+gur b’í	gurb í
 gádh	gá
 gáirdín	gairdín
 géana	géanna
@@ -852,6 +883,7 @@ h-eadh	hea
 h-eagla	heagla
 h-eochair	heochair
 h-inbhear	hinbhear
+h-ingheanaibh	hiníonaibh
 h-innsint	hinsint
 h-inntinne	hintinne
 h-iomlán	hiomlán
@@ -872,6 +904,7 @@ h-uair	huair
 h-uaire	huaire
 h-uaisle	huaisle
 h-uaisleachta	huaisleachta
+h-uaislibh	huaislibh
 h-uasal	huasal
 h-uathbhás	huafás
 h-uchtach	huchtach
@@ -976,6 +1009,7 @@ labhruigheadh	labhraíodh
 laé	lae
 le n-a	lena
 le na	lena
+leasuighthe	leasuithe
 leath-acra	leathacra
 leath-amadán	leathamadán
 leath-bhfabhar	leathbhfabhar
@@ -1059,6 +1093,9 @@ mbéidís	mbeidís
 mbéinn-se	mbeinnse
 mbíon	mbíonn
 mbórd	mbord
+mb’ fhéidir	mb’fhéidir
+mb’ áil	mb’áil
+mb’ éigean	mb’éigean
 me	mé
 meadhon	meán
 mearaidhe	mearaí
@@ -1078,6 +1115,7 @@ mharbhughadh	mharú
 mharbhóch'	mharódh
 mharbhóch’	mharódh
 mharbhú'	mharú
+mharbhú’	mharú
 mheadhon	mheán
 mheasg	mheasc
 mheathtacht	mheatacht
@@ -1093,6 +1131,7 @@ mháthair-se	mháthairse
 mhéaduigh	mhéadaigh
 mhí dheiridh an Fhoghmhair	Mhí Dheireadh Fómhair
 mhódh	mhodh
+miaow	meamh
 misde	miste
 mothuightear	mothaítear
 moíng	moing
@@ -1184,6 +1223,7 @@ níor bh'fhéidir	níorbh fhéidir
 níor bh’	níorbh
 níor bh’fhada	níorbh fhada
 níor bh’fhearr	níorbh fhearr
+níor bh’fhéidir	níorbh fhéidir
 ní’l	níl
 oidhche	oíche
 oificeach	oifigeach
@@ -1327,6 +1367,7 @@ shocaruigheadar	shocraíodar
 shoin	shin
 sholusmhara	sholasmhara
 sholuídí	sholaoidí
+shuaraighe	shuaraí
 shuaraíghe	shuaraí
 shuidhe	shuí
 shuidheadh	shuíodh
@@ -1342,6 +1383,7 @@ siúbhail	siúil
 siúbhal	siúl
 sluagh	slua
 slánuightheóra	slánaitheora
+slíghe	slí
 slóighte	slóite
 socarughadh	socrú
 socaruigheadh	socraíodh
@@ -1427,6 +1469,7 @@ thorm	tharam
 threó	threo
 thruagh	thrua
 thruagh-sa	thruasa
+thu	thú
 thugan	thugann
 thuigean	thuigeann
 thuigsint	thuiscint
@@ -1447,6 +1490,7 @@ tighearnas	tiarnas
 tineóntaidhe	tionóntaí
 tionóisg	tionóisc
 to-day	today
+tofu	tófú
 toirmeasg	toirmeasc
 toirmisg	toirmisc
 toisg	toisc
@@ -1461,6 +1505,7 @@ trímhadh	tríú
 trínse	trinse
 tsaoghail	tsaoil
 tsaoghal	tsaol
+tseachtmhain	tseachtain
 tseansúir	tseamsúir
 tseansúr	tseamsúr
 tseómra	tseomra
@@ -1482,6 +1527,7 @@ tíncéir	tincéir
 tínteáin	tinteáin
 tóirthnighe	toirní
 túisge	túisce
+t’aigne	d’aigne
 ua	Ó
 uaim-se	uaimse
 uair a’ chluig	uair an chloig
@@ -1493,6 +1539,7 @@ ubhall	úll
 ughdarás	údarás
 uisge	uisce
 urama	urraime
+yoga	ióga
 ziliúin	zilliúin
 Árd-Rígh	Ardrí
 Éirean	Éireann
@@ -1541,5 +1588,6 @@ ziliúin	zilliúin
 ’ghá	á
 ’gá	á
 ’mó	mó
+’n-a	’na
 ’ná	ná
 ’á	á
