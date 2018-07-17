@@ -29,6 +29,7 @@ my %fixM = (
     'a fhad le' => 'fad le',
     'dearmad' => 'dearúd',
     'zónáilte' => 'zónáilthe',
+    'seinn' => 'seinm',
 );
 
 sub get_replacement {
