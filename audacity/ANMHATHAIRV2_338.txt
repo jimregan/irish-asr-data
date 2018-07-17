@@ -1,0 +1,20 @@
+-0.060000	4.690000	Bhí comhluadar ban ag sníomh bréidín tigh Bhairbre an Droichid oíche airneáin
+5.790000	13.980000	Ba cheol leat a bheith ag éisteacht leo agus a nglórtha ag déanamh comhbhinnis le dordán na dtuirní, mar a bhíos glór an tseamsúir le crónán na ndos
+15.231749	16.620858	Cluineadh an scread
+17.073127	19.140639	An naíonán a labhair trína chodladh
+19.830000	22.823394	Drochrud a ghabh thar an doras arsa Bairbre
+22.888004	25.052431	Éirigh, a Mháire, agus bog an cliabhán
+26.086187	28.379833	D'éirigh an bhean ar labhraíodh léi
+28.815949	32.288723	Bhí sí ina suí ar an urlár go dtí sin ag cardáil
+32.773296	34.404692	Chuaigh sí anonn go dtí an cliabhán
+35.280000	40.106502	Bhí an naíonán ina lándúiseacht roimpi agus é ag caoineachán go truamhéalach
+40.946429	43.756953	D’ísligh Máire ar a glúine le hais an chliabháin
+44.289984	48.215026	Chomh luath is a chonaic an leanbh a haghaidh, stad sé den chaoineachán
+48.489618	57.777269	Aghaidh fhada fhíorghreanta a bhí uirthi, mala mhín leathan, gruaig dhubh agus í casta ina triopaill fhada faoina ceann
+58.640000	65.160000	agus dhá  shúil ghlasa aici a dhearcfadh go mall maorga agus go buartha brónach ort
+66.630000	79.030000	Bhí sé de bhua ag Máire go gceansaítí leanbh crosta nó go gcodlaíodh leanbh breoite le féachaint ar an aghaidh mhín mhánla úd aici agus ar na súile glasa grámhara úd aici
+79.950000	84.260000	Thosaigh Máire ag gabháil Chrónán na Banaltra de ghlór íseal
+85.080000	88.510000	Stad na mná eile den chomhrá ionas go n-éistfidís léi
+89.759096	92.714992	Ba ghearr go raibh an naíonán ina thoirchim suain
+93.377242	97.189217	D'éirigh Máire agus chuaigh ar ais go dtí an áit ina raibh sí ina suí cheana
+97.463808	99.353643	Thosaigh uirthi ag cardáil arís

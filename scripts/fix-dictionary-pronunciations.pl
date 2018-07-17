@@ -12,7 +12,6 @@ binmode(STDOUT, ":utf8");
 my %fixU = (
     'éigin' => 'inteacht',
     'a Dhia' => 'Dhia',
-    'a fhad le' => 'fhad le',
 );
 my %fixC = (
     'éigin' => 'eicint',
@@ -22,14 +21,15 @@ my %fixC = (
     'zip' => 'sip',
     'agam' => "a'am",
     'agat' => "a'at",
-    #vótóir = wótóir
 
 );
 my %fixM = (
     'éigin' => 'éigint',
     'fáil' => 'fáilt',
     'a fhad le' => 'fad le',
-    # zónáilte = zónáilthe
+    'dearmad' => 'dearúd',
+    'zónáilte' => 'zónáilthe',
+    'seinn' => 'seinm',
 );
 
 sub get_replacement {
