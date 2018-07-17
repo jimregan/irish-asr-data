@@ -64,10 +64,20 @@ if(exists $jsonr->{'fragments'}) {
 					}
 					my $plusstr = join(" ", @tmp);
 					@tmp = ();
-					for my $aminus (sort { $a <=> $b } keys %minus) {
-						push @tmp, $minus{$aminus};
+					my @minkeys = sort { $a <=> $b } keys %minus;
+					my $minusstr = '';
+					if($#minkeys == 0 && $minus{$minkeys[0]} eq '') {
+						if($minkeys[0] > 0) {
+							$minusstr = $lwords[$minkeys[0] - 1] . " " . $minus{$minkeys[0]};
+						} else {
+							$minusstr = $minus{$minkeys[0]} . " " . $lwords[$minkeys[0] + 1];
+						}
+					} else {
+						for my $aminus (@minkeys) {
+							push @tmp, $minus{$aminus};
+						}
+						$minusstr = join(" ", @tmp);
 					}
-					my $minusstr = join(" ", @tmp);
 					@tmp = ();
 					print "$fname\t$frag->{'id'}\t$minusstr\t$plusstr\n";
 				}
