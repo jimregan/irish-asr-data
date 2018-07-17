@@ -22,12 +22,14 @@ while(<STDIN>) {
     s/—/ /g;
     s/;/ /g;
 
+    s/‘//g;
     s/’/'/g;
 
     s/  */ /g;
 
     for my $word (split/ /) {
         my $lcword = irishlc($word);
+        $lcword =~ s/'$//;
         print "$lcword ";
     }
     print "\n";
