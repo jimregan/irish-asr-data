@@ -58,27 +58,29 @@ if(exists $jsonr->{'fragments'}) {
 						}
 					}
 					#print "Error: " . Dumper(@$diffg) . "\n" if(!checkseq \%plus);
-					my @tmp = ();
-					for my $aplus (sort { $a <=> $b } keys %plus) {
-						push @tmp, $plus{$aplus};
+					my @plustmp = ();
+					my @pluskeys = sort { $a <=> $b } keys %plus;
+					for my $aplus (@pluskeys) {
+						push @plustmp, $plus{$aplus};
 					}
-					my $plusstr = join(" ", @tmp);
-					@tmp = ();
 					my @minkeys = sort { $a <=> $b } keys %minus;
-					my $minusstr = '';
-					if($#minkeys == 0 && $minus{$minkeys[0]} eq '') {
-						if($minkeys[0] > 0) {
-							$minusstr = $lwords[$minkeys[0] - 1] . " " . $minus{$minkeys[0]};
+					my @minustmp = ();
+					if(@pluskeys && !@minkeys) {
+						print "### $pluskeys[0]\n\n" if (@pluskeys);
+						if($pluskeys[0] != 0) {
+							unshift @minustmp, $lwords[$pluskeys[0] - 1];
+							unshift @plustmp, $rwords[$pluskeys[0]];
 						} else {
-							$minusstr = $minus{$minkeys[0]} . " " . $lwords[$minkeys[0] + 1];
+							push @minustmp, $lwords[$pluskeys[0] + 1];
+							push @plustmp, $rwords[$pluskeys[0] + 1];
 						}
 					} else {
 						for my $aminus (@minkeys) {
-							push @tmp, $minus{$aminus};
+							push @minustmp, $minus{$aminus};
 						}
-						$minusstr = join(" ", @tmp);
 					}
-					@tmp = ();
+					my $minusstr = (@minustmp) ? join(" ", @minustmp) : '';
+					my $plusstr = (@plustmp) ? join(" ", @plustmp) : '';
 					print "$fname\t$frag->{'id'}\t$minusstr\t$plusstr\n";
 				}
 			}
