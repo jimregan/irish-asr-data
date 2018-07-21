@@ -44,7 +44,8 @@ while(<>) {
 	chomp;
 	my @line = split/\t/;
 	if($#line != 4) {
-		print STDERR "$_\n";
+		print STDERR "Incorrect number of elements: $_\n";
+		next;
 	}
 	my $id = $line[0];
 	my $speaker = $line[1];
