@@ -57,6 +57,7 @@ while(<>) {
 	my @outwords = ();
 	if($#phones != $#words) {
 		print STDERR "Text/phone mismatch: $_\n";
+		next;
 	}
 	for(my $i = 0; $i <= $#words; $i++) {
 		if(!exists $prons{$words[$i]}{$phones[$i]}) {
