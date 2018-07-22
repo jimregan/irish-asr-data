@@ -39,7 +39,6 @@ if(exists $jsonr->{'fragments'}) {
 	for my $frag (@{$jsonr->{'fragments'}}) {
 		if(exists $comp{$frag->{'id'}}) {
 			my $right = join(" ", @{$frag->{'lines'}});
-			# @{$comp{$frag->{'id'}}->{'lines'}} <- this is why people hate perl
 			my $left = join(" ", @{$comp{$frag->{'id'}}->{'lines'}});
 			my @lwords = split/ /, $left;
 			my @rwords = split/ /, $right;
@@ -57,7 +56,6 @@ if(exists $jsonr->{'fragments'}) {
 							print "Error in diff: @$diff\n";
 						}
 					}
-					#print "Error: " . Dumper(@$diffg) . "\n" if(!checkseq \%plus);
 					my @plustmp = ();
 					my @pluskeys = sort { $a <=> $b } keys %plus;
 					for my $aplus (@pluskeys) {
@@ -66,15 +64,15 @@ if(exists $jsonr->{'fragments'}) {
 					my @minkeys = sort { $a <=> $b } keys %minus;
 					my @minustmp = ();
 					if(@pluskeys && !@minkeys) {
-						print "### $pluskeys[0] $lwords[$pluskeys[0]] $lwords[$pluskeys[1]] : $rwords[$pluskeys[0]] $rwords[$pluskeys[1]]\n\n" if (@pluskeys);
+						print "### $pluskeys[0] $lwords[$pluskeys[0]] $lwords[$pluskeys[0]+1] : $rwords[$pluskeys[0]] $rwords[$pluskeys[0]+1]\n\n" if (@pluskeys);
 						if($pluskeys[0] != 0) {
-print STDERR "a\n";
-							push @minustmp, $lwords[$pluskeys[0]];
+print STDERR "[0] != 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] + 1]\n";
+							push @minustmp, $lwords[$pluskeys[0] + 1];
 							push @plustmp, $rwords[$pluskeys[0]];
 						} else {
-print STDERR "b\n";
-							unshift @minustmp, $lwords[$pluskeys[0]];
-							unshift @plustmp, $rwords[$pluskeys[0] + 1];
+print STDERR "[0] == 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] - 1]\n";
+							unshift @minustmp, $lwords[$pluskeys[0] - 1];
+							unshift @plustmp, $rwords[$pluskeys[0] - 1];
 						}
 					} else {
 						for my $aminus (@minkeys) {
