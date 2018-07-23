@@ -71,8 +71,8 @@ print STDERR "[0] != 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] + 1]\n";
 							push @plustmp, $rwords[$pluskeys[0]];
 						} else {
 print STDERR "[0] == 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] - 1]\n";
-							unshift @minustmp, $lwords[$pluskeys[0] - 1];
-							unshift @plustmp, $rwords[$pluskeys[0] - 1];
+							unshift @minustmp, $lwords[$pluskeys[0]];
+							push @plustmp, $rwords[$pluskeys[0]];
 						}
 					} else {
 						for my $aminus (@minkeys) {
