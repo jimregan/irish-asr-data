@@ -64,13 +64,10 @@ if(exists $jsonr->{'fragments'}) {
 					my @minkeys = sort { $a <=> $b } keys %minus;
 					my @minustmp = ();
 					if(@pluskeys && !@minkeys) {
-						print "### $pluskeys[0] $lwords[$pluskeys[0]] $lwords[$pluskeys[0]+1] : $rwords[$pluskeys[0]] $rwords[$pluskeys[0]+1]\n\n" if (@pluskeys);
 						if($pluskeys[0] != 0) {
-print STDERR "[0] != 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] + 1]\n";
 							push @minustmp, $lwords[$pluskeys[0] + 1];
 							push @plustmp, $rwords[$pluskeys[0]];
 						} else {
-print STDERR "[0] == 0: $lwords[$pluskeys[0]] $lwords[$pluskeys[0] - 1]\n";
 							unshift @minustmp, $lwords[$pluskeys[0]];
 							push @plustmp, $rwords[$pluskeys[0]];
 						}
