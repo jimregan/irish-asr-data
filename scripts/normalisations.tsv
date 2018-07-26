@@ -1,1545 +1,2531 @@
-
-'dh eadh	dhea
-'ghá	á
-'gá	á
-'mó	mó
-'á	á
-Aesop	Aesóp
-Chionntsáile	Chionn tSáile
-Chonchubhair	Chonchúir
-Cionntsáile	Cionn tSáile
-Conacht	Connacht
-Conchubhair	Conchúir
-Conchubhar	Conchúr
-Críosdaidhe	Críostaí
-Críostaidhe	Críostaí
-Críostaidheachta	Críostaíochta
-Dhiarmuda	Dhiarmada
-Dhiarmuid	Dhiarmaid
-Dhómhnaill	Dhomhnaill
-Dhómhnall	Dhomhnall
-Diarmuid	Diarmaid
-Dómhnaill	Dónaill
-Euróip	Eoraip
-Eóghan	Eoghan
-Eúróip	Eoraip
-Fhian	Fhiann
-Fhrainncis	Fhraincis
-Fiana	Fianna
-Frainncis	Fraincis
-Frainncise	Fraincise
-Gaedhal	Gael
-Gaedhil	Gaeil
-Gaedhilge	Gaeilge
-Gaedhlacha	Gaelacha
-Ghaedhilge	Ghaeilge
-Ghormfhlaith	Ghormlaith
-Gormfhlaith	Gormlaith
-H-AON	hAON
-Icídhe	Icí
-Laidne	Laidine
-Laoghaire	Laeire
-Lochlanach	Lochlannach
-Lochlanaigh	Lochlannaigh
-Lughnasa	Lúnasa
-Luimníghe	Luimnigh
-M'lsheachlainn	Maoilsheachlainn
-Midhe	Mí
-Nuadhat	Nuat
-Réidhleáin	Réileáin
-Seághan	Seán
-Sheághain	Sheáin
-Shéadna	Shéanna
-Séadha	Sé
-Thuathaig	Thuathaigh
-Tlachtga	Tlachta
-Tlachtgha	Tlachta
-Tuathaig	Tuathaigh
-a dh'imirt	ag imirt
-a dh'innsint	ag insint
-a dh'ithe	ag ithe
-a dh'ól	ag ól
-a réir dlighe	de réir dlí // check
-a's	is
-a-n	an
-abaile	abhaile
-abalta	ábalta
-abb	ab
-abhan	abhann
-abhfad	i bhfad
-abhfuil	a bhfuil
-abhí	a bhí
-aca	acu
-acfuinn	acmhainn
-acfuinneach	acmhainneach
-achmair	achomair
-achran	achrann
-acu-san	acusan
-adeireadh	a deireadh
-adeiridís	a deiridís
-adeirim	a deirim
-adhbhar	ábhar
-admhuigh	admhaigh
-admhuighim	admhaím
-adtuaidh	aduaidh
-adubhairt	a dúirt
-adéarfaidh	a déarfaidh
-adúbhairt	a dúirt
-adúbhart	a dúirt
-aedhreacht	aeraíocht
-agaibh-se	agaibhse
-agam-sa	agamsa
-agat-sa	agatsa
-aice	aici
-aici-si	aicisí
-aicillígheachta	aclaíochta
-aidhe	aí
-aifrean	aifreann
-aige-sean	aigesean
-ainbhfios	ainbhios
-ainiar	aniar
-ainim	ainm
-ainimhíghe	ainimhí
-ainíos	aníos
-air fuid	ar fud
-air-sean	airsean
-airigheadar	airíodar
-airigheadh	airíodh
-airiú	arú
-airís	arís
-aitean	aiteann
-aithnigheadh	aithníodh
-aithnighim	aithním
-alla	ealla
-alluis	allais
-allus	allas
-ameasg	i measc
-amhthach	áfach
-amuich	amuigh
-amus	amas
-amáireach	amárach
-amú'	amú
-amú’	amú
-an-bhrodúil	an-bhródúil
-an-chinéalta	an-chineálta
-an-chompóirdeach	an-chompordach
-an-chompórdach	an-chompordach
-ana dhathúil	an-dathúil
-ana fhada	an-fhada
-ana láidir	an-láidir
-ana mhaith	an-mhaith
-ana mhór	an-mhór
-ana naomhtha	an-naofa
-ana-chúmhachtach	an-chumhachtach
-ana-dhathúil	an-dathúil
-ana-dhrochmhúinte	an-drochmhúinte
-ana-óg	an-óg
-anadhathúil	an-dathúil
-anadhrochmhúinte	an-drochmhúinte
-anamh	annamh
-anródh	anró
-anáirde	in airde
-anál	anáil
-aoirde	airde
-aontígheas	aontíos
-aoírde	airde
-aragóint	argóint
-ard-ríogh	ardrí
-asta	astu
-atharach	athrach
-atharughadh	athrú
-atharuighthe	athraithe
-atúrnae	aturnae
-aér	aer
-a’s	is
-b' fhéidir	b'fhéidir
-b'ainim	b'ainm
-b'féidir	b'fhéidir
-badh	ba
-bailighthe	bailithe
-bailiughadh	bailiú
-bainfar	bainfear
-bainfí	bhainfí
-balcuis	balcais
-ban-phrionsa	banphrionsa
-banríghin	banríon
-baoghal	baol
-baoghalach	baolach
-basgaithe	basctha
-beannughadh	beannú
-beannuighthe	beannaithe
-beartughadh	beartú
-beartuighthe	beartaithe
-beathuighthe	beathaithe
-beirean	beireann
-beithidhigh	beithígh
-beithigheach	beithíoch
-beó	beo
-bhFrainnc	bhFrainc
-bhFrainncis	bhFraincis
-bhadh	ba
-bhainean	bhaineann
-bhan-fhlaith	bhanfhlaith
-bhan-phrionsa	bhanphrionsa
-bhanríghin	bhanríon
-bhaoghal	bhaol
-bheannuigh	bheannaigh
-bheannuighthe	bheannaithe
-bheartughadh	bheartú
-bheul	bhéal // 'bhuel' i dtéacs nua-aimseartha
-bheó	bheo
-bhfeirmeóir	bhfeirmeoir
-bhfhearr	bhfearr
-bhfuirm	bhfoirm
-bhfáisgtí	bhfáisctí
-bhfásgadh	bhfáscadh
-bhféadan	bhféadann
-bhféadfaimís	bhféadfaimis
-bhi	bhí
-bhiadh	bhia
-bhiotáile	bhiotáille
-bhreagh	bhreá
-bhreitheamhantas	bhreithiúntas
-bhreágh	bhreá
-bhreóiteacht	bhreoiteacht
-bhreóiteachtaí	bhreoiteachtaí
-bhrisean	bhriseann
-bhrothalach	bhrothallach
-bhréag-éadaí	bhréagéidí
-bhrígh	bhrí
-bhrúth	bhrú
-bhuadhfaidís	bhuafaidís
-bhuailean	bhuaileann
-bhuidhchais	bhuíochais
-bhuidhe	bhuí
-bhulóg	bhollóg
-bhánuigh	bhánaigh
-bhárr	bharr
-bhéadh	bheadh
-bhéidh	bheidh
-bhím-se	bhímse
-bhímís	bhímis
-bhíon	bhíonn
-bhítheas	bhíothas
-bhúntáiste	bhuntáiste
-biadh	bia
-biotáile	biotáille
-bitheamhnach	bithiúnach
-bleachtfhéileacháin	bleachtfhéileacáin
-bleachtfhéileácán	bleachtfhéileacán
-bliadhain	bliain
-bliadhna	bliana
-bolognaise	bolognese
-bosga	bosca
-bpoibilidheacht	bpoiblíocht
-bprísún	bpríosún
-bpúint	bpuint
-bpúnc	bponc
-bpúnt	bpunt
-breagh	breá
-breaghtha	breátha
-breaghthacht	breáthacht
-breithniughadh	breathnú
-breoidhte	breoite
-breágh	breá
-breóite	breoite
-breóiteacht	breoiteacht
-breóiteachta	breoiteachta
-brothal	brothall
-brothalach	brothallach
-bruighean	bruíon
-brígh	brí
-bríghe	brí
-bríoghmhar	bríomhar
-brúighte	brúite
-brúth	brú
-buadh	bua
-buailteóra	buailteora
-budh	ba
-buidhchais	buíochais
-buidhchas	buíochas
-buidhe	buí
-buidhe-bhreac	buíbhreac
-buidheach	buíoch
-buidhean	buíon
-buidhne	buíne
-builg	boilg
-bulóige	bollóige
-bádh	bá
-báidh	bá
-báidheamhail	báúil
-báithte	báite
-bár	barr
-bárr	barr
-béimíd	beimid
-bím-se	bímse
-bínn	binn
-bíod	bíodh
-bíon	bíonn
-bórd	bord
-búird	boird
-búntáiste	buntáiste
-b’ fhéidir	b’fhéidir
-b’ éigean	b’éigean
-cabhrughadh	cabhrú
-caibidiol	caibidil
-cailleamhaint	cailliúint
-cainnt	caint
-cainteóirí	cainteoirí
-caithim-se	caithimse
-caithte	caite
-caithtí	caití
-camastuíol	camastaíl
-cancarach	cancrach
-cannta	canta
-capal	capall
-caraig	carraig
-caraige	carraige
-caráiste	carráiste
-catharach	cathrach
-cathughadh	cathú
-ceannaidhe	ceannaí
-ceannaigheadh	ceannaíodh
-ceannaighthe	ceannaithe
-ceannrach	ceanrach
-ceathramhadh	ceathrú
-ceisteana	ceisteanna
-ceistiuchán	ceistiúchán
-ceó	ceo
-ceólmhar	ceolmhar
-chaillean	chailleann
-chapal	chapall
-charaig	charraig
-cheann-sa	cheannsa
-cheannrach	cheanrach
-cheapan	cheapann
-cheilg	chealg
-cheud	chéad
-cheudna	chéanna
-cheó	cheo
-chipineach	chipíneach
-chlaidh	chlaí
-chlaidhe	chlaí
-chlaoidh	chloí
-chnuc	chnoc
-chnuic	chnoic
-chodla	chodladh
-choimeádan	choimeádann
-choláisde	choláiste
-chomhnaidhe	chónaí
-chomhnuidh	chónaigh
-chomhrádh	chomhrá
-chompóirdeach	chompordach
-chompórdach	chompordach
-chomrádaidhe	chomrádaí
-chongnamh	chúnamh
-chongáil	choinneáil
-chonnaic	chonaic
-chorbhuais	chorrabhuais
-chorruigh	chorraigh
-chorán	chorrán
-chosg	chosc
-choídhche	choíche
-chreideamhnacha	chreidiúnacha
-chroidhe	chroí
-chroidhe-se	chroíse
-chroídhe	chroí
-chruadh chás	chruachás
-chruadh-chás	chruachás
-chruadhtan	chruatan
-chruinniughadh	chruinniú
-chráidhteacht	chráiteacht
-chuaidh	chuaigh
-chuaird	chuairt
-chualacht	chuallacht
-chugham	chugam
-chuirean	chuireann
-chuirfadh	chuirfeadh
-chuirptheach	choirpeach
-chum	chun
-chuímhnigh	chuimhnigh
-chéadna	chéanna
-chínn	chinn
-chómh	chomh
-chómhair	chomhair
-chómhairle	chomhairle
-chómharsa	chomharsa
-chómhartha	chomhartha
-chómhgar	chóngar
-chómhgarach	chóngarach
-chómhnuighe	chónaí
-chómnuighe	chónaí
-chúgat	chugat
-chúghaibh	chugaibh
-chúghainn	chugainn
-chúgham	chugam
-chúgham-sa	chugamsa
-chúghat	chugat
-chúichi	chuici
-chúil-fhéith	chúiléith
-chúntanós	chuntanós
-claidhe	claí
-cleasaidheacht	cleasaíocht
-clúthmhar	cluthar
-codla	codladh
-coigcríoch	coigríoch
-coingheallacha	coinníollacha
-coitchianta	coitianta
-coláisde	coláiste
-comhnuidh	cónaigh
-compóirdeach	compordach
-compórdach	compordach
-congnamh	cúnamh
-conus	conas
-coruighe	coraí
-cos-ar-bolg	cos ar bolg
-cosdais	costais
-cosg	cosc
-creideamhnach	creidiúnach
-croidhe	croí
-croidhe-se	croíse
-croídhe	croí
-cruadh chás	cruachás
-cruadh-chás	cruachás
-cruadha	crua
-cruadhtain	cruatain
-cruadhtan	cruatan
-cruinnighthe	cruinnithe
-cruinniúghadh	cruinniú
-cráidhte	cráite
-cráidhteacht	cráiteacht
-críochnuigheadh	críochnaíodh
-críochnuighthe	críochnaithe
-críosdaidhe	críostaí
-críostaidhe	críostaí
-cródha	cróga
-cu	cú
-cuaird	cuairt
-cualacht	cuallacht
-cuinne	coinne
-cuirean	cuireann
-cuirp	coirp
-cuthaig	cuthaigh
-cá bh' fhios	cá bhfios
-cá bh'fhios	cá bhfios
-cá bh’ fhios	cá bhfios
-cá bh’fhios	cá bhfios
-cár bh'	cárbh
-cár bh’	cárbh
-cárdáil	cardáil
-cé 'r bh'	cérbh
-cé ’r bh’	cérbh
-cé'cu	cé acu
-céadna	céanna
-céireach	céarach
-cíosana	cíosanna
-cómhair	comhair
-cómhairigheadh	cómhairíodh
-cómhairle	comhairle
-cómhar	comhar
-cómharsa	comharsa
-cómharsan	comharsan
-cómhchruinn	comhchruinn
-cómhgar	cóngar
-cómhluadar	comhluadar
-cómhngar	cóngar
-cómhnuighe	cónaí
-cómhnuighthe	cónaithe
-cúbhar	cúr
-cúigmhadh	cúigiú
-cúiseana	cúiseanna
-cúmhachtach	cumhachtach
-cúntas	cuntas
-d' aoís	d'aois
-d' atharughadh	d'athrú
-d' eirigh	d'éirigh
-d' eirigheadar	d'éiríodar
-d' fheuch	d'fhéach
-d' fhághail	d'fháil
-d' imthigh	d'imigh
-d' imthigheadar	d'imíodar
-d' imthigheadh	d'imíodh
-d' innis	d'inis
-d' innsint	d'insint
-d' iompuigh	d'iompaigh
-d' iompuigheadar	d'iompaíodar
-d' iongnadh	d'ionadh
-d' á	dá
-d' ár	dár
-d' árdughadh	d'ardú
-d' árduigh	d'ardaigh
-d' éaluigh	d'éalaigh
-d' éaluigheas	d'éalaíos
-d'aoís	d'aois
-d'atharughadh	d'athrú
-d'eirigh	d'éirigh
-d'eirigheadar	d'éiríodar
-d'fheuch	d'fhéach
-d'fheuchadar	d'fhéachadar
-d'fhuasgailt	d'fhuascailt
-d'fhuiling	d'fhulaing
-d'fhághail	d'fháil
-d'fhásgadh	d'fháscadh
-d'imtheacht	d'imeacht
-d'imthig	d'imigh
-d'imthigh	d'imigh
-d'imthigheadar	d'imíodar
-d'imthigheadh	d'imíodh
-d'imthígheadh	d'imíodh
-d'innis	d'inis
-d'innsint	d'insint
-d'iompuigh	d'iompaigh
-d'iompuigheadar	d'iompaíodar
-d'iongnadh	d'ionadh
-d'ollamhughadh	d'ullmhú
-d'osgail	d'oscail
-d'á	dá
-d'ár	dár
-d'árdughadh	d'ardú
-d'árduigh	d'ardaigh
-d'éaluigh	d'éalaigh
-d'éaluigheas	d'éalaíos
-d'ínsint	d'insint
-dachad	daichead
-daingion	daingean
-daona	daonna
-daoíne	daoine
-darab	darb
-dathamhail	dathúil
-de'n	den
-deagh-chroídheach	dea-chroíoch
-dearbhughadh	dearbhú
-dearg-bhuile	deargbhuile
-dearg-ruathar	deargruathar
-deifrigheacht	difríocht
-deifrígheachta	difríochta
-deimhnightheach	deimhneach
-deire	deireadh
-deiridh	deireadh
-deirim-se	deirimse
-deisbhéalaighe	deisbhéalaí
-deó	deo
-de’n	den
-dfhéadfá	d’fhéadfá
-dh'fhan	d'fhan
-dh'fhoghlaim	d'fhoghlaim
-dh'fhéadfadh	d'fhéadfadh
-dh'iompóch'	d'iompódh
-dhaingniughadh	dhaingniú
-dhaor-smacht	dhaorsmacht
-dhaoíne	dhaoine
-dhathamhail	dhathúil
-dhearbhuigh	dhearbhaigh
-dhearbhúghadh	dhearbhú
-dheimhniughadh	dheimhniú
-dheire	dheireadh
-dheiridh	dheireadh
-dhiaigh	dhiaidh
-dhlígh	dhlí
-dhlúithte	dhlúite
-dhorus	dhoras
-dhrangháire	dhranngháire
-dhrangháirí	dhranngháirí
-dhuileabhar	dhuilliúr
-dhéanaighe	dhéanaí
-dhéanam	dhéanamh
-dhéanfaimíd	dhéanfaimid
-dhícheal	dhícheall
-dhíchil	dhíchill
-dhíot-sa	dhíotsa
-dhísgiughadh	dhísciú
-dhóich	dhóigh
-dhóithin	dhóthain
-dhúthchas	dhúchas
-dh’fhéadfadh	d’fhéadfadh
-dlighe	dlí
-dlighthe	dlíthe
-dlígh	dlí
-dlíghe	dlí
-dlúithte	dlúite
-dlúth-cheangal	dlúthcheanga
-do réir	de réir
-do'n	don
-doicheal	doicheall
-dorus	doras
-do’n	don
-drangháire	dranngháire
-drangháirí	dranngháirí
-draoidheacht	draíocht
-droch aicme	drochaicme
-droch aigeanta	drochaigeanta
-droch aigne	drochaigne
-droch amhras	drochamhras
-droch ghníomhartha	drochghníomhartha
-droch iontaoibh	drochiontaoibh
-droch mheas	drochmheas
-droch mhúinte	drochmhúinte
-droch obair	drochobair
-droch-mhúinte	drochmhúinte
-droch-rud	drochrud
-dronnaighe	dronnaí
-dtagaidh	dtaga
-dtaidhbhreamh	dtaibhreamh
-dteangthacha	dteangacha
-dteighlach	dteaghlach
-dtreó	dtreo
-dtuairisgí	dtuairiscí
-dtuigean	dtuigeann
-dtúirní	dtuirní
-dubhairt	dúirt
-dubhradar	dúradar
-duilleabhar	duilliúr
-duit-se	duitse
-déanaighe	déanaí
-déarca	déirce
-dícheal	dícheall
-díoghaltas	díoltas
-díoghbháil	díobháil
-díoluigheachta	díolaíochta
-díom-sa	díomsa
-díomhaoín	díomhaoin
-díot-sa	díotsa
-dódhéag	dó dhéag
-dóibh-sin	dóibh sin
-dóich	dóigh
-dóighte	dóite
-dómh-sa	domsa
-dúbhairt	dúirt
-dúbhradh	dúradh
-dúrthachtach	dúthrachtach
-dúthchais	dúchais
-d’ aoís	d’aois
-d’ atharughadh	d’athrú
-d’ eirigh	d’éirigh
-d’ eirigheadar	d’éiríodar
-d’ fheuch	d’fhéach
-d’ fhághail	d’fháil
-d’ imthigh	d’imigh
-d’ imthigheadar	d’imíodar
-d’ imthigheadh	d’imíodh
-d’ innis	d’inis
-d’ innsint	d’insint
-d’ iompuigh	d’iompaigh
-d’ iompuigheadar	d’iompaíodar
-d’ iongnadh	d’ionadh
-d’ á	dá
-d’ ár	dár
-d’ árdughadh	d’ardú
-d’ árduigh	d’ardaigh
-d’ éaluigh	d’éalaigh
-d’ éaluigheas	d’éalaíos
-d’aoís	d’aois
-d’atharughadh	d’athrú
-d’eirigh	d’éirigh
-d’eirigheadar	d’éiríodar
-d’fheuch	d’fhéach
-d’fheuchadar	d’fhéachadar
-d’fhuiling	d’fhulaing
-d’fhághail	d’fháil
-d’imthig	d’imigh
-d’imthigh	d’imigh
-d’imthigheadar	d’imíodar
-d’imthigheadh	d’imíodh
-d’imthígheadh	d’imíodh
-d’innis	d’inis
-d’innsint	d’insint
-d’iompuigh	d’iompaigh
-d’iompuigheadar	d’iompaíodar
-d’iongnadh	d’ionadh
-d’osgail	d’oscail
-d’á	dá
-d’ár	dár
-d’árdughadh	d’ardú
-d’árduigh	d’ardaigh
-d’éaluigh	d’éalaigh
-d’éaluigheas	d’éalaíos
-d’ínsint	d’insint
-eadh	ea
-eagnaidhe	eagnaí
-earball	eireaball
-easba	easpa
-easboig	easpaig
-easgaine	eascaine
-eatartha	eatarthu
-eatortha	eatarthu
-eigin	éigin
-eirghe	éirí
-eirigh	éirigh
-eirighe	éirí
-eirighthe	éirithe
-eolus	eolas
-eun	éan
-eól	eol
-eóluis	eolais
-eólus	eolas
-faillighe	faillí
-fairrge	farraige
-faoi 'n	faoin
-faoi ’n	faoin
-faoisdin	faoistin
-faraige	farraige
-feirmeóir	feirmeoir
-feirmeóirí	feirmeoirí
-feuch	féach
-feuchaint	féachaint
-feóil	feoil
-feóla	feola
-fhagháil	fháil
-fheadar-sa	fheadarsa
-fheidir	fhéidir
-fheirmeóir	fheirmeoir
-fheuchadh	fhéachadh
-fheuchaint	fhéachaint
-fheóil	fheoil
-fhoghluim	fhoghlaim
-fhoghmhair	fhómhair
-fhoghmhar	fhómhar
-fhuiseóg	fhuiseog
-fhághail	fháil
-fhéadfaimíd	fhéadfaimid
-fhéadfainn-se	fhéadfainnse
-fhéadfá-sa	fhéadfása
-fhóghanta	fhónta
-fiacala	fiacla
-fiacalach	fiaclach
-fiafraighe	fiafraí
-fiain	fiáin
-fiaine	fiáine
-fiona-chas	fionnachas
-fiorthann	feorainn
-fleisge	fleisce
-foghadh	fogha
-foghanta	fónta
-foghluim	foghlaim
-foghluma	foghlama
-foghlumtha	foghlamtha
-foghmhair	fómhair
-foghmhar	fómhar
-foidhneach	foighneach
-folamha	folmha
-foláin	folláin
-frithálamh	friotháileamh
-fuaimeana	fuaimeanna
-fuasgail	fuascail
-fuat	fuath
-fuathmhar	fuafar
-fuid	fud
-fuinneamhail	fuinniúil
-fuiseóg	fuiseog
-fuínseóige	fuinseoige
-fágan	fágann
-fásgadh	fáscadh
-féachan	féachann
-féuchaint	féachaint
-fíor-dhílis	fíordhílis
-fíoruisge	fíoruisce
-fóghanta	fónta
-gCionntsáile	gCionn tSáile
-gConchubhar	gConchúr
-gCondae	gContae
-gConndae	gContae
-gCualacht	gCuallacht
-gabhaim-se	gabhaimse
-gabhan	gabhann
-gabhtha	gafa
-garaidhe	garraí
-garaidhthe	garraithe
-gasradh	gasra
-gcaithfidhe	gcaithfí
-gcaithtear	gcaitear
-gcapal	gcapall
-gcaraig	gcarraig
-gcathana	gcathanna
-gceangalaidh	gceanglaí
-gceannsuightí	gceansaítí
-gclaidh	gclaí
-gcnuc	gcnoc
-gcodluigheadh	gcodlaíodh
-gcoláisde	gcoláiste
-gcomhnuidhe	gcónaí
-gcongnamh	gcúnamh
-gcroidhe	gcroí
-gcroídhe	gcroí
-gcruadh chás	gcruachás
-gcruadh-chás	gcruachás
-gcráidhteacht	gcráiteacht
-gcuaird	gcuairt
-gcuirean	gcuireann
-gcéadna	gcéanna
-gcómhair	gcomhair
-gcómhaireamh	gcomhaireamh
-gcómhgar	gcóngar
-gcómhnuighe	gcónaí
-gearadh	gearradh
-gearfaí	ghearrfaí
-geartha	gearrtha
-geur-chúiseach	géarchúiseach
-geóbhfaí	gheofaí
-ghabhan	ghabhann
-ghaoíl	ghaoil
-gharaidhe	gharraí
-ghearadh	ghearradh
-ghiorfhiadh	ghiorria
-ghleusadh	ghléasadh
-ghoirgeach	ghairgeach
-ghrádhmhaire	ghrámhaire
-ghrádhmhar	ghrámhar
-ghrána	ghránna
-ghréin	ghrian
-ghuidhe	ghuí
-ghuirt	ghoirt
-ghuna	ghunna
-ghádh	ghá
-gháirdín	ghairdín
-giorfhiadh	giorria
-glaodhach	glaoch
-glaoidhte	glaoite
-gleacaidheachta	gleacaíochta
-gleacaídhe	gleacaí
-gleusta	gléasta
-greamana	greamanna
-greamuighthe	greamaithe
-grádh	grá
-grádhmhara	grámhara
-grána	gránna
-gréasaidhe	gréasaí
-gréin	grian
-guidhe	guí
-guna	gunna
-gunaí	gunnaí
-gur b'é	gurb é
-gur b'í	gurb í
-gur bh'	gurbh
-gur bh'é	gurbh é
-gur bh'í	gurbh í
-gur bh’	gurbh
-gur bh’é	gurbh é
-gur bh’í	gurbh í
-gádh	gá
-gáirdín	gairdín
-géana	géanna
-h-Aifrinn	hAifrinn
-h-Arrachtáin	hArrachtáin
-h-Icídhe	hIcí
-h-Inis	hInis
-h-Ola	hOla
-h-abartha	habartha
-h-abhan	habhann
-h-achmair	hachomair
-h-aghaidh	haghaidh
-h-aigne	haigne
-h-aimsigheadh	haimsíodh
-h-aimsir	haimsir
-h-aimsire	haimsire
-h-ainmneacha	hainmneacha
-h-airc	hairc
-h-aireachas	haireachas
-h-airgead	hairgead
-h-airigheadh	hairíodh
-h-airm	hairm
-h-aiste	haiste
-h-aithbhliana	hathbhliana
-h-aithnightear	haithnítear
-h-aithreacha	haithreacha
-h-amháin	hamháin
-h-ana	hana
-h-anam	hanam
-h-aon	haon
-h-aonar	haonar
-h-athair	hathair
-h-athar	hathar
-h-eadh	hea
-h-eagla	heagla
-h-eochair	heochair
-h-inbhear	hinbhear
-h-innsint	hinsint
-h-inntinne	hintinne
-h-iomlán	hiomlán
-h-itheadh	hitheadh
-h-obair	hobair
-h-ocht	hocht
-h-ocrach	hocrach
-h-ofrála	hofrála
-h-oibre	hoibre
-h-oileáin	hoileáin
-h-ola	hola
-h-olc	holc
-h-ollamh	hullamh
-h-oídhche	hoíche
-h-uachtaráin	huachtaráin
-h-uaigneach	huaigneach
-h-uair	huair
-h-uaire	huaire
-h-uaisle	huaisle
-h-uaisleachta	huaisleachta
-h-uasal	huasal
-h-uathbhás	huafás
-h-uchtach	huchtach
-h-udhacht	huacht
-h-urchair	hurchair
-h-urchar	hurchar
-h-Éirean	hÉireann
-h-Éirinn	hÉirinn
-h-áit	háit
-h-áite	háite
-h-áluinn	hálainn
-h-árduigheadh	hardaíodh
-h-é	hé
-h-éadach	héadach
-h-éagcruas	héagruas
-h-éagcóra	héagóra
-h-éiligheadh	héilíodh
-h-éitheach	héitheach
-h-ógánaigh	hógánaigh
-hIcídhe	hIcí
-habhan	habhann
-hachmair	hachomair
-haicillíghe	haclaí
-haimsigheadh	haimsíodh
-hainmhighthe	hainmhithe
-hairigheadh	hairíodh
-haithbhliana	hathbhliana
-haithnightear	haithnítear
-hannlaí	hanlaí
-headh	hea
-hearball	heireaball
-himirean	himreann
-hinnsint	hinsint
-hinntinne	hintinne
-hollamh	hullamh
-hoídhche	hoíche
-huathbhás	huafás
-hudhacht	huacht
-hÉirean	hÉireann
-háluinn	hálainn
-hárduigheadh	hardaíodh
-héagcruas	héagruas
-héagcóra	héagóra
-héiligheadh	héilíodh
-i n' áit	in áit
-i n'aice	in aice
-i n'áit	in áit
-i n-Inis	in Inis
-i n-a	ina
-i n-aghaidh	in aghaidh
-i n-aice	in aice
-i n-aigne	in aigne
-i n-am	in am
-i n-aon	in aon
-i n-aonfheacht	in éineacht
-i n-easnamh	in easnamh
-i n-inead	in ionad
-i n-inis	in inis
-i n-Éirinn	in Éirinn
-i nÉirin	in Éirinn
-i nÉirinn	in Éirinn
-i n’ áit	in áit
-i n’aice	in aice
-i n’áit	in áit
-iad-san	iadsan
-iaracht	iarracht
-iaraidh	iarraidh
-iaran	iarann
-imeal	imeall
-imigcéineamhla	imigéiniúla
-imigéineamhla	imigéiniúla
-imnidhe	imní
-imtheacht	imeacht
-imtheóchaidh	imeoidh
-imthigh	imigh
-imthighthe	imithe
-indiu	inniu
-indiú	inniu
-indé	inné
-inead	ionad
-inghean	iníon
-inid	ionad
-innil	innill
-innsint	insint
-inte	inti
-iomdha	iomaí
-iompuighthe	iompaithe
-ionam-sa	ionamsa
-ionan	ionann
-iongantach	iontach
-iongantas	iontas
-iongna	ionadh
-iongnadh	ionadh
-ionnat	ionat
-ionnus	ionas
-iseadh	is ea
-isiad	is iad
-isé	is é
-isí	is í
-ithte	ite
-labhruigheadh	labhraíodh
-laé	lae
-le n-a	lena
-le na	lena
-leath-acra	leathacra
-leath-amadán	leathamadán
-leath-bhfabhar	leathbhfabhar
-leath-bhliana	leathbhliana
-leath-bhriste	leathbhriste
-leath-mhíle	leathmhíle
-leath-sgéal	leithscéal
-leath-sgéil	leithscéil
-leath-shúil	leathshúil
-leathanuigh	leathnaigh
-leathta	leata
-leathtaoibh	leataoibh
-leig	lig
-leigeadh	ligeadh
-leigint	ligean
-leithéid-se	leithéidse
-leó	leo
-león	leon
-leór	leor
-liom-sa	liomsa
-liúgh	liú
-liúghfad	liúfad
-liúghfainn	liúfainn
-liúghfair	liúfair
-loisgeadh	loisceadh
-loisgfí	loiscfí
-loitean	loiteann
-longphuirt	longfoirt
-losgadh	loscadh
-luasg	luasc
-luasgadh	luascadh
-lugha	lú
-luighe	luí
-luighfeadh	luífeadh
-lá'r	lá ar
-láidire	láidre
-lán-dúiseacht	lándúiseacht
-lánamhain	lánúin
-lá’r	lá ar
-léi-se	léise
-léigheanta	léannta
-léighinn	léinn
-léirsgrios	léirscrios
-lín-tíghe	líon tí
-línn	linn
-lóisdín	lóistín
-lúgha	lú
-m'athair-se	m'athairse
-mBanríghin	mBanríon
-machtnamh	machnamh
-maidion	maidin
-mairean	maireann
-maithtí	maití
-maoidheamh	maíomh
-mar 'dh eadh	mar dhea
-mar ’dh eadh	mar dhea
-mara	mura
-marach	murach
-marbhadh	marú
-marbhughadh	marú
-marbhuigheadh	maraíodh
-marbhuightear	maraítear
-marbhóchaidh	maróidh
-marbhóchar	marófar
-marcaidheacht	marcaíocht
-mb' fhéidir	mb'fhéidir
-mb' áil	mb'áil
-mb' éigean	mb'éigean
-mbadh	mba
-mbanríghin	mbanríon
-mbeimíd	mbeimid
-mbeithidheach	mbeithíoch
-mbiadh	mbia
-mbrígh	mbrí
-mbuachail	mbuachaill
-mbuidhe	mbuí
-mbádhfaí	mbáfaí
-mbéadh	mbeadh
-mbéidh	mbeidh
-mbéidís	mbeidís
-mbéinn-se	mbeinnse
-mbíon	mbíonn
-mbórd	mbord
-me	mé
-meadhon	meán
-mearaidhe	mearaí
-mearaídhe	mearaí
-measaim-se	measaimse
-measan	measann
-measg	measc
-measgán	meascán
-meathlughadh	meathlú
-meisge	meisce
-meisgeóireacht	meisceoireacht
-mhada	mhadra
-mhaidean	mhaidin
-mhairean	mhaireann
-mharbhadh	mharú
-mharbhughadh	mharú
-mharbhóch'	mharódh
-mharbhóch’	mharódh
-mharbhú'	mharú
-mheadhon	mheán
-mheasg	mheasc
-mheathtacht	mheatacht
-mheón	mheon
-mhion-airgead	mhionairgead
-mhisde	mhiste
-mhothuigh	mhothaigh
-mhuinteardha	mhuinteartha
-mhuíntir	mhuintir
-mháighistir	mháistir
-mháighistiríbh	mháistiribh
-mháthair-se	mháthairse
-mhéaduigh	mhéadaigh
-mhí dheiridh an Fhoghmhair	Mhí Dheireadh Fómhair
-mhódh	mhodh
-misde	miste
-mothuightear	mothaítear
-moíng	moing
-muilean	muileann
-muinntireas	muintearas
-muinéal	muineál
-muínteartha	muinteartha
-muíntir	muintir
-má 's	más
-má ’s	más
-má's	más
-máighistir	máistir
-má’s	más
-mí dheiridh an Fhoghmhair	Mí Dheireadh Fómhair
-mí-chúmtha	míchumtha
-mí-nádúrtha	mínádúrtha
-mí-ádhbharach	mí-ámharach
-módh	modh
-mór-is-fiú	mór is fiú
-mór-sheisear	mórsheisear
-mór-thímpal	mórthimpeall
-mórthímpal	mórthimpeall
-múinteóir	múinteoir
-m’athair-se	m’athairse
-n-Abhainn	nAbhainn
-n-Aifric	nAifric
-n-Euróip	nEoraip
-n-Ocht	nOcht
-n-Ubh	nUbh
-n-Uíbh	nUíbh
-n-a	na
-n-achran	n-achrann
-n-ainmhidhthe	n-ainmhithe
-n-atúrnae	n-aturnae
-n-earball	n-eireaball
-n-imtheacht	n-imeacht
-n-ollamhughadh	n-ullmhú
-n-uradhas	n-urrús
-n-Éag	nÉag
-n-Éirinn	nÉirinn
-n-Órd	nOrd
-n-áirighthe	n-áirithe
-n-éaghmuis	n-éagmais
-n-ínsint	n-insint
-nGaedhal	nGael
-nGormfhlaith	nGormlaith
-naoidheanán	naíonán
-naomhtha	naofa
-ndaoíne	ndaoine
-ndeire	ndeireadh
-ndiaigh	ndiaidh
-ndrangháire	ndranngháire
-ndrangháirí	ndranngháirí
-ndroch obair	ndrochobair
-ndubhshlán	ndúshlán
-ndícheal	ndícheall
-neamhnídh	neamhní
-neamhsgáthmhar	neamhscáfar
-neamhspleadhach	neamhspleách
-neamhthuisgint	neamhthuiscint
-neithe	nithe
-ngaisge	ngaisce
-ngaraidhe	ngarraí
-ngeinte	nginte
-ngioracht	ngiorracht
-ngiorfhiadh	ngiorria
-ngréin	ngrian
-nua-Ghaedhilge	Nua-Ghaeilge
-nách	nach
-nár bh'	nárbh
-nár bh' eadh	nárbh ea
-nár bh'eadh	nárbh ea
-nár bh'é	nárbh é
-nár bh'í	nárbh í
-nár bh’	nárbh
-nár bh’ eadh	nárbh ea
-nár bh’eadh	nárbh ea
-nár bh’é	nárbh é
-nár bh’í	nárbh í
-néallta	néalta
-ní'l	níl
-níba	ní ba
-nídh	ní
-nímhe	nimhe
-níor bh'	níorbh
-níor bh'fhada	níorbh fhada
-níor bh'fhearr	níorbh fhearr
-níor bh'fhéidir	níorbh fhéidir
-níor bh’	níorbh
-níor bh’fhada	níorbh fhada
-níor bh’fhearr	níorbh fhearr
-ní’l	níl
-oidhche	oíche
-oificeach	oifigeach
-olan	olann
-ollamhughadh	ullmhú
-ollmhúcháin	ullmhúcháin
-orm-sa	ormsa
-ort-sa	ortsa
-ortha	orthu
-ortha-san	orthusan
-osgail	oscail
-osgailt	oscailt
-osguil	oscail
-oídhche	oíche
-paidreóireacht	paidreoireacht
-para-méic-iam	paraiméiciam
-paraméiciam	paraiméiciam
-phléasgamair	phléascamar
-prísúnach	príosúnach
-puínn	puinn
-púnt	punt
-rabhadar-san	rabhadarsan
-raint	roinnt
-rathmhaire	rafaire
-riaghail	riail
-riaghalta	rialta
-riaghlughadh	rialú
-ruadh	rua
-ruithean	ritheann
-rádh	rá
-ráidhte	ráite
-réidhe	ré
-réidhteach	réiteach
-rígh	rí
-ríghneas	righneas
-ríghtheighlach	rítheaghlach
-ríogh	rí
-ríoghamhail	ríúil
-ró bheag	róbheag
-ró dheacair	ródheacair
-ró dhian	ródhian
-ró dhéanach	ródhéanach
-ró dhéanaighe	ródhéanaí
-ró fhada	rófhada
-ró mhaith	rómhaith
-ró mhór	rómhór
-rómpa	rompu
-sa n-Euróip	san Eoraip
-sa n-am	san am
-saidhbhir	saibhir
-saidhbhreas	saibhreas
-sailighe	sailí
-saoghail	saoil
-saoghal	saol
-seachtmhadh	seachtú
-seadh	sea
-sean Ghall	Sean-Ghall
-sean fhocal	seanfhocal
-sean-fhocal	seanfhocal
-seansúir	seamsúir
-seansúr	seamsúr
-seasga	seasca
-seóladh	seoladh
-seómra	seomra
-sgafaire	scafaire
-sgaipeadar	scaipeadar
-sgaipeadh	scaipeadh
-sgairt	scairt
-sgamaill	scamaill
-sgamall	scamall
-sgannradh	scanradh
-sgaoil	scaoil
-sgaoileadh	scaoileadh
-sgaoilfí	scaoilfí
-sgaoilinn	scaoilinn
-sgaoilte	scaoilte
-sgar	scar
-sgaradh	scaradh
-sgarfaidh	scarfaidh
-sgartáladh	scartáladh
-sgeart	sceart
-sgeimhle	sceimhle
-sgeithe	sceiche
-sgeul	scéal
-sgeón	sceon
-sgiain	scian
-sgian	scian
-sgiathóige	sciathóige
-sgilling	scilling
-sgillinge	scillinge
-sgiob	sciob
-sgiomar	sciomar
-sgiot	sciot
-sgiúradh	sciúradh
-sglábhaidheachta	sclábhaíochta
-sgoil	scoil
-sgoile	scoile
-sgoileana	scoileanna
-sgoilfeadh	scoiltfeadh
-sgolaidheachta	scolaíochta
-sgoláire	scoláire
-sgoláirí	scoláirí
-sgot	scot
-sgrannradh	scanradh
-sgrannradh	scranradh
-sgread	scread
-sgreadach	screadach
-sgreadaigh	screadaigh
-sgriosadh	scriosadh
-sgríbhinn	scríbhinn
-sgríbhinne	scríbhinne
-sgríobh	scríobh
-sgríobhadh	scríobhadh
-sgríobhfadh	scríobhfadh
-sgrúdughadh	scrúdú
-sguab	scuab
-sguabadar	scuabadar
-sgurtha	scortha
-sgáil	scáil
-sgáinte	scáinte
-sgáth	scáth
-sgátha	scátha
-sgéal	scéal
-sgéal-sa	scéalsa
-sgéala	scéala
-sgéalaidheachta	scéalaíochta
-sgéalta	scéalta
-sgéil	scéil
-shaoghail	shaoil
-shaoghal	shaol
-shaothrughadh	shaothrú
-shealbhughadh	shealbhú
-shean-athair	sheanathair
-sheana-mháthair	sheanmháthair
-sheasamhach	sheasmhach
-sheóladh	sheoladh
-shleamhnuigh	shleamhnaigh
-shlígh	shlí
-shocarughadh	shocrú
-shocaruigheadar	shocraíodar
-shoin	shin
-sholusmhara	sholasmhara
-sholuídí	sholaoidí
-shuaraíghe	shuaraí
-shuidhe	shuí
-shuidheadh	shuíodh
-sháidh	sháith
-shíothcháin	shíocháin
-shíothchánta	shíochánta
-siniad	sin iad
-siné	sin é
-sisi	sise
-siubhail	siúil
-siubhal	siúl
-siúbhail	siúil
-siúbhal	siúl
-sluagh	slua
-slánuightheóra	slánaitheora
-slóighte	slóite
-socarughadh	socrú
-socaruigheadh	socraíodh
-soin	sin
-soluis	solais
-solus	solas
-solusmhaire	solasmhaire
-solusmhar	solasmhar
-solusmhara	solasmhara
-staidhre	staighre
-stiúraithe	stiúrtha
-stiúrughadh	stiúradh
-stuamdha	stuama
-suaithte	suaite
-suidhe	suí
-suidhfeadh	suífeadh
-suidhte	suite
-sul a	sula
-sushi	súisí
-suídhe	suí
-sáidhte	sáite
-sínsear	sinsear
-síothcháin	síocháin
-síothchánta	síochánta
-síthcháin	síocháin
-síthchána	síochána
-síthchánta	síochánta
-t'aigne	d'aigne
-t-Abb	tAb
-t-Athair	tAthair
-t-Easbog	tEaspag
-t-Iarla	tIarla
-t-abb	t-ab
-t-ainmhíghe	t-ainmhí
-t-atharughadh	t-athrú
-t-earball	t-eireaball
-t-eirighe	t-éirí
-t-eólus	t-eolas
-t-imtheacht	t-imeacht
-t-iománaídhe	t-iománaí
-t-oighre	t-oidhre
-t-sean	tsean
-t-ubhall	t-úll
-t-uisge	t-uisce
-t-Árdrígh	tArdrí
-t-é	té
-t-éirleach	t-eirleach
-t-ím	t-im
-t-órd	t-ord
-tSlánuightheóra	tSlánaitheora
-tabhair-se	tabhairse
-tagan	tagann
-tairbhthe	tairbhe
-taisbeáin	taispeáin
-taisbeáint	taispeáint
-taisbeána	taispeána
-taithighe	taithí
-taithneamh	taitneamh
-tamail	tamaill
-teagasg	teagasc
-teampuil	teampaill
-teasbach	teaspach
-teine	tine
-teinte	tinte
-teipithe	teipthe
-teó	teo
-thagan	thagann
-thaisbeáin	thaispeáin
-thaisbeáint	thaispeáint
-thaithin	thaitin
-thaithn	thaitin
-thaithnean	thaithneann
-thaithíghe	thaithí
-tharaing	tharraing
-theasaidhe	theasaí
-theastuigh	theastaigh
-thighearna	thiarna
-thimcheall	thimpeall
-thineóntaidhe	thionóntaí
-thoil-se	thoilse
-thoisg	thoisc
-thorm	tharam
-threó	threo
-thruagh	thrua
-thruagh-sa	thruasa
-thugan	thugann
-thuigean	thuigeann
-thuigsint	thuiscint
-thuille	thuilleadh
-thuisgeana	thuisceana
-thuisgint	thuiscint
-thuit	thit
-thuiteadh	thiteadh
-thárla	tharla
-théidhinn	théinn
-thógfaidhe	thógfaí
-thógfainn-se	thógfainnse
-thúirling	thuirling
-thúisge	thúisce
-tighe	tí
-tighearna	tiarna
-tighearnas	tiarnas
-tineóntaidhe	tionóntaí
-tionóisg	tionóisc
-to-day	today
-toirmeasg	toirmeasc
-toirmisg	toirmisc
-toisg	toisc
-tonóisg	tionóisc
-torthamhla	torthúla
-tropaiceach	trópaiceach
-truagh	trua
-truaighmhéileach	truamhéalach
-tré	trí
-trí n-a	trína
-trímhadh	tríú
-trínse	trinse
-tsaoghail	tsaoil
-tsaoghal	tsaol
-tseansúir	tseamsúir
-tseansúr	tseamsúr
-tseómra	tseomra
-tslánuightheóra	tslánaitheora
-tsíothcháin	tsíocháin
-tsíthcháin	tsíocháin
-tu	tú
-tuairisg	tuairisc
-tuairisge	tuairisce
-tuigean	tuigeann
-tuigim-se	tuigimse
-tuille	tuilleadh
-tuisgint	tuiscint
-tusach	tosach
-tásg	tásc
-tíghe	tí
-tímpal	timpeall
-tíncéir	tincéir
-tínteáin	tinteáin
-tóirthnighe	toirní
-túisge	túisce
-ua	Ó
-uaim-se	uaimse
-uair a’ chluig	uair an chloig
-uait-se	uaitse
-uaithe	uaithi
-uatha	uathu
-uathbhásach	uafásach
-ubhall	úll
-ughdarás	údarás
-uisge	uisce
-urama	urraime
-ziliúin	zilliúin
-Árd-Rígh	Ardrí
-Éirean	Éireann
-Éireanach	Éireannach
-Éireanacha	Éireannacha
-Éireanaigh	Éireannaigh
-áirde	airde
-áirighthe	áirithe
-áirneáin	airneáin
-áiteana	áiteanna
-áluinn	álainn
-ámhthach	áfach
-árd	ard
-árda	arda
-árdeasbog	ardeaspag
-árdrígh	ardrí
-árdán	ardán
-éadtroma	éadroma
-éagcóir	éagóir
-éagcóra	éagóra
-éalódh	éalú
-éin-inghean	aon iníon
-éirighthe	éirithe
-éirimeamhail	éirimiúil
-éirleach	eirleach
-éirligh	eirligh
-éistecht	éisteacht
-éugcóir	éagóir
-ím	im
-ímpídhe	impí
-ó n-a	óna
-ó'n	ón
-ó-dheas	ó dheas
-ó-s	ós
-ó-thuaidh	ó thuaidh
-ódheas	ó dheas
-óig	óg
-órd	ord
-óthuaidh	ó thuaidh
-ó’n	ón
-úmhal	umhal
-úrlabhra	urlabhra
-úrláir	urláir
-úrlár	urlár
-’dh eadh	dhea
-’ghá	á
-’gá	á
-’mó	mó
-’ná	ná
-’á	á
+* 'dh eadh: dhea
+* 'ghá: á
+* 'ghár: ár
+* 'gá: á
+* 'mó: mó
+* 'n-Éirinn: in Éirinn
+* 'nuair: nuair
+* 'ná: ná
+* 'sa: sa
+* 'san: san
+* 'sna: sna
+* 'á: á
+* Aesop: Aesóp
+* Babilóine: Bablóine
+* Bhrighde: Bhríde
+* Ceard-Chomhairle: Ceardchomhairle
+* Cheard-Chomhairle: Cheardchomhairle
+* Chionntsáile: Chionn tSáile
+* Cholóimbe: Cholóim
+* Chonchubhair: Chonchúir
+* Chorcaighe: Chorcaí
+* Chríostaidhe: Chríostaí
+* Cionntsáile: Cionn tSáile
+* Conacht: Connacht
+* Conchubhair: Conchúir
+* Conchubhar: Conchúr
+* Críosdaidhe: Críostaí
+* Críostaidhe: Críostaí
+* Críostaidheachta: Críostaíochta
+* Dhiarmuda: Dhiarmada
+* Dhiarmuid: Dhiarmaid
+* Dhómhnaill: Dhomhnaill
+* Dhómhnall: Dhomhnall
+* Diardaoin: Déardaoin
+* Diarmuid: Diarmaid
+* Domhnall: Dónall
+* Donchadh: Donnchadh
+* Dómhnaill: Dónaill
+* Eatóip: Aetóip
+* Eibhlís: Eilís
+* Euróip: Eoraip
+* Eóghan: Eoghan
+* Eúróip: Eoraip
+* Fhian: Fhiann
+* Fhionnlainn: Fhionlainn
+* Fhoghludha: Fhoghlú
+* Fhrainncis: Fhraincis
+* Fiana: Fianna
+* Fiannaidheachta: Fiannaíochta
+* Foghludha: Foghlú
+* Frainncis: Fraincis
+* Frainncise: Fraincise
+* GCROICEAN: gCRAICEANN
+* Gaedhal: Gael
+* Gaedhil: Gaeil
+* Gaedhilge: Gaeilge
+* Gaedhlacha: Gaelacha
+* Ghaedhilge: Ghaeilge
+* Ghormfhlaith: Ghormlaith
+* Gormfhlaith: Gormlaith
+* Gríobhtha: Gríofa
+* H-AON-DÉAG: hAON DÉAG
+* H-AON: hAON
+* H-Aon-Déag: hAon Déag
+* H-OCHT-DÉAG: hOCHT DÉAG
+* H-OCHT: hOCHT
+* H-Ocht: hOcht
+* HOCHT-DÉAG: hOCHT DÉAG
+* Icídhe: Icí
+* Ioruaidh: Iorua
+* Iráic: Iaráic
+* Isiltír: Ísiltír
+* Laidne: Laidine
+* Laoghaire: Laoire
+* Lochlanach: Lochlannach
+* Lochlanaigh: Lochlannaigh
+* Lughnasa: Lúnasa
+* Luimníghe: Luimnigh
+* M'lsheachlainn: Maoilsheachlainn
+* Meadhon-Lae: Meán Lae
+* Mheadhon-Lae: Mheán Lae
+* Mhíchíl: Mhichíl
+* Mhúmhain: Mhumhain
+* Midhe: Mí
+* Murchadha: Murchú
+* Múmhain: Mumhain
+* Nodlag: Nollag
+* Nuadhat: Nuat
+* Phríomh-Stiúrthóir: Phríomhstiúrthóir
+* Príomh-Stiúrthóir: Príomhstiúrthóir
+* Réidhleáin: Réileáin
+* Seumais: Séamais
+* Seumas: Séamas
+* Seághan: Seán
+* Sheumais: Shéamais
+* Sheumas: Shéamas
+* Sheághain: Sheáin
+* Shéadna: Shéanna
+* Séadha: Sé
+* T-AODHRE: tAOIRE
+* T-AONMHADH: tAONÚ
+* T-Aodhre: tAoire
+* T-Aonmhadh: tAonú
+* T-OCHTMHADH: tOCHTÚ
+* Thuathaig: Thuathaigh
+* Tlachtga: Tlachta
+* Tlachtgha: Tlachta
+* Tuathaig: Tuathaigh
+* a dh'imirt: ag imirt
+* a dh'innsint: ag insint
+* a dh'ithe: ag ithe
+* a dh'ól: ag ól
+* a réir dlighe: de réir dlí // check
+* a's: is
+* a-n: an
+* abaile: abhaile
+* abalta: ábalta
+* abb: ab
+* abhan: abhann
+* abhfad: i bhfad
+* abhfuil: a bhfuil
+* abhí: a bhí
+* aca: acu
+* acfuinn: acmhainn
+* acfuinneach: acmhainneach
+* achmair: achomair
+* achran: achrann
+* acu-san: acusan
+* acú: acu
+* ad' aice: i d'aice
+* adeir: a deir
+* adeireadh: a deireadh
+* adeiridís: a deiridís
+* adeirim: a deirim
+* adhbhar: ábhar
+* admhuigh: admhaigh
+* admhuighim: admhaím
+* adtuaidh: aduaidh
+* adubhairt: a dúirt
+* adéarfaidh: a déarfaidh
+* adéarfá: a déarfá
+* adúbhairt: a dúirt
+* adúbhart: a dúirt
+* ad’ aice: i d’aice
+* aedhreacht: aeraíocht
+* agaibh-se: agaibhse
+* agam-sa: agamsa
+* agat-sa: agatsa
+* aici-si: aicisí
+* aicillígheachta: aclaíochta
+* aicí: aici
+* aidhe: aí
+* aifrean: aifreann
+* aige-sean: aigesean
+* aimsear: aimsir
+* ainbhfios: ainbhios
+* ainiar: aniar
+* ainim: ainm
+* ainimhíghe: ainimhí
+* ainíos: aníos
+* air fuid: ar fud
+* air-sean: airsean
+* aireochaidh: aireoidh
+* airigheadar: airíodar
+* airigheadh: airíodh
+* airighim: airím
+* airighinn: airínn
+* airiú: arú
+* airís: arís
+* aisge: aisce
+* aitean: aiteann
+* aitheasg: aitheasc
+* aithnigheadh: aithníodh
+* aithnighim: aithním
+* aithnighinn: aithnínn
+* aithrighe: aithrí
+* alla: ealla
+* alluis: allais
+* allus: allas
+* am' aice: i m'aice
+* amail: amhail
+* ameasg: i measc
+* amhthach: áfach
+* amuich: amuigh
+* amus: amas
+* amáireach: amárach
+* amú': amú
+* amú’: amú
+* am’ aice: i m’aice
+* an-bhrodúil: an-bhródúil
+* an-chaitheamh: anchaitheamh
+* an-chinéalta: an-chineálta
+* an-chompóirdeach: an-chompordach
+* an-chompórdach: an-chompordach
+* an-neamh-choitchionta: an-neamhchoitianta
+* ana dhathúil: an-dathúil
+* ana fhada: an-fhada
+* ana láidir: an-láidir
+* ana mhaith: an-mhaith
+* ana mhór: an-mhór
+* ana naomhtha: an-naofa
+* ana-chúmhachtach: an-chumhachtach
+* ana-dhathúil: an-dathúil
+* ana-dhrochmhúinte: an-drochmhúinte
+* ana-óg: an-óg
+* anadhathúil: an-dathúil
+* anadhrochmhúinte: an-drochmhúinte
+* anamh: annamh
+* annsin: ansin 
+* anródh: anró
+* anáirde: in airde
+* anál: anáil
+* aodhre: aoire
+* aodhreacht: aoireacht
+* aodhrí: aoirí
+* aoirde: airde
+* aonfheacht: éineacht
+* aontigheas: aontíos
+* aontígheas: aontíos
+* aoírde: airde
+* aoís: aois
+* aragóint: argóint
+* ard-ríogh: ardrí
+* arduighthe: ardaithe
+* arsaigh: arsa
+* asta: astu
+* ath-fhilleadh: athfhilleadh
+* atharach: athrach
+* atharughadh: athrú
+* atharuighthe: athraithe
+* athghairmtear: athghairtear
+* athrughadh: athrú
+* athruigh: athraigh
+* atúrnae: aturnae
+* aér: aer
+* aír: air
+* a’s: is
+* b' fhéidir: b'fhéidir
+* b'ainim: b'ainm
+* b'aoirde: b'airde
+* b'féidir: b'fhéidir
+* bPríomh-Stiúrthóir: bPríomhstiúrthóir
+* badh: ba
+* bailighthe: bailithe
+* bailiughadh: bailiú
+* bainfar: bainfear
+* bainfí: bhainfí
+* baintrighe: baintrí
+* baintríghe: baintrí
+* balcuis: balcais
+* ban-phrionsa: banphrionsa
+* banríghin: banríon
+* baoghal: baol
+* baoghalach: baolach
+* basgaithe: basctha
+* basgfar: bascfar
+* beannughadh: beannú
+* beannuighthe: beannaithe
+* beartughadh: beartú
+* beartuighthe: beartaithe
+* beathuighthe: beathaithe
+* beimíd: beimid
+* beirean: beireann
+* beithidhigh: beithígh
+* beithigheach: beithíoch
+* beul: béal
+* beó: beo
+* bhFrainnc: bhFrainc
+* bhFrainncis: bhFraincis
+* bhadh: ba
+* bhailigheadar: bhailíodar
+* bhailiughadh: bhailiú
+* bhainean: bhaineann
+* bhan-fhlaith: bhanfhlaith
+* bhan-phrionsa: bhanphrionsa
+* bhanríghin: bhanríon
+* bhaoghal: bhaol
+* bhasgadh: bhascadh
+* bheannuigh: bheannaigh
+* bheannuighthe: bheannaithe
+* bheartughadh: bheartú
+* bheast-chuirp: veistchoirp
+* bheatha-sa: bheathasa
+* bheimíd: bheimid
+* bheirean: bheireann
+* bheirim-se: bheirimse
+* bheiriughadh: bheiriú
+* bheul: bhéal
+* bheus: bhéas
+* bheó: bheo
+* bhfarge: bhfarraige
+* bhfeicean: bhfeiceann
+* bhfeirmeóir: bhfeirmeoir
+* bhfeuchainn: bhféachainn
+* bhfeuchfaidh: bhféachfaidh
+* bhfeudfá-sa: bhféadfása
+* bhfeur: bhféar
+* bhfhearr: bhfearr
+* bhfuighfeadh: bhfaigheadh
+* bhfuighfinn: bhfaighinn
+* bhfuighfí: bhfaighfí
+* bhfuighidh: bhfaighidh
+* bhfuighinn: bhfaighinn
+* bhfuilimíd: bhfuilimid
+* bhfuinneoig: bhfuinneog
+* bhfuirm: bhfoirm
+* bhfurmhór: bhformhór
+* bhfáisgtí: bhfáisctí
+* bhfásan: bhfásann
+* bhfásgadh: bhfáscadh
+* bhféadan: bhféadann
+* bhféadfaimís: bhféadfaimis
+* bhféadfá-sa: bhféadfása
+* bhfíor-mhullach: bhfíormhullach
+* bhi: bhí
+* bhiadh: bhia
+* bhiotáile: bhiotáille
+* bhreagh: bhreá
+* bhreitheamhantas: bhreithiúntas
+* bhreithniughadh: bhreithniú
+* bhreágh: bhreá
+* bhreóite: bhreoite
+* bhreóiteacht: bhreoiteacht
+* bhreóiteachtaí: bhreoiteachtaí
+* bhrisean: bhriseann
+* bhrostuigh: bhrostaigh
+* bhrothalach: bhrothallach
+* bhruid: bhroid
+* bhréag-éadaí: bhréagéidí
+* bhrígh: bhrí
+* bhrónaíghe: bhrónaí
+* bhrúth: bhrú
+* bhuadhfaidís: bhuafaidís
+* bhuaidh: bhua
+* bhuailean: bhuaileann
+* bhuideul: bhuidéal
+* bhuidhchais: bhuíochais
+* bhuidhe: bhuí
+* bhulóg: bhollóg
+* bháilligheacht: bháillíocht
+* bhánuigh: bhánaigh
+* bhárr: bharr
+* bhárthain: bhárthainn
+* bháthfadh: bháfadh
+* bhéadh: bheadh
+* bhéidh: bheidh
+* bhéidís: bheidís
+* bhéimíd: bheimid
+* bhéinn: bheinn
+* bhím-se: bhímse
+* bhímís: bhímis
+* bhíomair: bhíomar
+* bhíon: bhíonn
+* bhítheas: bhíothas
+* bhórd: bhord
+* bhúird: bhoird
+* bhúirth: bhúir
+* bhúirtheach: bhúireach
+* bhúntáiste: bhuntáiste
+* bhúr: bhur
+* biadh: bia
+* binnse: binse
+* binnsí: binsí
+* biotáile: biotáille
+* bitheamhnach: bithiúnach
+* bleachtfhéileacháin: bleachtfhéileacáin
+* bleachtfhéileácán: bleachtfhéileacán
+* bliadhain: bliain
+* bliadhna: bliana
+* bolg-shúileach: bolgshúileach
+* bolgaighe: bolgaí
+* bolognaise: bolognese
+* bosga: bosca
+* bosgaí: boscaí
+* bpaisnéirí: bpaisinéirí
+* bpoibilidheacht: bpoiblíocht
+* bpríomh-stiúrthóir: bpríomhstiúrthóir
+* bprísún: bpríosún
+* bpúint: bpuint
+* bpúnc: bponc
+* bpúnt: bpunt
+* braithtear: braitear
+* breagh: breá
+* breaghtha: breátha
+* breaghthacht: breáthacht
+* breithniughadh: breathnú
+* breoidhte: breoite
+* breágh: breá
+* breóite: breoite
+* breóiteacht: breoiteacht
+* breóiteachta: breoiteachta
+* brigh: brí
+* brisean: briseann
+* brothail: brothaill
+* brothal: brothall
+* brothalach: brothallach
+* bruighean: bruíon
+* bréagnughadh: bréagnú
+* brígh: brí
+* bríghe: brí
+* bríoghmhar: bríomhar
+* brúighte: brúite
+* brúithte: brúite
+* brúth: brú
+* buadh: bua
+* buaidheartha: buartha
+* buailteóra: buailteora
+* budh: ba
+* buideul: buidéal
+* buidhchais: buíochais
+* buidhchas: buíochas
+* buidhe-bhreac: buíbhreac
+* buidhe: buí
+* buidheach: buíoch
+* buidheachas: buíochas
+* buidhean: buíon
+* buidhne: buíne
+* builg: boilg
+* buird: boird
+* bullabáisín: bulla báisín
+* bulóige: bollóige
+* bádh: bá
+* báidh: bá
+* báidheamhail: báúil
+* báithte: báite
+* bár: barr
+* bárr: barr
+* béidh: beidh
+* béidir: b'fhéidir
+* béimíd: beimid
+* bím-se: bímse
+* bínn: binn
+* bíod: bíodh
+* bíon: bíonn
+* bórd: bord
+* búird: boird
+* búirth: búir
+* búirtheach: búireach
+* búntáiste: buntáiste
+* b’ fhéidir: b’fhéidir
+* b’ éigean: b’éigean
+* b’aoirde: b’airde
+* cabhrughadh: cabhrú
+* cadé: cad é
+* cadí: cad í
+* cahin: cathain
+* caibidiol: caibidil
+* caidé: cad é
+* cailleamhaint: cailliúint
+* caillighe: caillí
+* cainnt: caint
+* cainteóirí: cainteoirí
+* caithim-se: caithimse
+* caithimís: caithimis
+* caithte: caite
+* caithtí: caití
+* camastuíol: camastaíl
+* cancarach: cancrach
+* cannta: canta
+* caolughadh: caolú
+* caomhanta: caomhnaithe
+* caoí: caoi
+* capal: capall
+* caraig: carraig
+* caraige: carraige
+* caráiste: carráiste
+* casán: cosán
+* catharach: cathrach
+* cathughadh: cathú
+* ce 'cu: cé acu
+* ce ’cu: cé acu
+* ceann-dána: ceanndána
+* ceannaidhe: ceannaí
+* ceannaigheadh: ceannaíodh
+* ceannaighthe: ceannaithe
+* ceannrach: ceanrach
+* ceannuighthe: ceannaithe
+* ceannuightheoirí: ceannaitheoirí
+* ceapaim-se: ceapaimse
+* ceapan: ceapann
+* ceard-chomhairle: ceardchomhairle
+* ceathair-déag: ceathair déag
+* ceathramhadh: ceathrú
+* ceathrughadh: ceathrú
+* ceisteana: ceisteanna
+* ceistiuchán: ceistiúchán
+* ceud: céad
+* ceudna: céanna
+* ceó: ceo
+* ceóil: ceoil
+* ceól: ceol
+* ceólmhar: ceolmhar
+* ceólmhara: ceolmhara
+* ceólta: ceolta
+* chaillean: chailleann
+* chaithean: chaitheann
+* chaithte: chaite
+* chaoíne: chaoine
+* chapal: chapall
+* charaig: charraig
+* chathughadh: chathú
+* cheann-sa: cheannsa
+* cheannrach: cheanrach
+* cheannuigh: cheannaigh
+* cheannóchaidh: cheannóidh
+* cheapaim-se: cheapaimse
+* cheapan: cheapann
+* cheard-chomhairle: cheardchomhairle
+* cheardaidhe: cheardaí
+* cheathramhadh: cheathrú
+* cheilg: chealg
+* cheist-se: cheistse
+* cheud: chéad
+* cheudna: chéanna
+* cheó: cheo
+* cheóil: cheoil
+* cheól: cheol
+* chinneamhaint: chinniúint
+* chiondúireacht: chionmhaireacht
+* chionúireacht: chionmhaireacht
+* chipineach: chipíneach
+* chiúnuigh: chiúnaigh
+* chlaidh: chlaí
+* chlaidhe: chlaí
+* chlaidheamh: chlaíomh
+* chlaochluigh: chlaochlaigh
+* chlaoidh: chloí
+* chleasaidheacht: chleasaíocht
+* chloisteál: chloisteáil
+* chlúduigh: chlúdaigh
+* chnuc: chnoc
+* chnuic: chnoic
+* chocaíghe: chocaí
+* chodla: chodladh
+* choimeádan: choimeádann
+* choinneall: choinneal
+* choisg: choisc
+* choisgeas: choisceas
+* choisigheacht: choisíocht
+* choláisde: choláiste
+* chomhairleóchainn: chomhairleoinn
+* chomhnaidhe: chónaí
+* chomhnuidh: chónaigh
+* chomhrádh: chomhrá
+* chompóirdeach: chompordach
+* chompórdach: chompordach
+* chomrádaidhe: chomrádaí
+* chonacadar: chonaiceadar
+* chongnamh: chúnamh
+* chongáil: choinneáil
+* chonnaic: chonaic
+* chorbhuais: chorrabhuais
+* chorruigh: chorraigh
+* chorán: chorrán
+* chosg: chosc
+* chothuigh: chothaigh
+* choídhche: choíche
+* chreideamhaint: chreidiúint
+* chreideamhnacha: chreidiúnacha
+* chreidimíd: chreidimid
+* chroicean: chraiceann
+* chroidhe-se: chroíse
+* chroidhe: chroí
+* chroídhe: chroí
+* chruadh chás: chruachás
+* chruadh-chás: chruachás
+* chruadhtan: chruatan
+* chruinniughadh: chruinniú
+* chruthuigh: chruthaigh
+* chráidhteacht: chráiteacht
+* chríochnughadh: chríochnú
+* chrúth: chrú
+* chuaidh: chuaigh
+* chuaird: chuairt
+* chualacht: chuallacht
+* chuarduigh: chuardaigh
+* chuca-san: chucusan
+* chughainn: chugainn
+* chugham: chugam
+* chuimhnigheadar: chuimhníodar
+* chuimhnighim: chuimhním
+* chuireadar-san: chuireadarsan
+* chuirean: chuireann
+* chuirfadh: chuirfeadh
+* chuirp: choirp
+* chuirptheach: choirpeach
+* chuis: chais
+* chum: chun
+* chumasaíghe: chumasaí
+* chuímhne: chuimhne
+* chuímhnigh: chuimhnigh
+* cháisg: cháisc
+* chéadna: chéanna
+* chéird: cheird
+* chínn: chinn
+* chómh: chomh
+* chómhair: chomhair
+* chómhaireamh: chomhaireamh
+* chómhairimh: chomhairimh
+* chómhairle: chomhairle
+* chómharsa: chomharsa
+* chómhartha: chomhartha
+* chómhgar: chóngar
+* chómhgarach: chóngarach
+* chómhla: chomhla
+* chómhlíonadh: chomhlíonadh
+* chómhnuighe: chónaí
+* chómnuighe: chónaí
+* chúgaibh: chugaibh
+* chúgainn: chugainn
+* chúgam: chugam
+* chúgat: chugat
+* chúghaibh: chugaibh
+* chúghainn: chugainn
+* chúgham-sa: chugamsa
+* chúgham: chugam
+* chúghat: chugat
+* chúichi: chuici
+* chúici: chuici
+* chúil-fhéith: chúiléith
+* chúntanós: chuntanós
+* chúntas: chuntas
+* ciacu: cé acu
+* cinnsealacht: cinsealacht
+* ciondúireacht: cionmhaireacht
+* cionúireacht: cionmhaireacht
+* ciúineas: ciúnas
+* claidh: claí
+* claidhe: claí
+* claidheamh: claíomh
+* cleasaidheacht: cleasaíocht
+* cloinne: clainne
+* cláirsighe: cláirsí
+* cló-bhuailte: clóbhuailte
+* clúthmhar: cluthar
+* cnuc: cnoc
+* cnuic: cnoic
+* codla: codladh
+* coigcríoch: coigríoch
+* coingheallacha: coinníollacha
+* coinneall: coinneal
+* coitchianta: coitianta
+* coiuneall: coinneal
+* coláisde: coláiste
+* comh-bhinnis: comhbhinnis
+* comhnuidh: cónaigh
+* comhrádh: comhrá
+* compóirdeach: compordach
+* compórd: compord
+* compórdach: compordach
+* congnamh: cúnamh
+* conus: conas
+* corruighe: corraí
+* coruighe: coraí
+* cos-ar-bolg: cos ar bolg
+* cosdais: costais
+* cosg: cosc
+* craínn: crainn
+* creideamhnach: creidiúnach
+* crith-eagla: critheagla
+* croicean: craiceann
+* croidhe-se: croíse
+* croidhe: croí
+* croídhe: croí
+* cruadh chás: cruachás
+* cruadh-chás: cruachás
+* cruadha: crua
+* cruadhtain: cruatain
+* cruadhtan: cruatan
+* cruinnighthe: cruinnithe
+* cruinniughadh: cruinniú
+* cruinniúghadh: cruinniú
+* crádh: crá
+* cráidhte: cráite
+* cráidhteacht: cráiteacht
+* críochnughadh: críochnú
+* críochnuigh: críochnaigh
+* críochnuigheadh: críochnaíodh
+* críochnuighthe: críochnaithe
+* críosdaidhe: críostaí
+* críostaidhe: críostaí
+* cródha: cróga
+* crúisgín: crúiscín
+* cu: cú
+* cuaird: cuairt
+* cualacht: cuallacht
+* cuinne: coinne
+* cuirean: cuireann
+* cuirimís: cuirimis
+* cuirp: coirp
+* cuirtar: cuirtear
+* cumhang: cúng
+* cuthaig: cuthaigh
+* cá bh' fhios: cá bhfios
+* cá bh'fhios: cá bhfios
+* cá bh’ fhios: cá bhfios
+* cá bh’fhios: cá bhfios
+* cáirde: cairde
+* cár bh': cárbh
+* cár bh’: cárbh
+* cárdáil: cardáil
+* cé 'r bh': cérbh
+* cé ’r bh’: cérbh
+* cé'cu: cé acu
+* cé'r: cér
+* céadna: céanna
+* céireach: céarach
+* cé’r: cér
+* cíosana: cíosanna
+* cómhacht: cumhacht
+* cómhair: comhair
+* cómhairigheadh: cómhairíodh
+* cómhairimh: comhairimh
+* cómhairle: comhairle
+* cómhar: comhar
+* cómharsa: comharsa
+* cómharsan: comharsan
+* cómhartha: comhartha
+* cómharthaí: comharthaí
+* cómhchruinn: comhchruinn
+* cómhgar: cóngar
+* cómhluadar: comhluadar
+* cómhlíon: comhlíon
+* cómhlíonadh: comhlíonadh
+* cómhngar: cóngar
+* cómhnuighe: cónaí
+* cómhnuighthe: cónaithe
+* cúbhar: cúr
+* cúig-déag: cúig déag
+* cúigmhadh: cúigiú
+* cúiseana: cúiseanna
+* cúl-chainte: cúlchainte
+* cúmhachtach: cumhachtach
+* cúmtha: cumtha
+* cúntas: cuntas
+* cúrsaidhe: cúrsaí
+* d' aoís: d'aois
+* d' atharughadh: d'athrú
+* d' eirigh: d'éirigh
+* d' eirigheadar: d'éiríodar
+* d' fhagháil: d'fháil
+* d' fheuch: d'fhéach
+* d' fhághail: d'fháil
+* d' imthig: d'imigh
+* d' imthigh: d'imigh
+* d' imthigheadar: d'imíodar
+* d' imthigheadh: d'imíodh
+* d' innis: d'inis
+* d' innsint: d'insint
+* d' iompuigh: d'iompaigh
+* d' iompuighdar: d'iompaíodar
+* d' iompuigheadar: d'iompaíodar
+* d' iongnadh: d'ionadh
+* d' oibrigheadh: d'oibríodh
+* d' á: dá
+* d' ár: dár
+* d' árdughadh: d'ardú
+* d' árduig: d'ardaigh
+* d' árduigh: d'ardaigh
+* d' éaluigh: d'éalaigh
+* d' éaluigheas: d'éalaíos
+* d'admhuigh: d'admhaigh
+* d'airigheadar: d'airíodar
+* d'airigheadh: d'airíodh
+* d'airighinn: d'airínn
+* d'aithnighinn: d'aithnínn
+* d'aoís: d'aois
+* d'atharughadh: d'athrú
+* d'athrughadh: d'athrú
+* d'athruigh: d'athraigh
+* d'eirigh: d'éirigh
+* d'eirigheadar: d'éiríodar
+* d'fhaduigh: d'fhadaigh
+* d'fhagháil: d'fháil
+* d'fheuch: d'fhéach
+* d'fheuchadar: d'fhéachadar
+* d'fheuchadh: d'fhéachadh
+* d'fheuchfadh: d'fhéachfadh
+* d'fhiafruigh: d'fhiafraigh
+* d'fhuasgailt: d'fhuascailt
+* d'fhuiling: d'fhulaing
+* d'fhághail: d'fháil
+* d'fháisg: d'fháisc
+* d'fhásgadh: d'fháscadh
+* d'imtheacht: d'imeacht
+* d'imthig: d'imigh
+* d'imthigh: d'imigh
+* d'imthigheadar: d'imíodar
+* d'imthigheadh: d'imíodh
+* d'imthígheadh: d'imíodh
+* d'innis: d'inis
+* d'innsint: d'insint
+* d'iompuigh: d'iompaigh
+* d'iompuighdar: d'iompaíodar
+* d'iompuigheadar: d'iompaíodar
+* d'iongnadh: d'ionadh
+* d'oibrigheadh: d'oibríodh
+* d'ollamhughadh: d'ullmhú
+* d'osgail: d'oscail
+* d'osgailt: d'oscailt
+* d'á: dá
+* d'ár: dár
+* d'árdughadh: d'ardú
+* d'árduig: d'ardaigh
+* d'árduigh: d'ardaigh
+* d'éaluigh: d'éalaigh
+* d'éaluigheas: d'éalaíos
+* d'éirigheadar: d'éiríodar
+* d'ínsint: d'insint
+* dTagartar: dTagraítear
+* dachad: daichead
+* daingion: daingean
+* daona: daonna
+* daor-bhruid: daorbhroid
+* daoíne: daoine
+* darab: darb
+* dathamhail: dathúil
+* de'n: den
+* deagh-bhéasa: dea-bhéasa
+* deagh-chroídheach: dea-chroíoch
+* deagh-iompair: dea-iompair
+* deallramh: dealramh
+* dearbh-bhráthair: deartháir
+* dearbhbhráthair: deartháir
+* dearbhráthair: deartháir
+* dearbhughadh: dearbhú
+* dearg-bhuile: deargbhuile
+* dearg-lasadh: dearglasadh
+* dearg-ruathar: deargruathar
+* deichmhadh: deichiú
+* deichniubhar: deichniúr
+* deifrigheacht: difríocht
+* deifrígheachta: difríochta
+* deimhnightheach: deimhneach
+* deirbhshiúr: deirfiúr
+* deirbhshéir: deirfiúr
+* deire: deireadh
+* deiridh: deireadh
+* deirim-se: deirimse
+* deisbhéalaighe: deisbhéalaí
+* deisbhéalaíghe: deisbhéalaí
+* deug: déag
+* deunamh: déanamh
+* deunta: déanta
+* deurfadh: déarfadh
+* deurfaidh: déarfaidh
+* deurfainn: déarfainn
+* deurfar: déarfar
+* deó: deo
+* de’n: den
+* dfhéadfá: d’fhéadfá
+* dh'fhan: d'fhan
+* dh'fhoghlaim: d'fhoghlaim
+* dh'fhéadfadh: d'fhéadfadh
+* dh'iompóch': d'iompódh
+* dhaingniughadh: dhaingniú
+* dhaor-smacht: dhaorsmacht
+* dhaorbhruid: dhaorbhroid
+* dhaoíne: dhaoine
+* dhathamhail: dhathúil
+* dhealbhuigh: dhealbhaigh
+* dhearbh-bhráthair: dheartháir
+* dhearbhbhráthair: dheartháir
+* dhearbhráthair: dheartháir
+* dhearbhuigh: dhearbhaigh
+* dhearbhúghadh: dhearbhú
+* dheimhniughadh: dheimhniú
+* dheirbhshéir: dheirfiúr
+* dheire: dheireadh
+* dheiridh: dheireadh
+* dheunamh: dhéanamh
+* dheunfadh: dhéanfadh
+* dheóir: dheoir
+* dheór: dheor
+* dhiaigh: dhiaidh
+* dhiúltuigh: dhiúltaigh
+* dhlígh: dhlí
+* dhlúithte: dhlúite
+* dhoruis: dhorais
+* dhorus: dhoras
+* dhrangháire: dhranngháire
+* dhrangháirí: dhranngháirí
+* dhruim: dhroim
+* dhubhuigh: dhubhaigh
+* dhuileabhar: dhuilliúr
+* dhé: dhe
+* dhéanaighe: dhéanaí
+* dhéanam: dhéanamh
+* dhéanfaimíd: dhéanfaimid
+* dhéanfaimís: dhéanfaimis
+* dhéanfainn-se: dhéanfainnse
+* dhéanfá-sa: dhéanfása
+* dhíbh: dhaoibh
+* dhícheal: dhícheall
+* dhíchil: dhíchill
+* dhíolmhadh: dhíolmhú
+* dhíot-sa: dhíotsa
+* dhísgiughadh: dhísciú
+* dhóich: dhóigh
+* dhóithin: dhóthain
+* dhúthchas: dhúchas
+* dh’fhéadfadh: d’fhéadfadh
+* di-se: dise
+* dian-leathadh: dianleathadh
+* diúltughadh: diúltú
+* dlighe: dlí
+* dlighthe: dlíthe
+* dlígh: dlí
+* dlíghe: dlí
+* dlúithte: dlúite
+* dlúth-cheangal: dlúthcheangal
+* do réir: de réir
+* do'n: don
+* do-shásta: doshásta
+* doicheal: doicheall
+* domh-sa: domsa
+* doruis: dorais
+* dorus: doras
+* do’n: don
+* drangháire: dranngháire
+* drangháirí: dranngháirí
+* drantúghadh: drantú
+* draoidheacht: draíocht
+* droch aicme: drochaicme
+* droch aigeanta: drochaigeanta
+* droch aigne: drochaigne
+* droch amhras: drochamhras
+* droch bheart: drochbheart
+* droch dhuine: drochdhuine
+* droch ghníomhartha: drochghníomhartha
+* droch iontaoibh: drochiontaoibh
+* droch mheas: drochmheas
+* droch mhúineadh: drochmhúineadh
+* droch mhúinte: drochmhúinte
+* droch obair: drochobair
+* droch sheasamh: drochsheasamh
+* droch-mhúinte: drochmhúinte
+* droch-rud: drochrud
+* droch-sheasamh: drochsheasamh
+* dronnaighe: dronnaí
+* dtabharfainn-se: dtabharfainnse
+* dtagaidh: dtaga
+* dtagan: dtagann
+* dtagartar: dtagraítear
+* dtaidhbhreamh: dtaibhreamh
+* dtaithighe: dtaithí
+* dteach-sa: dteachsa
+* dteangthacha: dteangacha
+* dteanta: dteannta
+* dteighlach: dteaghlach
+* dtosnuightear: dtosaítear
+* dtreó: dtreo
+* dtuairisgí: dtuairiscí
+* dtugaidh: dtuga
+* dtugainn-se: dtugainnse
+* dtugan: dtugann
+* dtuigean: dtuigeann
+* dtuisgint: dtuiscint
+* dtusach: dtosach
+* dtéigheann: dtéann
+* dtíncéir: dtincéir
+* dtúirní: dtuirní
+* dubhairt: dúirt
+* dubhradar: dúradar
+* dubrónach: dobrónach
+* duilleabhar: duilliúr
+* duit-se: duitse
+* dáltha: dála
+* déanaighe: déanaí
+* déarca: déirce
+* déarfainn-se: déarfainnse
+* déidheanach: déanach
+* déidheanaighe: déanaí
+* dí: di
+* dícheal: dícheall
+* díchealach: dícheallach
+* díghe: dí
+* dínnéar: dinnéar
+* díoghaltas: díoltas
+* díoghbháil: díobháil
+* díoluigheachta: díolaíochta
+* díom-sa: díomsa
+* díomhaoín: díomhaoin
+* díot-sa: díotsa
+* díriughadh: díriú
+* dó-dhéag: dó dhéag
+* dó-san: dósan
+* dódhéag: dó dhéag
+* dóibh-sin: dóibh sin
+* dóich: dóigh
+* dóichíghe: dóichí
+* dóighte: dóite
+* dóirne: doirne
+* dóirse: doirse
+* dómh-sa: domsa
+* dúbhach: dubhach
+* dúbhairt: dúirt
+* dúbhradh: dúradh
+* dúrthachtach: dúthrachtach
+* dúthchais: dúchais
+* d’ aoís: d’aois
+* d’ atharughadh: d’athrú
+* d’ eirigh: d’éirigh
+* d’ eirigheadar: d’éiríodar
+* d’ fhagháil: d’fháil
+* d’ fheuch: d’fhéach
+* d’ fhághail: d’fháil
+* d’ imthig: d’imigh
+* d’ imthigh: d’imigh
+* d’ imthigheadar: d’imíodar
+* d’ imthigheadh: d’imíodh
+* d’ innis: d’inis
+* d’ innsint: d’insint
+* d’ iompuigh: d’iompaigh
+* d’ iompuighdar: d’iompaíodar
+* d’ iompuigheadar: d’iompaíodar
+* d’ iongnadh: d’ionadh
+* d’ oibrigheadh: d’oibríodh
+* d’ á: dá
+* d’ ár: dár
+* d’ árdughadh: d’ardú
+* d’ árduig: d’ardaigh
+* d’ árduigh: d’ardaigh
+* d’ éaluigh: d’éalaigh
+* d’ éaluigheas: d’éalaíos
+* d’admhuigh: d’admhaigh
+* d’airigheadar: d’airíodar
+* d’airigheadh: d’airíodh
+* d’airighinn: d’airínn
+* d’aithnighinn: d’aithnínn
+* d’aoís: d’aois
+* d’atharughadh: d’athrú
+* d’athrughadh: d’athrú
+* d’athruigh: d’athraigh
+* d’eirigh: d’éirigh
+* d’eirigheadar: d’éiríodar
+* d’fhaduigh: d’fhadaigh
+* d’fhagháil: d’fháil
+* d’fheuch: d’fhéach
+* d’fheuchadar: d’fhéachadar
+* d’fheuchadh: d’fhéachadh
+* d’fheuchfadh: d’fhéachfadh
+* d’fhiafruigh: d’fhiafraigh
+* d’fhreagradar-san: d’fhreagradarsan
+* d’fhuasgailt: d’fhuascailt
+* d’fhuiling: d’fhulaing
+* d’fhághail: d’fháil
+* d’fháisg: d’fháisc
+* d’fhásgadh: d’fháscadh
+* d’imtheacht: d’imeacht
+* d’imthig: d’imigh
+* d’imthigh: d’imigh
+* d’imthigheadar: d’imíodar
+* d’imthigheadh: d’imíodh
+* d’imthígheadh: d’imíodh
+* d’innis: d’inis
+* d’innsint: d’insint
+* d’iompuigh: d’iompaigh
+* d’iompuighdar: d’iompaíodar
+* d’iompuigheadar: d’iompaíodar
+* d’iongnadh: d’ionadh
+* d’oibrigheadh: d’oibríodh
+* d’osgail: d’oscail
+* d’osgailt: d’oscailt
+* d’á: dá
+* d’ár: dár
+* d’árdughadh: d’ardú
+* d’árduig: d’ardaigh
+* d’árduigh: d’ardaigh
+* d’éaluigh: d’éalaigh
+* d’éaluigheas: d’éalaíos
+* d’éirigheadar: d’éiríodar
+* d’éirigheadh: d’éiríodh
+* d’ínsint: d’insint
+* eachtradh: eachtrú
+* eadh: ea
+* eagnaidhe: eagnaí
+* earball: eireaball
+* easba: easpa
+* easboig: easpaig
+* easgaine: eascaine
+* eatartha: eatarthu
+* eatortha: eatarthu
+* eigin: éigin
+* eirghe: éirí
+* eirigh: éirigh
+* eirighe: éirí
+* eirigheadar: éiríodar
+* eirighthe: éirithe
+* eiscithe: eiscthe
+* eolus: eolas
+* eudan: éadan
+* eun: éan
+* eól: eol
+* eólais: eolais
+* eólas: eolas
+* eóluis: eolais
+* eólus: eolas
+* fad-radharc: fadradharc
+* fagháil: fáil
+* faillighe: faillí
+* fairrge: farraige
+* faoi 'n: faoin
+* faoi ’n: faoin
+* faoisdin: faoistin
+* faraige: farraige
+* farge: farraige
+* fasg: fasc
+* fathaig: fathaigh
+* fearr-de: fearrde
+* feirmeóir: feirmeoir
+* feirmeóirí: feirmeoirí
+* feuch: féach
+* feuchaint: féachaint
+* feuchfaidh: féachfaidh
+* feóil: feoil
+* feóirlinge: feoirlinge
+* feóla: feola
+* fhaduigh: fhadaigh
+* fhagháil: fháil
+* fhalaing: fhallaing
+* fharge: fharraige
+* fheabhus: fheabhas
+* fheadar-sa: fheadarsa
+* fheicim-se: fheicimse
+* fheidir: fhéidir
+* fheirmeóir: fheirmeoir
+* fheuch: fhéach
+* fheuchadar: fhéachadar
+* fheuchadh: fhéachadh
+* fheuchaint: fhéachaint
+* fheuchfadh: fhéachfadh
+* fheuchfainn: fhéachfainn
+* fheudfadh: fhéadfadh
+* fheudfainn: fhéadfainn
+* fheóil: fheoil
+* fhiafhraighe: fhiafraí
+* fhiafraighe: fhiafraí
+* fhiafruigh: fhiafraigh
+* fhoghluim: fhoghlaim
+* fhoghmhair: fhómhair
+* fhoghmhar: fhómhar
+* fhreagradar-san: fhreagradarsan
+* fhuasgailt: fhuascailt
+* fhuiling: fhulaing
+* fhuiseóg: fhuiseog
+* fhágan: fhágann
+* fhághail: fháil
+* fháisg: fháisc
+* fhánaidheacht: fhánaíocht
+* fhásgadh: fháscadh
+* fhéachain: fhéachaint
+* fhéachan: fhéachann
+* fhéadaim-se: fhéadaimse
+* fhéadfaimíd: fhéadfaimid
+* fhéadfainn-se: fhéadfainnse
+* fhéadfá-sa: fhéadfása
+* fhínné: fhinné
+* fhíor-ghreanta: fhíorghreanta
+* fhóghanta: fhónta
+* fiacala: fiacla
+* fiacalach: fiaclach
+* fiadhain: fiáin
+* fiafraighe: fiafraí
+* fiafruigh: fiafraigh
+* fiagaídhe: fiagaí
+* fiain: fiáin
+* fiaine: fiáine
+* fiannaidheacht: fiannaíocht
+* ficheadh: fichiú
+* fillean: filleann
+* fiona-chas: fionnachas
+* fiorthann: feorainn
+* fleasg: fleasc
+* fleisge: fleisce
+* flosg: flosc
+* foghadh: fogha
+* foghanta: fónta
+* foghluim: foghlaim
+* foghluma: foghlama
+* foghlumtha: foghlamtha
+* foghmhair: fómhair
+* foghmhar: fómhar
+* foidhneach: foighneach
+* folamha: folmha
+* foláin: folláin
+* franncaigh: francaigh
+* fraoígh: fraoigh
+* freagair-se: freagairse
+* frithálamh: friotháileamh
+* fuaduighthe: fuadaithe
+* fuaimeana: fuaimeanna
+* fuasgail: fuascail
+* fuat: fuath
+* fuathmhar: fuafar
+* fuid: fud
+* fuighfeadh: faigheadh
+* fuilimíd: fuilimid
+* fuinneamhail: fuinniúil
+* fuinneóg: fuinneog
+* fuinneóga: fuinneoga
+* fuiseóg: fuiseog
+* fuínseóige: fuinseoige
+* fágaimís: fágaimis
+* fágan: fágann
+* fáisgeadh: fáscadh
+* fáisgthe: fáiscthe
+* fásan: fásann
+* fásgadh: fáscadh
+* féachan: féachann
+* féuchaint: féachaint
+* fíor-bheagán: fíorbheagán
+* fíor-bhinn: fíorbhinn
+* fíor-bhog: fíorbhog
+* fíor-dhílis: fíordhílis
+* fíor-ghreanta: fíorghreanta
+* fíor-uisce: fíoruisce
+* fíoruisge: fíoruisce
+* fóghanta: fónta
+* fóil: fóill
+* fúithe: fúithi
+* fúm-sa: fúmsa
+* fút-sa: fútsa
+* fútha: fúthu
+* gCeard-Chomhairle: gCeardchomhairle
+* gCionntsáile: gCionn tSáile
+* gConchubhar: gConchúr
+* gCondae: gContae
+* gConndae: gContae
+* gCroicean: gCraiceann
+* gCualacht: gCuallacht
+* gabhaim-se: gabhaimse
+* gabhan: gabhann
+* gabhtha: gafa
+* garaidhe: garraí
+* garaidhthe: garraithe
+* gasradh: gasra
+* gcaithfidhe: gcaithfí
+* gcaithfimíd: gcaithfimid
+* gcaithtear: gcaitear
+* gcaithtí: gcaití
+* gcapal: gcapall
+* gcaraig: gcarraig
+* gcathana: gcathanna
+* gceangalaidh: gceanglaí
+* gceannsuightí: gceansaítí
+* gceard-chomhairle: gceardchomhairle
+* gceistiughadh: gceistiú
+* gceud: gcéad
+* gceól: gceol
+* gcinneamhaint: gcinniúint
+* gciondúireacht: gcionmhaireacht
+* gcionúireacht: gcionmhaireacht
+* gclaidh: gclaí
+* gcnuc: gcnoc
+* gcodluigheadh: gcodlaíodh
+* gcodlóchadh: gcodlódh
+* gcoláisde: gcoláiste
+* gcomhnuidhe: gcónaí
+* gcomhrádh: gcomhrá
+* gcongnamh: gcúnamh
+* gcroicean: gcraiceann
+* gcroidhe: gcroí
+* gcroídhe: gcroí
+* gcruadh chás: gcruachás
+* gcruadh-chás: gcruachás
+* gcráidhteacht: gcráiteacht
+* gcuaird: gcuairt
+* gcuirean: gcuireann
+* gcéadna: gcéanna
+* gcéird: gceird
+* gcómhair: gcomhair
+* gcómhaireamh: gcomhaireamh
+* gcómharsan: gcomharsan
+* gcómhgar: gcóngar
+* gcómhnuighe: gcónaí
+* gcómhrac: gcomhrac
+* gealaighe: gealaí
+* geallaim-se: geallaimse
+* gearadh: gearradh
+* gearfaí: ghearrfaí
+* gearr-chaile: gearrchaile
+* geartha: gearrtha
+* geur-chúiseach: géarchúiseach
+* geur: géar
+* geóbhfaí: gheofaí
+* ghabhan: ghabhann
+* ghaoíl: ghaoil
+* gharaidhe: gharraí
+* ghearadh: ghearradh
+* ghiorfhiadh: ghiorria
+* ghleus: ghléas
+* ghleusadh: ghléasadh
+* ghleó: ghleo
+* ghnó-sa: ghnósa
+* ghoirgeach: ghairgeach
+* ghormuigh: ghormaigh
+* ghortughadh: ghortú
+* ghrádhmhaire: ghrámhaire
+* ghrádhmhar: ghrámhar
+* ghrána: ghránna
+* ghréasaidhe: ghréasaí
+* ghréasaidheacht: ghréasaíocht
+* ghréin: ghrian
+* ghuidhe: ghuí
+* ghuirt: ghoirt
+* ghuna: ghunna
+* ghádh: ghá
+* gháirdín: ghairdín
+* gháirídhe: gháirí
+* ghárda: gharda
+* ghéar-chúis: ghéarchúis
+* ghéaruigh: ghéaraigh
+* giorfhiadh: giorria
+* giorradh: giorrú
+* glaodhach: glaoch
+* glaoidhte: glaoite
+* gleacaidheachta: gleacaíochta
+* gleacaídhe: gleacaí
+* gleusta: gléasta
+* gleó: gleo
+* gleóidhte: gleoite
+* glinneamhaint: glinniúint
+* gluaisean: gluaiseann
+* glóthaighe: glóthaí
+* goilleamhaint: goilliúint
+* grainín: gráinnín
+* greamana: greamanna
+* greamuighthe: greamaithe
+* grádh: grá
+* grádhmhara: grámhara
+* grána: gránna
+* gréasaidhe: gréasaí
+* gréin: grian
+* guidhe: guí
+* guna: gunna
+* gunaí: gunnaí
+* gunta: gonta
+* gur b'é: gurb é
+* gur b'í: gurb í
+* gur bh': gurbh
+* gur bh'é: gurbh é
+* gur bh'í: gurbh í
+* gur bh’: gurbh
+* gur bh’é: gurbh é
+* gur bh’í: gurbh í
+* gurbh': gurbh
+* gádh: gá
+* gáirdín: gairdín
+* géana: géanna
+* géar-chúis: géarchúis
+* géar-chúise: géarchúise
+* géar-chúiseach: géarchúiseach
+* géar-shúileach: géarshúileach
+* géarughadh: géarú
+* h-Aifrinn: hAifrinn
+* h-Aon-Déag: hAon Déag
+* h-Arrachtáin: hArrachtáin
+* h-Icídhe: hIcí
+* h-Inis: hInis
+* h-Ocht-Déag: hOcht Déag
+* h-Ocht: hOcht
+* h-Ola: hOla
+* h-abartha: habartha
+* h-abhan: habhann
+* h-achmair: hachomair
+* h-aghaidh: haghaidh
+* h-aigne: haigne
+* h-aimsigheadh: haimsíodh
+* h-aimsir: haimsir
+* h-aimsire: haimsire
+* h-ainmneacha: hainmneacha
+* h-airc: hairc
+* h-aireachas: haireachas
+* h-airgead: hairgead
+* h-airigheadh: hairíodh
+* h-airm: hairm
+* h-aiste: haiste
+* h-aithbhliana: hathbhliana
+* h-aithnightear: haithnítear
+* h-aithreacha: haithreacha
+* h-amháin: hamháin
+* h-ana: hana
+* h-anam: hanam
+* h-aodhreacht: haoireacht
+* h-aodhrí: haoirí
+* h-aon-déag: haon déag
+* h-aon: haon
+* h-aonar: haonar
+* h-athair: hathair
+* h-athar: hathar
+* h-eadh: hea
+* h-eagla: heagla
+* h-eochair: heochair
+* h-inbhear: hinbhear
+* h-innsint: hinsint
+* h-inntinne: hintinne
+* h-iomlán: hiomlán
+* h-itheadh: hitheadh
+* h-obair: hobair
+* h-ocht-déag: hocht déag
+* h-ocht: hocht
+* h-ocrach: hocrach
+* h-ofrála: hofrála
+* h-oibre: hoibre
+* h-oileáin: hoileáin
+* h-ola: hola
+* h-olc: holc
+* h-ollamh: hullamh
+* h-oídhche: hoíche
+* h-uachtaráin: huachtaráin
+* h-uaigneach: huaigneach
+* h-uair: huair
+* h-uaire: huaire
+* h-uaisle: huaisle
+* h-uaisleachta: huaisleachta
+* h-uasal: huasal
+* h-uathbhás: huafás
+* h-uchtach: huchtach
+* h-udhacht: huacht
+* h-urchair: hurchair
+* h-urchar: hurchar
+* h-Éirean: hÉireann
+* h-Éirinn: hÉirinn
+* h-áit: háit
+* h-áite: háite
+* h-áluinn: hálainn
+* h-árduigheadh: hardaíodh
+* h-é: hé
+* h-éadach: héadach
+* h-éagcruas: héagruas
+* h-éagcóra: héagóra
+* h-éiligheadh: héilíodh
+* h-éitheach: héitheach
+* h-ógánaigh: hógánaigh
+* hAthghairmtear: hAthghairtear
+* hEibhlís: hEilís
+* hIcídhe: hIcí
+* habhan: habhann
+* hachmair: hachomair
+* haicillíghe: haclaí
+* haimsigheadh: haimsíodh
+* hainmhighthe: hainmhithe
+* hairigheadh: hairíodh
+* haithbhliana: hathbhliana
+* haithnightear: haithnítear
+* haithrighe: haithrí
+* hanama: hanma
+* hanamamhail: hanamúil
+* hanamh: hannamh
+* hannlaí: hanlaí
+* haodhreacht: haoireacht
+* haodhrí: haoirí
+* hathchuinge: hachainí
+* hathghairmtear: hathghairtear
+* headh: hea
+* hearball: heireaball
+* hifrean: hifreann
+* himeal: himeall
+* himirean: himreann
+* himpidhe: himpí
+* himtheacht: himeacht
+* himthigh: himigh
+* hinnsint: hinsint
+* hinntinne: hintinne
+* hiomadamhail: hiomadúil
+* hoidhche: hoíche
+* hoidhcheanta: hoícheanta
+* hoileamhaint: hoiliúint
+* hollamh: hullamh
+* hosgail: hoscail
+* hoídhche: hoíche
+* huaireannta: huaireanta
+* huathbhás: huafás
+* hubhla: húlla
+* hudhacht: huacht
+* hÉirean: hÉireann
+* háluinn: hálainn
+* hárd: hard
+* hárduigheadh: hardaíodh
+* héagcruas: héagruas
+* héagcóra: héagóra
+* héasga: héasca
+* héiligheadh: héilíodh
+* hórdóige: hordóige
+* húmhal: humhal
+* húrláir: hurláir
+* i n' áit: in áit
+* i n'aice: in aice
+* i n'áit: in áit
+* i n-Inis: in Inis
+* i n-a: ina
+* i n-aghaidh: in aghaidh
+* i n-aice: in aice
+* i n-aigne: in aigne
+* i n-am: in am
+* i n-aon: in aon
+* i n-aonfheacht: in éineacht
+* i n-easnamh: in easnamh
+* i n-inead: in ionad
+* i n-inis: in inis
+* i n-Éirinn: in Éirinn
+* i n: in
+* i nUachtar: in Uachtar
+* i nÉirin: in Éirinn
+* i nÉirinn: in Éirinn
+* i n’ áit: in áit
+* i n’aice: in aice
+* i n’áit: in áit
+* iad-san: iadsan
+* iaracht: iarracht
+* iaraidh: iarraidh
+* iaran: iarann
+* ifrean: ifreann
+* imeal: imeall
+* imigcéineamhla: imigéiniúla
+* imigéineamhla: imigéiniúla
+* imnidhe: imní
+* imtheacht: imeacht
+* imtheóchaidh: imeoidh
+* imthig: imigh
+* imthigh: imigh
+* imthigheadar: imíodar
+* imthigheadh: imíodh
+* imthigheann: imíonn
+* imthighthe: imithe
+* imthígheadh: imíodh
+* in a: ina
+* inaisíoctha: in-aisíoctha
+* indiu: inniu
+* indiú: inniu
+* indé: inné
+* inead: ionad
+* inghean: iníon
+* inid: ionad
+* innil: innill
+* innis: inis
+* innsint: insint
+* innte: inti
+* inte: inti
+* iomadamhlacht: iomadúlacht
+* iomdha: iomaí
+* iompuigh: iompaigh
+* iompuighdar: iompaíodar
+* iompuigheadar: iompaíodar
+* iompuighthe: iompaithe
+* iompó: iompú
+* iomrádh: iomrá
+* ionam-sa: ionamsa
+* ionan: ionann
+* ionat-sa: ionatsa
+* iongantach: iontach
+* iongantaigh: iontach
+* iongantas: iontas
+* iongna: ionadh
+* iongnadh: ionadh
+* ionnam: ionam
+* ionnat: ionat
+* ionnus: ionas
+* iseadh: is ea
+* isiad: is iad
+* isé: is é
+* isí: is í
+* ithte: ite
+* labhruigheadh: labhraíodh
+* laghar: ladhar
+* laguigh: lagaigh
+* lathaighe: lathaí
+* laé: lae
+* le n-a: lena
+* le n-ar: lenar
+* le na: lena
+* leabaidh: leaba
+* leanamhaint: leanúint
+* leanamhnaighe: leanúnaí
+* leanbaidhe: leanbaí
+* leanán: leannán
+* leat-sa: leatsa
+* leath-acra: leathacra
+* leath-amadán: leathamadán
+* leath-bhfabhar: leathbhfabhar
+* leath-bhliana: leathbhliana
+* leath-bhriste: leathbhriste
+* leath-ghlúin: leathghlúin
+* leath-mhíle: leathmhíle
+* leath-phingin: leathphingin
+* leath-sgéal: leithscéal
+* leath-sgéil: leithscéil
+* leath-shúil: leathshúil
+* leath-taoibh: leataoibh
+* leath-uaire: leathuaire
+* leathanuigh: leathnaigh
+* leathta: leata
+* leathtaoibh: leataoibh
+* leig: lig
+* leigeadar: ligeadar
+* leigeadh: ligeadh
+* leigfeadh: ligfeadh
+* leigfear: ligfear
+* leigfeá: ligfeá
+* leigfinn: ligfinn
+* leigidís: ligidís
+* leiginn: liginn
+* leigint: ligean
+* leigtí: ligtí
+* leinbh: linbh
+* leisge: leisce
+* leithéid-se: leithéidse
+* leus: léas
+* leó: leo
+* leóithne: leoithne
+* león: leon
+* leór: leor
+* liath-ghorm: liathghorm
+* liom-sa: liomsa
+* liúgh: liú
+* liúghfad: liúfad
+* liúghfainn: liúfainn
+* liúghfair: liúfair
+* liúighríghe: liúirí
+* loisgeadh: loisceadh
+* loisgfí: loiscfí
+* loitean: loiteann
+* longphuirt: longfoirt
+* losgadh: loscadh
+* luasg: luasc
+* luasgadh: luascadh
+* lugha: lú
+* luighe: luí
+* luigheadh: luíodh
+* luighfeadh: luífeadh
+* luígh: luigh
+* luíghe: luí
+* luíngseóireacht: loingseoireacht
+* lá'r: lá ar
+* láidire: láidre
+* lámh-láidir: lámh láidir
+* lámhuigh: lámhaigh
+* lán-dúiseacht: lándúiseacht
+* lán-toil: lántoil
+* lán-toilteanach: lántoilteanach
+* lánamhain: lánúin
+* lá’r: lá ar
+* léi-se: léise
+* léigheamh: léamh
+* léigheanta: léannta
+* léighinn: léinn
+* léighte: léite
+* léiriughadh: léiriú
+* léirsgrios: léirscrios
+* léithi: léi
+* lín-tíghe: líon tí
+* línn: linn
+* lóisdín: lóistín
+* lúgha: lú
+* m'athair-se: m'athairse
+* mBanríghin: mBanríon
+* machtnamh: machnamh
+* machtíre: mac tíre
+* maidion: maidin
+* mailísíghe: mailísí
+* mairean: maireann
+* mairidh: maire
+* maiseamhail: maisiúil
+* maithtí: maití
+* mallachtaighe: mallachtaí
+* malluighthe: mallaithe
+* maoidheamh: maíomh
+* maolughadh: maolú
+* maordha: maorga
+* mar 'dh eadh: mar dhea
+* mar ’dh eadh: mar dhea
+* mara: mura
+* marach: murach
+* maranna: marana
+* marbhadh: marú
+* marbhughadh: marú
+* marbhuigheadh: maraíodh
+* marbhuightear: maraítear
+* marbhóch': maródh
+* marbhóchaidh: maróidh
+* marbhóchar: marófar
+* marcaidheacht: marcaíocht
+* marcaidheachta: marcaíochta
+* marcaigheacht: marcaíocht
+* mb' fhéidir: mb'fhéidir
+* mb' áil: mb'áil
+* mb' éigean: mb'éigean
+* mbadh: mba
+* mbanríghin: mbanríon
+* mbeimíd: mbeimid
+* mbeimís: mbeimis
+* mbeithidheach: mbeithíoch
+* mbeul: mbéal
+* mbiadh: mbia
+* mbinnse: mbinse
+* mbliaghain: mbliain
+* mbosga: mbosca
+* mbothar: mbóthar
+* mbreóiteacht: mbreoiteacht
+* mbrígh: mbrí
+* mbuachail: mbuachaill
+* mbuideul: mbuidéal
+* mbuidhe: mbuí
+* mbádhfaí: mbáfaí
+* mbárr: mbarr
+* mbéadh: mbeadh
+* mbéidh: mbeidh
+* mbéidís: mbeidís
+* mbéinn-se: mbeinnse
+* mbéinn: mbeinn
+* mbínnse: mbinse
+* mbíon: mbíonn
+* mbórd: mbord
+* mbúirtheach: mbúireach
+* mb’ fhéidir: mb’fhéidir
+* mb’ áil: mb’áil
+* mb’ éigean: mb’éigean
+* me: mé
+* meadhon-lae: meán lae
+* meadhon: meán
+* mearaidhe: mearaí
+* mearaídhe: mearaí
+* measaim-se: measaimse
+* measan: measann
+* measg: measc
+* measgadh: meascadh
+* measgán: meascán
+* meathlughadh: meathlú
+* meathta: meata
+* meigioll: meigeall
+* meisge: meisce
+* meisgeóireacht: meisceoireacht
+* meón: meon
+* mhachtnamh: mhachnamh
+* mhachtíre: mhac tíre
+* mhada: mhadra
+* mhaidean: mhaidin
+* mhairbhitíghe: mhairbhití
+* mhairean: mhaireann
+* mhaiseadh: mhuise
+* mhalluighthe: mhallaithe
+* mhaoluigh: mhaolaigh
+* mharbhadh: mharú
+* mharbhughadh: mharú
+* mharbhóch': mharódh
+* mharbhóch’: mharódh
+* mharbhú': mharú
+* mheadhon-lae: mheán lae
+* mheadhon: mheán
+* mheasan: mheasann
+* mheasg: mheasc
+* mheathtacht: mheatacht
+* mheur: mhéar
+* mheón: mheon
+* mhinicíghe: mhinicí
+* mhion-airgead: mhionairgead
+* mhisde: mhiste
+* mhothughadh: mhothú
+* mhothuigh: mhothaigh
+* mhothuigheas: mhothaíos
+* mhothóchadh: mhothódh
+* mhuinteardha: mhuinteartha
+* mhulach: mhullach
+* mhuíntir: mhuintir
+* mháighistir: mháistir
+* mháighistiríbh: mháistiribh
+* mháthair-se: mháthairse
+* mhéaduigh: mhéadaigh
+* mhí dheiridh an Fhoghmhair: Mhí Dheireadh Fómhair
+* mhí-chiall: mhíchiall
+* mhí-chreidimh: mhíchreidimh
+* mhíniughadh: mhíniú
+* mhódh: mhodh
+* mion-airgid: mionairgid
+* mion-bhuillí: mionbhuillí
+* mionáin: mionnáin
+* miosgais: mioscais
+* misde: miste
+* modhamhail: modhúil
+* molaim-se: molaimse
+* mothuightear: mothaítear
+* moíng: moing
+* muilean: muileann
+* muinntireas: muintearas
+* muintearthas: muintearas
+* muinéal: muineál
+* multachán: moltachán
+* muínteartha: muinteartha
+* muíntir: muintir
+* má 's: más
+* má 'tá: má tá
+* má ’s: más
+* má ’tá: má tá
+* má's: más
+* máighistir: máistir
+* máiseadh: más ea
+* má’s: más
+* mí dheiridh an Fhoghmhair: Mí Dheireadh Fómhair
+* mí-chiall: míchiall
+* mí-chúmtha: míchumtha
+* mí-lítheacht: mílítheacht
+* mí-nádúrtha: mínádúrtha
+* mí-náireach: mínáireach
+* mí-ádhbharach: mí-ámharach
+* módh: modh
+* mór-chúis: mórchúis
+* mór-chúiseach: mórchúiseach
+* mór-is-fiú: mór is fiú
+* mór-mhian: mórmhian
+* mór-sheisear: mórsheisear
+* mór-thímpal: mórthimpeall
+* mórthímpal: mórthimpeall
+* múinteóir: múinteoir
+* m’athair-se: m’athairse
+* n-Abhainn: nAbhainn
+* n-Aifric: nAifric
+* n-Euróip: nEoraip
+* n-Ocht: nOcht
+* n-Ubh: nUbh
+* n-Ulán: nUlán
+* n-Uíbh: nUíbh
+* n-a: na
+* n-achran: n-achrann
+* n-ainmhidhthe: n-ainmhithe
+* n-airigheadh: n-airíodh
+* n-airighinn: n-airínn
+* n-aithnigheadh: n-aithníodh
+* n-aodhrí: n-aoirí
+* n-atúrnae: n-aturnae
+* n-earball: n-eireaball
+* n-eun: n-éan
+* n-imtheacht: n-imeacht
+* n-iongantas: n-iontas
+* n-ollamhughadh: n-ullmhú
+* n-uradhas: n-urrús
+* n-Éag: nÉag
+* n-Éirinn: nÉirinn
+* n-Órd: nOrd
+* n-áirighthe: n-áirithe
+* n-éaghmuis: n-éagmais
+* n-éireóch': n-éireodh
+* n-éirigheadh: n-éiríodh
+* n-ímpirí: n-impirí
+* n-ínsint: n-insint
+* n-órnáidí: n-ornáidí
+* nGaedhal: nGael
+* nGormfhlaith: nGormlaith
+* nIONGANTAS: nIONTAS
+* nIongantas: nIontas
+* naisg: naisc
+* naoi-déag: naoi déag
+* naoidheanán: naíonán
+* naomhadh: naoú
+* naomhtha: naofa
+* naonbhar: naonúr
+* ndaoíne: ndaoine
+* ndeaghaidh: ndeachaigh
+* ndearbh-bhráthair: ndeartháir
+* ndearbhbhráthair: ndeartháir
+* ndearbhráthair: ndeartháir
+* ndeirbhshéir: ndeirfiúr
+* ndeire: ndeireadh
+* ndeug: ndéag
+* ndeunfadh: ndéanfadh
+* ndeunfainn: ndéanfainn
+* ndeurfadh: ndéarfadh
+* ndeurfainn: ndéarfainn
+* ndiaigh: ndiaidh
+* ndorus: ndoras
+* ndrangháire: ndranngháire
+* ndrangháirí: ndranngháirí
+* ndroch bheart: ndrochbheart
+* ndroch obair: ndrochobair
+* ndroch-dhaoine: ndrochdhaoine
+* ndubhshlán: ndúshlán
+* ndéanfainn-se: ndéanfainnse
+* ndéanfá-sa: ndéanfása
+* ndícheal: ndícheall
+* ndóghfadh: ndófadh
+* ndóich: ndóigh
+* ndúbhairt: ndúirt
+* neamh-bheo: neamhbheo
+* neamh-choitchionta: neamhchoitianta
+* neamh-shásta: neamhshásta
+* neamhnídh: neamhní
+* neamhsgáthmhar: neamhscáfar
+* neamhspleadhach: neamhspleách
+* neamhthuisgint: neamhthuiscint
+* neartughadh: neartú
+* neartuigh: neartaigh
+* neithe: nithe
+* neul: néal
+* neóin: neoin
+* ngaisge: ngaisce
+* ngaraidhe: ngarraí
+* ngeinte: nginte
+* ngioracht: ngiorracht
+* ngiorfhiadh: ngiorria
+* ngleus: ngléas
+* ngréin: ngrian
+* ngáirdín: ngairdín
+* nua-Ghaedhilge: Nua-Ghaeilge
+* nuadhacht: nuacht
+* nuadhachta: nuachta
+* nách: nach
+* nár bh' eadh: nárbh ea
+* nár bh': nárbh
+* nár bh'eadh: nárbh ea
+* nár bh'é: nárbh é
+* nár bh'í: nárbh í
+* nár bh’ eadh: nárbh ea
+* nár bh’: nárbh
+* nár bh’eadh: nárbh ea
+* nár bh’é: nárbh é
+* nár bh’í: nárbh í
+* nárbh': nárbh
+* nárbh’: nárbh
+* néallta: néalta
+* ní fhuil: níl
+* ní'l: níl
+* ní'limíd: nílimid
+* níba: ní ba
+* nídh: ní
+* nímhe: nimhe
+* nímhneach: nimhneach
+* níor bh': níorbh
+* níor bh'fhada: níorbh fhada
+* níor bh'fhearr: níorbh fhearr
+* níor bh'fhéidir: níorbh fhéidir
+* níor bh’: níorbh
+* níor bh’fhada: níorbh fhada
+* níor bh’fhearr: níorbh fhearr
+* níor bh’fholáir: níorbh fholáir
+* níorbh’: níorbh
+* ní’l: níl
+* ní’limíd: nílimid
+* nú: nó
+* ocht-déag: ocht déag
+* ochtmhadh: ochtú
+* oibrigheadh: oibríodh
+* oidhche: oíche
+* oidhcheanta: oícheanta
+* oificeach: oifigeach
+* oileamhaint: oiliúint
+* oirean: oireann
+* olan: olann
+* ollamhughadh: ullmhú
+* ollmhúcháin: ullmhúcháin
+* ordughadh: ordú
+* orm-sa: ormsa
+* orra: orthu
+* ort-sa: ortsa
+* ortha-san: orthusan
+* ortha: orthu
+* oscaileóch': osclódh
+* osgail: oscail
+* osgailt: oscailt
+* osgailte: oscailte
+* osguil: oscail
+* oíde: oide
+* oídhche: oíche
+* paidreóireacht: paidreoireacht
+* paisnéirí: paisinéirí
+* para-méic-iam: paraiméiciam
+* paraméiciam: paraiméiciam
+* peictiúir: pictiúir
+* peiliúr: piliúr
+* phaisnéirí: phaisinéirí
+* pheann-sa: pheannsa
+* pheictiúir: phictiúir
+* phlubaire: phlobaire
+* phléasgamair: phléascamar
+* phléidhe: phlé
+* phríbhléid: phribhléid
+* phríbhléidí: phribhléidí
+* phríomh-stiúrthóir: phríomhstiúrthóir
+* phuinte: phointe
+* pháipeur: pháipéar
+* phárlús: pharlús
+* phúnt: phunt
+* preaban: preabann
+* príomh-stiúrthóir: príomhstiúrthóir
+* prísúnach: príosúnach
+* puínn: puinn
+* páipeur: páipéar
+* párdún: pardún
+* píonóis: pionóis
+* púint: puint
+* púnt: punt
+* rabhadar-san: rabhadarsan
+* rabhamair: rabhamar
+* rabhdar: rabhadar
+* raint: roinnt
+* rathmhaire: rafaire
+* riaghail: riail
+* riaghalta: rialta
+* riaghlacha: rialacha
+* riaghlughadh: rialú
+* rioth: rith
+* roimpe: roimpi
+* roímpi: roimpi
+* ruadh: rua
+* ruith: rith
+* ruithean: ritheann
+* rádh: rá
+* ráidhte: ráite
+* ráinigheadh: ráiníodh
+* réamhráiteach: réamhráite
+* réidhe: ré
+* réidhteach: réiteach
+* rígh: rí
+* ríghin: righin
+* ríghneas: righneas
+* ríghnis: righnis
+* ríghthe: ríthe
+* ríghtheighlach: rítheaghlach
+* ríogh: rí
+* ríoghamhail: ríúil
+* ró bheag: róbheag
+* ró dheacair: ródheacair
+* ró dhian: ródhian
+* ró dhéanach: ródhéanach
+* ró dhéanaighe: ródhéanaí
+* ró fhada: rófhada
+* ró ghearr: róghearr
+* ró láidir: róláidir
+* ró mhaith: rómhaith
+* ró mhór: rómhór
+* rómham: romham
+* rómhat: romhat
+* rómpa: rompu
+* sa n-Euróip: san Eoraip
+* sa n-am: san am
+* saidhbhir: saibhir
+* saidhbhreas: saibhreas
+* sailighe: sailí
+* sainnt: saint
+* san tséipéal: sa séipéal
+* saoghail: saoil
+* saoghal: saol
+* saoráidíghe: saoráidí
+* saothrughadh: saothrú
+* sceul: scéal
+* sceulta: scéalta
+* scrogal: scrogall
+* scríobhtha: scríofa
+* sdoca: stoca
+* sdocaí: stocaí
+* seacht-déag: seacht déag
+* seachtmhadh: seachtú
+* seadh: sea
+* sean Ghall: Sean-Ghall
+* sean fhocal: seanfhocal
+* sean-fhocal: seanfhocal
+* seansúir: seamsúir
+* seansúr: seamsúr
+* seasga: seasca
+* seasgair: seascair
+* seó: seo
+* seóid: seoid
+* seóigh: seoigh
+* seóladh: seoladh
+* seólta: seolta
+* seómra: seomra
+* sgafaire: scafaire
+* sgailp: scailp
+* sgaipeadar: scaipeadar
+* sgaipeadh: scaipeadh
+* sgairt: scairt
+* sgairteadh: scairteadh
+* sgamaill: scamaill
+* sgamall: scamall
+* sgannradh: scanradh
+* sgaoil: scaoil
+* sgaoileadh: scaoileadh
+* sgaoilfeadh: scaoilfeadh
+* sgaoilfí: scaoilfí
+* sgaoilinn: scaoilinn
+* sgaoilte: scaoilte
+* sgar: scar
+* sgaradar: scaradar
+* sgaradh: scaradh
+* sgarfadh: scarfadh
+* sgarfaidh: scarfaidh
+* sgartha: scartha
+* sgartáladh: scartáladh
+* sgata: scata
+* sgeart: sceart
+* sgeimhle: sceimhle
+* sgeithe: sceiche // also 'sceithe', but only sceiche in texts to date
+* sgeul-sa: scéalsa
+* sgeul: scéal
+* sgeón: sceon
+* sgiain: scian
+* sgian: scian
+* sgiathán: sciathán
+* sgiathóige: sciathóige
+* sgilling: scilling
+* sgillinge: scillinge
+* sgiob: sciob
+* sgiomar: sciomar
+* sgiot: sciot
+* sgiúradh: sciúradh
+* sglábhaidheachta: sclábhaíochta
+* sgoil: scoil
+* sgoile: scoile
+* sgoileana: scoileanna
+* sgoileanna: scoileanna
+* sgoilfeadh: scoiltfeadh
+* sgoiltfí: scoiltfí
+* sgolaidheachta: scolaíochta
+* sgoláire: scoláire
+* sgoláirí: scoláirí
+* sgot: scot
+* sgraith: scraith
+* sgrannradh: scanradh
+* sgread: scread
+* sgreadach: screadach
+* sgreadaigh: screadaigh
+* sgrios: scrios
+* sgriosadh: scriosadh
+* sgríbhinn: scríbhinn
+* sgríbhinne: scríbhinne
+* sgríobh: scríobh
+* sgríobhadh: scríobhadh
+* sgríobhfadh: scríobhfadh
+* sgrúdughadh: scrúdú
+* sguab: scuab
+* sguabadar: scuabadar
+* sguabadh: scuabadh
+* sgurtha: scortha
+* sgáil: scáil
+* sgáinte: scáinte
+* sgáth: scáth
+* sgátha: scátha
+* sgéal-sa: scéalsa
+* sgéal: scéal
+* sgéala: scéala
+* sgéalaidheachta: scéalaíochta
+* sgéalta: scéalta
+* sgéil: scéil
+* sgéine: scéine
+* sgíth: scíth
+* shamhluigh: shamhlaigh
+* shaoghail: shaoil
+* shaoghal: shaol
+* shaoráidíghe: shaoráidí
+* shaothrughadh: shaothrú
+* shealbhughadh: shealbhú
+* shean-athair: sheanathair
+* shean-fhocal: sheanfhocal
+* sheana-mháthair: sheanmháthair
+* sheasamhach: sheasmhach
+* sheasgair: sheascair
+* sheilbh-se: sheilbhse
+* sheól: sheol
+* sheóladh: sheoladh
+* shinnsear: shinsear
+* shiubhail: shiúil
+* shiubhal: shiúl
+* shleamhnuigh: shleamhnaigh
+* shlígh: shlí
+* shocarughadh: shocrú
+* shocaruigheadar: shocraíodar
+* shocruigh: shocraigh
+* shoin: shin
+* sholusmhara: sholasmhara
+* sholuídí: sholaoidí
+* shon-sa: shonsa
+* shuaimhneasaíghe: shuaimhneasaí
+* shuaraíghe: shuaraí
+* shuidh: shuigh
+* shuidhe: shuí
+* shuidheadh: shuíodh
+* shuigheadh: shuíodh
+* shuídhfidh: shuífidh
+* shuíghe: shuí
+* sháidh: sháith
+* shárughadh: shárú
+* sháruigh: sháraigh
+* sháthadh: shá
+* shíothcháin: shíocháin
+* shíothchánta: shíochánta
+* siad-san: siadsan
+* sibh-se: sibhse
+* siniad: sin iad
+* sinnsear: sinsear
+* siné: sin é
+* sisi: sise
+* siubhail: siúil
+* siubhal: siúl
+* siúbhail: siúil
+* siúbhal: siúl
+* sleamhnughadh: sleamhnú
+* sluagh: slua
+* slánuightheoir: slánaitheoir
+* slánuightheóra: slánaitheora
+* slíghe: slí
+* slóighte: slóite
+* smeigín: smigín
+* socaireacht: socracht
+* socarughadh: socrú
+* socaruigheadh: socraíodh
+* soillseach: soilseach
+* soin: sin
+* soisgéal: soiscéal
+* soluis: solais
+* solus: solas
+* solusmhaire: solasmhaire
+* solusmhar: solasmhar
+* solusmhara: solasmhara
+* spideóg: spideog
+* stadan: stadann
+* stadfaimís: stadfaimis
+* staidhre: staighre
+* stiúraithe: stiúrtha
+* stiúrughadh: stiúradh
+* stiúsaidhe: stiúsaí
+* stuamdha: stuama
+* suaithte: suaite
+* suaithtí: suaití
+* suan-traidhe: suantraí
+* subh: sú
+* suidhe: suí
+* suidhfeadh: suífeadh
+* suidhfidh: suífidh
+* suidhte: suite
+* suiríghe: suirí
+* sul a: sula
+* sul ar: sular
+* sushi: súisí
+* suídhe: suí
+* suíghe: suí
+* sáidhte: sáite
+* sáithte: sáite
+* sé-déag: sé déag
+* séidean: séideann
+* sémhadh: séú
+* sínsear: sinsear
+* síor-chasadh: síorchasadh
+* síothcháin: síocháin
+* síothchána: síochána
+* síothchánta: síochánta
+* síthcháin: síocháin
+* síthchána: síochána
+* síthchánta: síochánta
+* t'aigne: d'aigne
+* t'anam: d'anam
+* t-Abb: tAb
+* t-Aodhre: tAoire
+* t-Aonmhadh: tAonú
+* t-Athair: tAthair
+* t-Easbog: tEaspag
+* t-Iarla: tIarla
+* t-OCHTMHADH: tOCHTÚ
+* t-Ochtmhadh: tOchtú
+* t-abb: t-ab
+* t-ainmhíghe: t-ainmhí
+* t-aodhre: t-aoire
+* t-aonmhadh: t-aonú
+* t-atharughadh: t-athrú
+* t-athrughadh: t-athrú
+* t-earball: t-eireaball
+* t-eirighe: t-éirí
+* t-eun: t-éan
+* t-eólus: t-eolas
+* t-imtheacht: t-imeacht
+* t-iománaídhe: t-iománaí
+* t-oighre: t-oidhre
+* t-sean: tsean
+* t-uathbhás: t-uafás
+* t-ubhall: t-úll
+* t-uisge: t-uisce
+* t-Árdrígh: tArdrí
+* t-é: té
+* t-éirleach: t-eirleach
+* t-ím: t-im
+* t-órd: t-ord
+* t-úrlár: t-urlár
+* tOchtmhadh: tOchtú
+* tSlánuightheora: tSlánaitheora
+* tSlánuightheóra: tSlánaitheora
+* tabhair-se: tabhairse
+* tagan: tagann
+* tairbhthe: tairbhe
+* taisbeáin: taispeáin
+* taisbeáint: taispeáint
+* taisbeána: taispeána
+* taithighe: taithí
+* taithneamh: taitneamh
+* taithíghe: taithí
+* talmhan: talún
+* tamail: tamaill
+* tamal: tamall
+* taoíbhíní: taoibhíní
+* tarcuisne: tarcaisne
+* tarraing: tarraingt
+* teach-sa: teachsa
+* teagasg: teagasc
+* teampuil: teampaill
+* teangaidh: teanga
+* teasbach: teaspach
+* teasbáint: taispeáint
+* teine: tine
+* teinn: tinn
+* teinneas: tinneas
+* teinnis: tinnis
+* teinte: tinte
+* teipithe: teipthe
+* teó: teo
+* thabharfainn-se: thabharfainnse
+* thagan: thagann
+* thairbhíghe: thairbhí
+* thaisbeáin: thaispeáin
+* thaisbeáint: thaispeáint
+* thaithin: thaitin
+* thaithn: thaitin
+* thaithnean: thaithneann
+* thaithíghe: thaithí
+* tharaing: tharraing
+* theach-sa: theachsa
+* theasaidhe: theasaí
+* theastuigh: theastaigh
+* theine: thine
+* theinn: thinn
+* theipean: theipeann
+* theó: theo
+* thighearna: thiarna
+* thimcheall: thimpeall
+* thineóntaidhe: thionóntaí
+* thoil-se: thoilse
+* thoisg: thoisc
+* thorm: tharam
+* threó: threo
+* thriomuigh: thriomaigh
+* thruagh-sa: thruasa
+* thruagh: thrua
+* thruime: throime
+* thuairim-se: thuairimse
+* thuairisg: thuairisc
+* thuairisge: thuairisce
+* thugan: thugann
+* thuigean: thuigeann
+* thuigsint: thuiscint
+* thuille: thuilleadh
+* thuisgeana: thuisceana
+* thuisgint: thuiscint
+* thuisgiona: thuisceana
+* thuisgionach: thuisceanach
+* thuit: thit
+* thuiteadh: thiteadh
+* thuitim: thitim
+* thusach: thosach
+* thusnuigh: thosnaigh
+* tháinigh: tháinig
+* thárla: tharla
+* thásg: thásc
+* théaluigh: théaltaigh
+* théidhinn: théinn
+* théigheadh: théadh
+* théighim: théim
+* thíghe: thí
+* thógfaidhe: thógfaí
+* thógfainn-se: thógfainnse
+* thúirling: thuirling
+* thúisge: thúisce
+* thúm: thum
+* tighe: tí
+* tighearna: tiarna
+* tighearnas: tiarnas
+* tineóntaidhe: tionóntaí
+* tionóisg: tionóisc
+* tnáithte: tnáite
+* to-day: today
+* toiliughadh: toiliú
+* toirmeasg: toirmeasc
+* toirmisg: toirmisc
+* toisg: toisc
+* tonóisg: tionóisc
+* torthamhla: torthúla
+* treó: treo
+* tropaiceach: trópaiceach
+* trosgaidh: troscaidh
+* truagh: trua
+* truaighmhéileach: truamhéalach
+* trí n-a: trína
+* trí-déag: trí déag
+* trímhadh: tríú
+* trínse: trinse
+* tríomhadh: tríú
+* tsaoghail: tsaoil
+* tsaoghal: tsaol
+* tseansúir: tseamsúir
+* tseansúr: tseamsúr
+* tseóid: tseoid
+* tseómra: tseomra
+* tslánuightheóra: tslánaitheora
+* tsoluis: tsolais
+* tsíothcháin: tsíocháin
+* tsíthcháin: tsíocháin
+* tu: tú
+* tuairisg: tuairisc
+* tuairisge: tuairisce
+* tugtaoi: thugtaí
+* tuigean: tuigeann
+* tuighe: tuí
+* tuigim-se: tuigimse
+* tuigsin: tuiscint
+* tuille: tuilleadh
+* tuir: toir
+* tuisgint: tuiscint
+* tuisgiona: tuisceana
+* tuitim: titim
+* tusach: tosach
+* tuíghe: tuí
+* táim-se: táimse
+* táimíd: táimid
+* tásg: tásc
+* tíghe: tí
+* tímpal: timpeall
+* tíncéir: tincéir
+* tíncéirí: tincéirí
+* tínteáin: tinteáin
+* tóirthnighe: toirní
+* tómhaiste: tomhaiste
+* túirling: tuirling
+* túisge: túisce
+* t’anam: d’anam
+* ua: Ó
+* uaim-se: uaimse
+* uair a’ chluig: uair an chloig
+* uaireannta: uaireanta
+* uait-se: uaitse
+* uaithe: uaithi
+* uatha: uathu
+* uathbhásach: uafásach
+* ubhall: úll
+* ubhla: úlla
+* ughdarás: údarás
+* uilc: oilc
+* uirre: uirthi
+* uirthe: uirthi
+* uisge: uisce
+* umam-sa: umamsa
+* urama: urraime
+* ziliúin: zilliúin
+* Áirne: Airne
+* Árd-Rígh: Ardrí
+* Éirean: Éireann
+* Éireanach: Éireannach
+* Éireanacha: Éireannacha
+* Éireanaigh: Éireannaigh
+* áilteóirí: áilteoirí
+* áird: aird
+* áirde: airde
+* áirighthe: áirithe
+* áirneáin: airneáin
+* áiteana: áiteanna
+* áluinn: álainn
+* ámhthach: áfach
+* ámén: áiméan
+* árd: ard
+* árda: arda
+* árdeasbog: ardeaspag
+* árdrígh: ardrí
+* árdughadh: ardú
+* árduig: ardaigh
+* árduigh: ardaigh
+* árdán: ardán
+* árú: arú
+* éadtroma: éadroma
+* éagcóir: éagóir
+* éagcóra: éagóra
+* éaluigh: éalaigh
+* éaluigheas: éalaíos
+* éalódh: éalú
+* éin-inghean: aon iníon
+* éirgheann: éiríonn
+* éirighe: éirí
+* éirigheadar: éiríodar
+* éirigheadh: éiríodh
+* éirighthe: éirithe
+* éirimeamhail: éirimiúil
+* éirleach: eirleach
+* éirligh: eirligh
+* éistecht: éisteacht
+* éugcóir: éagóir
+* ídighthe: ídithe
+* ím: im
+* ímpireacht: impireacht
+* ímpídhe: impí
+* ínse: inse
+* ínsint: insint
+* ó n-a: óna
+* ó'n: ón
+* ó-dheas: ó dheas
+* ó-s: ós
+* ó-thuaidh: ó thuaidh
+* ódheas: ó dheas
+* óig: óg
+* óinsíghe: óinsí
+* órd: ord
+* órdóg: ordóg
+* órdóga: ordóga
+* órdóige: ordóige
+* órlach: orlach
+* órnáide: ornáide
+* órnáidí: ornáidí
+* óráiste: oráiste
+* ós: os
+* ósda: ósta
+* óthuaidh: ó thuaidh
+* ó’n: ón
+* úmhal: umhal
+* úrlabhra: urlabhra
+* úrláir: urláir
+* úrlár: urlár
+* ’chuile: chuile
+* ’dh eadh: dhea
+* ’ghá: á
+* ’ghár: ár
+* ’gá: á
+* ’mó: mó
+* ’n-Éirinn: in Éirinn
+* ’nuair: nuair
+* ’ná: ná
+* ’sa: sa
+* ’san: san
+* ’sna: sna
+* ’á: á
