@@ -1,3 +1,4 @@
+* 'chuile: chuile
 * 'dh eadh: dhea
 * 'ghá: á
 * 'ghár: ár
@@ -84,6 +85,7 @@
 * Midhe: Mí
 * Murchadha: Murchú
 * Múmhain: Mumhain
+* M’lsheachlainn: Maoilsheachlainn
 * Nodlag: Nollag
 * Nuadhat: Nuat
 * Phríomh-Stiúrthóir: Phríomhstiúrthóir
@@ -110,6 +112,10 @@
 * a dh'innsint: ag insint
 * a dh'ithe: ag ithe
 * a dh'ól: ag ól
+* a dh’imirt: ag imirt
+* a dh’innsint: ag insint
+* a dh’ithe: ag ithe
+* a dh’ól: ag ól
 * a réir dlighe: de réir dlí // check
 * a's: is
 * a-n: an
@@ -193,6 +199,7 @@
 * an-chompóirdeach: an-chompordach
 * an-chompórdach: an-chompordach
 * an-neamh-choitchionta: an-neamhchoitianta
+* ana bheag: an-bheag
 * ana dhathúil: an-dathúil
 * ana fhada: an-fhada
 * ana láidir: an-láidir
@@ -236,6 +243,7 @@
 * aír: air
 * a’s: is
 * b' fhéidir: b'fhéidir
+* b' éigean: b'éigean
 * b'ainim: b'ainm
 * b'aoirde: b'airde
 * b'féidir: b'fhéidir
@@ -427,6 +435,7 @@
 * bárr: barr
 * béidh: beidh
 * béidir: b'fhéidir
+* béidir: b’fhéidir
 * béimíd: beimid
 * bím-se: bímse
 * bínn: binn
@@ -439,7 +448,9 @@
 * búntáiste: buntáiste
 * b’ fhéidir: b’fhéidir
 * b’ éigean: b’éigean
+* b’ainim: b’ainm
 * b’aoirde: b’airde
+* b’féidir: b’fhéidir
 * cabhrughadh: cabhrú
 * cadé: cad é
 * cadí: cad í
@@ -705,6 +716,7 @@
 * cé'r: cér
 * céadna: céanna
 * céireach: céarach
+* cé’cu: cé acu
 * cé’r: cér
 * cíosana: cíosanna
 * cómhacht: cumhacht
@@ -777,6 +789,7 @@
 * d'fheuchadh: d'fhéachadh
 * d'fheuchfadh: d'fhéachfadh
 * d'fhiafruigh: d'fhiafraigh
+* d'fhreagradar-san: d'fhreagradarsan
 * d'fhuasgailt: d'fhuascailt
 * d'fhuiling: d'fhulaing
 * d'fhághail: d'fháil
@@ -799,6 +812,7 @@
 * d'osgail: d'oscail
 * d'osgailt: d'oscailt
 * d'á: dá
+* d'ár bh': dárbh
 * d'ár: dár
 * d'árdughadh: d'ardú
 * d'árduig: d'ardaigh
@@ -806,6 +820,7 @@
 * d'éaluigh: d'éalaigh
 * d'éaluigheas: d'éalaíos
 * d'éirigheadar: d'éiríodar
+* d'éirigheadh: d'éiríodh
 * d'ínsint: d'insint
 * dTagartar: dTagraítear
 * dachad: daichead
@@ -848,6 +863,7 @@
 * deurfar: déarfar
 * deó: deo
 * de’n: den
+* dfhéadfá: d'fhéadfá
 * dfhéadfá: d’fhéadfá
 * dh'fhan: d'fhan
 * dh'fhoghlaim: d'fhoghlaim
@@ -899,7 +915,10 @@
 * dhóich: dhóigh
 * dhóithin: dhóthain
 * dhúthchas: dhúchas
+* dh’fhan: d’fhan
+* dh’fhoghlaim: d’fhoghlaim
 * dh’fhéadfadh: d’fhéadfadh
+* dh’iompóch’: d’iompódh
 * di-se: dise
 * dian-leathadh: dianleathadh
 * diúltughadh: diúltú
@@ -966,6 +985,8 @@
 * duilleabhar: duilliúr
 * duit-se: duitse
 * dáltha: dála
+* dár bh': dárbh
+* dár bh’: dárbh
 * déanaighe: déanaí
 * déarca: déirce
 * déarfainn-se: déarfainnse
@@ -1060,9 +1081,11 @@
 * d’iompuigheadar: d’iompaíodar
 * d’iongnadh: d’ionadh
 * d’oibrigheadh: d’oibríodh
+* d’ollamhughadh: d’ullmhú
 * d’osgail: d’oscail
 * d’osgailt: d’oscailt
 * d’á: dá
+* d’ár bh’: dárbh
 * d’ár: dár
 * d’árdughadh: d’ardú
 * d’árduig: d’ardaigh
@@ -1336,6 +1359,7 @@
 * guna: gunna
 * gunaí: gunnaí
 * gunta: gonta
+* gur b': gurb
 * gur b'é: gurb é
 * gur b'í: gurb í
 * gur bh': gurbh
@@ -1344,7 +1368,13 @@
 * gur bh’: gurbh
 * gur bh’é: gurbh é
 * gur bh’í: gurbh í
+* gur b’: gurb
+* gur b’é: gurb é
+* gur b’í: gurb í
+* gurb': gurb
 * gurbh': gurbh
+* gurbh’: gurbh
+* gurb’: gurb
 * gádh: gá
 * gáirdín: gairdín
 * géana: géanna
@@ -1380,6 +1410,12 @@
 * h-aithnightear: haithnítear
 * h-aithreacha: haithreacha
 * h-amháin: hamháin
+* h-ana bhuartha: han-bhuartha
+* h-ana dheas: han-dheas
+* h-ana mhaith: han-mhaith
+* h-ana mhinic: han-mhinic
+* h-ana oban: han-oban
+* h-ana réidh: han-réidh
 * h-ana: hana
 * h-anam: hanam
 * h-aodhreacht: haoireacht
@@ -1680,6 +1716,7 @@
 * marbhóch': maródh
 * marbhóchaidh: maróidh
 * marbhóchar: marófar
+* marbhóch’: maródh
 * marcaidheacht: marcaíocht
 * marcaidheachta: marcaíochta
 * marcaigheacht: marcaíocht
@@ -1746,6 +1783,7 @@
 * mharbhóch': mharódh
 * mharbhóch’: mharódh
 * mharbhú': mharú
+* mharbhú’: mharú
 * mheadhon-lae: mheán lae
 * mheadhon: mheán
 * mheasan: mheasann
@@ -1813,6 +1851,7 @@
 * mórthímpal: mórthimpeall
 * múinteóir: múinteoir
 * m’athair-se: m’athairse
+* n' osguil: n'oscail
 * n-Abhainn: nAbhainn
 * n-Aifric: nAifric
 * n-Euróip: nEoraip
@@ -1840,6 +1879,7 @@
 * n-áirighthe: n-áirithe
 * n-éaghmuis: n-éagmais
 * n-éireóch': n-éireodh
+* n-éireóch’: n-éireodh
 * n-éirigheadh: n-éiríodh
 * n-ímpirí: n-impirí
 * n-ínsint: n-insint
@@ -1927,15 +1967,19 @@
 * níor bh': níorbh
 * níor bh'fhada: níorbh fhada
 * níor bh'fhearr: níorbh fhearr
+* níor bh'fholáir: níorbh fholáir
 * níor bh'fhéidir: níorbh fhéidir
 * níor bh’: níorbh
 * níor bh’fhada: níorbh fhada
 * níor bh’fhearr: níorbh fhearr
 * níor bh’fholáir: níorbh fholáir
+* níor bh’fhéidir: níorbh fhéidir
+* níorbh': níorbh
 * níorbh’: níorbh
 * ní’l: níl
 * ní’limíd: nílimid
 * nú: nó
+* n’ osguil: n’oscail
 * ocht-déag: ocht déag
 * ochtmhadh: ochtú
 * oibrigheadh: oibríodh
@@ -1954,6 +1998,7 @@
 * ortha-san: orthusan
 * ortha: orthu
 * oscaileóch': osclódh
+* oscaileóch’: osclódh
 * osgail: oscail
 * osgailt: oscailt
 * osgailte: oscailte
@@ -2089,6 +2134,7 @@
 * sgeart: sceart
 * sgeimhle: sceimhle
 * sgeithe: sceiche // also 'sceithe', but only sceiche in texts to date
+* sgeithe: sceiche // also ’sceithe’, but only sceiche in texts to date
 * sgeul-sa: scéalsa
 * sgeul: scéal
 * sgeón: sceon
@@ -2426,9 +2472,11 @@
 * tómhaiste: tomhaiste
 * túirling: tuirling
 * túisge: túisce
+* t’aigne: d’aigne
 * t’anam: d’anam
 * ua: Ó
 * uaim-se: uaimse
+* uair a' chluig: uair an chloig
 * uair a’ chluig: uair an chloig
 * uaireannta: uaireanta
 * uait-se: uaitse
