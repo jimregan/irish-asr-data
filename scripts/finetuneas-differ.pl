@@ -67,11 +67,9 @@ if(exists $jsonr->{'fragments'}) {
 						if($pluskeys[0] != 0) {
 							push @minustmp, $lwords[$pluskeys[0] + 1];
 							push @plustmp, $rwords[$pluskeys[0]];
-print STDERR "first\n";
 						} else {
 							unshift @minustmp, $lwords[$pluskeys[0]];
 							push @plustmp, $rwords[$pluskeys[0]];
-print STDERR "second\n";
 						}
 					} else {
 						for my $aminus (@minkeys) {
