@@ -1,0 +1,97 @@
+brute-filter-by-language.pl
+this checks words using aspell, to check if the word is Irish, English, both, or neither
+Makes no attempt to correct errors
+
+abair-norm-dict.pl
+Simplifies phones from abair.ie's IPA
+
+abair-simplify-map.tsv
+The mapping file used by abair-norm-dict.pl
+
+abair-to-ipa.pl
+Converts Abair's internal phoneset to the IPA used by the web interface
+
+abair-to-russian.tsv
+
+abair-xml-extract.pl
+
+adapt-silences.pl
+
+aspell-expander.pl
+
+clean-lexicon.pl
+
+clean.pl
+
+cnaglar.pl
+
+conv-abair-pronunciation-dict.pl
+
+daltai-proverbs-scraper.sh
+Scraper for downloading audio/text of proverbs from daltai
+
+coislife/download-cl.sh
+Downloads coislife audiobooks from soundcloud -- requires youtube-dl
+
+extract-festlex.pl
+Unwraps festival-style scheme lexicons to tsv
+
+coislife/extract-text.sh
+Wrapper around pdftotext to convert Cois Life PDF files
+Takes care of some pre-processing details.
+
+finetuneaneas-adjust-times.pl
+
+finetuneas-differ.pl
+
+finetuneas-to-audacity.pl
+
+teanglann/fix-dictionary-pronunciations.pl
+
+
+ga-to-cmudict.pl
+Expands Irish IPA to possible mappings using the CMU phoneset
+
+coislife/guess-and-copy-pdfs.pl
+Checks a directory for PDFs from Cois Life, by their MD5 hash, and copies them to the expected filenames
+
+harald-corpusfile-to-sphinx.pl
+
+ipa-to-cmudict.tsv
+
+leighleat/download-*.sh
+Shell scripts to automate downloading audio data from leighleat.com
+Calls extract-swf-mp3.pl to extract audio
+
+leighleat/extract-swf-mp3.pl
+Wrapper around swfextract (from swftools) to extract audio segments from swf files
+
+mappings
+
+map-to-russian.pl
+
+nonbreaking_prefix.ga
+Irish prefixes, for use with the Moses tokeniser
+
+normalisations.tocheck
+
+normalisations.tsv
+
+normalise.pl
+
+number-dic.pl
+
+pdfextract.pl
+
+rough-times-from-video.pl
+
+sort-normalisations.pl
+
+sphinx
+
+splitter.pl
+
+vtt-patcher.pl
+
+vtt-to-audacity.pl
+
