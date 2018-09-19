@@ -11,8 +11,6 @@ The mapping file used by abair-norm-dict.pl
 abair-to-ipa.pl
 Converts Abair's internal phoneset to the IPA used by the web interface
 
-abair-to-russian.tsv
-
 abair-xml-extract.pl
 
 adapt-silences.pl
@@ -58,6 +56,7 @@ Checks a directory for PDFs from Cois Life, by their MD5 hash, and copies them t
 harald-corpusfile-to-sphinx.pl
 
 ipa-to-cmudict.tsv
+Maps CMUdict's phoneset to IPA, and to the English phones used by Abair's Gweedore voice
 
 leighleat/download-*.sh
 Shell scripts to automate downloading audio data from leighleat.com
@@ -66,22 +65,26 @@ Calls extract-swf-mp3.pl to extract audio
 leighleat/extract-swf-mp3.pl
 Wrapper around swfextract (from swftools) to extract audio segments from swf files
 
-mappings
+mappings/cmusphinx-ru_ipa.tsv
 
 map-to-russian.pl
+Maps Abair phones (+ IPA) to the phoneset used by CMU Sphinx's Russian model
+
+mappings/abair-to-russian.tsv
+The Abair/CMU Sphinx Russian phoneset mapping
 
 nonbreaking_prefix.ga
 Irish prefixes, for use with the Moses tokeniser
 
-normalisations.tocheck
-
 normalisations.tsv
+Single word normalisations, for cleaning text
 
 normalise.pl
 
 number-dic.pl
 
-pdfextract.pl
+coislife/pdfextract.pl
+Wrapper around pdftotext, to handle details of books, such as dropping page numbers, etc.
 
 rough-times-from-video.pl
 
