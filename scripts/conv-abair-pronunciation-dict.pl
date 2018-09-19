@@ -6,7 +6,7 @@ use utf8;
 
 use FindBin qw($RealBin);
 
-open(MAP, '<', "$RealBin/abair-map.tsv");
+open(MAP, '<', "$RealBin/mappings/abair-map.tsv");
 binmode(MAP, ":utf8");
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
