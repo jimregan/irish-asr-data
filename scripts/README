@@ -12,6 +12,7 @@ abair-to-ipa.pl
 Converts Abair's internal phoneset to the IPA used by the web interface
 
 aspell-expander.pl
+Expands pronunciation dictionary with mutations, iff aspell accepts it
 
 clean.pl
 Cleans Irish text: lowercases, removes punctuation
