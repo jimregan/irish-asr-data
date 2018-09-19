@@ -33,9 +33,17 @@ while(<>) {
         if($word =~ /^[0-9]+$/) {
             print "num\t$word\n";
         } elsif($ga->check($lci)) {
-            print "ga\t$lci\n";
+            if($en->check($lci)) {
+                print "both\t$lci\n";
+            } else {
+                print "ga\t$lci\n";
+            }
         } elsif($ga->check($word)) {
-            print "ga\t$word\n";
+            if($en->check($lci)) {
+                print "both\t$word\n";
+            } else {
+                print "ga\t$word\n";
+            }
         } elsif($en->check($lc)) {
             print "en\t$lc\n";
         } elsif($en->check($word)) {
