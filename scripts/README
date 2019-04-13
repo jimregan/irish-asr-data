@@ -1,0 +1,109 @@
+brute-filter-by-language.pl
+this checks words using aspell, to check if the word is Irish, English, both, or neither
+Makes no attempt to correct errors
+
+abair-norm-dict.pl
+Simplifies phones from abair.ie's IPA
+
+abair-simplify-map.tsv
+The mapping file used by abair-norm-dict.pl
+
+abair-to-ipa.pl
+Converts Abair's internal phoneset to the IPA used by the web interface
+
+aspell-expander.pl
+Expands pronunciation dictionary with mutations, iff aspell accepts it
+
+clean.pl
+Cleans Irish text: lowercases, removes punctuation
+
+cnaglar.pl
+Scraper for Corpas na Gaeilge Labhartha Ar Líne (https://www.scss.tcd.ie/~uidhonne/comhra/)
+
+conv-abair-pronunciation-dict.pl
+Converts abair's phoneset to IPA
+
+daltai-proverbs-scraper.sh
+Scraper for downloading audio/text of proverbs from daltai
+
+coislife/download-cl.sh
+Downloads coislife audiobooks from soundcloud -- requires youtube-dl
+
+extract-festlex.pl
+Unwraps festival-style scheme lexicons to tsv
+
+coislife/extract-text.sh
+Wrapper around pdftotext to convert Cois Life PDF files
+Takes care of some pre-processing details.
+
+finetuneaneas-adjust-times.pl
+Takes a finetuneas file, and an audacity label file, and adjusts times in the former to match the latter
+
+finetuneas-differ.pl
+Rudimentary diff program for finetuneas output
+TODO: check insertion/deletion
+
+finetuneas-to-audacity.pl
+Simple script to create an audacity label file from finetuneas
+
+teanglann/fix-dictionary-pronunciations.pl
+Normalises Teanglann items to better match what was spoken
+
+ga-to-cmudict.pl
+Expands Irish IPA to possible mappings using the CMU phoneset
+
+coislife/guess-and-copy-pdfs.pl
+Checks a directory for PDFs from Cois Life, by their MD5 hash, and copies them to the expected filenames
+
+ipa-to-cmudict.tsv
+Maps CMUdict's phoneset to IPA, and to the English phones used by Abair's Gweedore voice
+
+leighleat/download-*.sh
+Shell scripts to automate downloading audio data from leighleat.com
+Calls extract-swf-mp3.pl to extract audio
+
+leighleat/extract-swf-mp3.pl
+Wrapper around swfextract (from swftools) to extract audio segments from swf files
+
+map-to-russian.pl
+Maps Abair phones (+ IPA) to the phoneset used by CMU Sphinx's Russian model
+
+mappings/abair-to-russian.tsv
+The Abair/CMU Sphinx Russian phoneset mapping
+
+nonbreaking_prefix.ga
+Irish prefixes, for use with the Moses tokeniser
+
+normalisations.tsv
+Single word normalisations, for cleaning text
+
+normalise.pl
+Text normalisation
+
+number-dic.pl
+sphinx/number-pronunciation-dict.pl
+Simple script to number alternate pronunciations (for CMU Sphinx)
+TODO: two scripts for the same task: pick one, delete the other
+
+coislife/pdfextract.pl
+Wrapper around pdftotext, to handle details of books, such as dropping page numbers, etc.
+
+sort-normalisations.pl
+Filters output of Kevin Scannell's Caighdeánaitheoir (https://github.com/kscanne/caighdean)
+Where the input and output match a set of simple transformations (meaning they are more or less equivalent),
+prints matching pairs.
+TODO: split pairs into those affecting pronunciation or not
+TODO: sort into files
+
+sphinx/kaldi-text-to-sphinx-transcription.pl
+Convert Kaldi transcripts to Sphinx
+
+splitter.pl
+Simple sentence splitter. Better to use the tokeniser from Moses
+
+vtt-patcher.pl
+'patch' style program for VTT files
+Can split, merge, apply changes, and adapt timings
+
+vtt-to-audacity.pl
+Convert VTT subtitles to Audacity labels
