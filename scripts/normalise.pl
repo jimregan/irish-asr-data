@@ -66,8 +66,6 @@ while(<STDIN>) {
     s/\bh-ana oban/han-oban/gi;
     s/\bh-ana réidh/han-réidh/gi;
     s/\bh-ana bhuartha/han-bhuartha/gi;
-    s/\bi n’aice\b/in aice/gi;
-    s/\bi n-áit\b/in áit/gi;
 
     s/’/'/g;
 
