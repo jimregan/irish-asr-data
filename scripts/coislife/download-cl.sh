@@ -1,13 +1,13 @@
 #!/bin/sh
-youtube-dl https://soundcloud.com/cois-life-teoranta/01-b-otsa-dl-thph-irt-ocht-na -o ibiotsa-01.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/02-b-otsa-cuairt-ghairid -o ibiotsa-02.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/03-b-otsa-dalladh -o ibiotsa-03.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/04-b-otsa-tat -o ibiotsa-04.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/05-b-otsa-pl-s-an-il -o ibiotsa-05.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/06-b-otsa-r-ndiamhair-san -o ibiotsa-06.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/07-b-otsa-pluais-an-tobac -o ibiotsa-07.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/08-b-otsa-an-mhaidhm -o ibiotsa-08.mp3
-youtube-dl https://soundcloud.com/cois-life-teoranta/09-b-otsa-seanchomr-daithe -o ibiotsa-09.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/01-b-otsa_dl-thph-irt-ocht-na -o ibiotsa-01.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/02-b-otsa_cuairt-ghairid -o ibiotsa-02.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/03-b-otsa_dalladh -o ibiotsa-03.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/04-b-otsa_tat -o ibiotsa-04.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/05-b-otsa_pl-s-an-il -o ibiotsa-05.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/06-b-otsa_r-ndiamhair-san -o ibiotsa-06.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/07-b-otsa_pluais-an-tobac -o ibiotsa-07.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/08-b-otsa_an-mhaidhm -o ibiotsa-08.mp3
+youtube-dl https://soundcloud.com/cois-life-teoranta/09-b-otsa_seanchomr-daithe -o ibiotsa-09.mp3
 
 youtube-dl https://soundcloud.com/cois-life-teoranta/1-cuairt-an-phapa-le-colm-o -o i-dtir-mhilis-na-mbeo-01.mp3
 youtube-dl https://soundcloud.com/cois-life-teoranta/2-biorra-le-colm-o-ceallachain -o i-dtir-mhilis-na-mbeo-02.mp3
