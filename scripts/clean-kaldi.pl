@@ -46,9 +46,10 @@ while(<INPUT>) {
 	my $first = shift @pieces;
 	if($fileonly eq 'text') {
 		my @out = map { cleaner($_) } @pieces;
-		print "$first " . join(" ", @out) . "\n";
+		print OUTPUT "$first " . join(" ", @out) . "\n";
 	} else {
+		next if($first eq '');
 		my $firstword = cleaner($first);
-		print "$firstword " . join(" ", @pieces) . "\n";
+		print OUTPUT "$firstword " . join(" ", @pieces) . "\n";
 	}
 }
