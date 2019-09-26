@@ -78,6 +78,8 @@ for my $i (1..77) {
             $phones_out =~ s/\.//g;
             $phones_out =~ s/ˈ//g;
             $phones_out =~ s/\s+/ /g;
+            $phones_out =~ s/^ //;
+            $phones_out =~ s/ $//;
             
             # write the script line
             print WGET "wget http://www.fuaimeanna.ie$sound_raw -O mp3/$sound_base.mp3\n";
