@@ -12,6 +12,9 @@ use Data::Dumper;
 
 my %seen = ();
 
+my @bun = qw(20111109bun 20120320bun 20181213bun 20190307bun);
+my $bun_regex = join('|', @bun);
+
 my $menu = scraper {
     process 'div[class="menu-cartlann-container"] ul li ul li a', 'pages[]' => '@href';
 };
@@ -53,10 +56,16 @@ sub process_page {
         print "$vid\n";
         $seen{$vid} = 1;
         for my $j (@{$i->{'pdfs'}}) {
-            next if($j->as_string =~ /bun.pdf$/);
+            next if($j->as_string =~ /bun.pdf$/ && $j->as_string !~ /$bun_regex/);
             if($j->as_string =~ /TITLE/) {
                 my $corr = $j->as_string;
                 $corr =~ s/ME%C3%81NLEIBH%C3%89AL_DOC_TITLE_mean/20101123mean/;
+                print "$corr\n";
+                next;
+            }
+            if($j->as_string =~ /20140311.pdf/) {
+                my $corr = $j->as_string;
+                $corr =~ s/20140311/20140311mean/;
                 print "$corr\n";
                 next;
             }
