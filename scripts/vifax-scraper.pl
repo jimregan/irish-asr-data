@@ -16,9 +16,15 @@ my $menu = scraper {
 };
 
 my $videos = scraper {
+    process 'table tbody tr td table tbody tr', 'videos[]' => scraper {
+        process 'td div[class="wp-video"] video a', 'video' => '@href';
+        process 'td a[onclick]', 'pdfs[]' => '@href';
+    };
+};
+my $videos2 = scraper {
     process 'table tbody tr', 'videos[]' => scraper {
-        process 'td div[class="wp-video"] div div div video', 'video' => '@src';
-        process 'td a', 'pdfs[]' => '@href';
+        process 'td div[class="wp-video"] video a', 'video' => '@href';
+        process 'td a[onclick]', 'pdfs[]' => '@href';
     };
 };
 
@@ -27,11 +33,27 @@ my $curyear = URI->new('http://vifax.maynoothuniversity.ie/an-bhliain-acaduil-se
 
 my $res = $menu->scrape($mainpage);
 
-print Dumper $curyear;
 process_page($curyear);
+for my $i (@{$res->{'pages'}}) {
+    process_page($i);
+}
 
 sub process_page {
     my $uri = shift;
-    my $pres = $videos->scrape($uri);
-    print Dumper $pres;
+    my $pres;
+    if($uri->as_string !~ m!/cartlann/!) {
+        $pres = $videos->scrape($uri);
+    } else {
+        $pres = $videos2->scrape($uri);
+    }
+    for my $i (@{$pres->{'videos'}}) {
+        my $vid = $i->{'video'}->as_string;
+        next if(exists $seen{$vid});
+        print "$vid\n";
+        $seen{$vid} = 1;
+        for my $j (@{$i->{'pdfs'}}) {
+            next if($j->as_string =~ /bun.pdf$/);
+            print "$j\n";
+        }
+    }
 }
