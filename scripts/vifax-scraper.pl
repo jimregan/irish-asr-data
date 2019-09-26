@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # Scrapes the (relatively) new version of the vifax site
+# dumps a list of urls for feeding into wget
 
 use warnings;
 use strict;
