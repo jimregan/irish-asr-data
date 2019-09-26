@@ -1,4 +1,10 @@
 #!/usr/bin/perl
+# Scrapes sounds from fuaimeanna.ie
+# Creates a set of labels in 'label/' (which must exist)
+# along with three files:
+# run-wget.sh, which downloads the sounds to mp3/ (it creates it)
+# run-ffmpeg.sh, which converts the sounds in mp3/ to wav files in wav/
+# all-fuaimeanna-data.tsv, which contains all of the data
 
 use warnings;
 use strict;
@@ -14,7 +20,7 @@ open(WGET, ">", "run-wget.sh");
 binmode(WGET, ":utf8");
 open(FFMPEG, ">", "run-ffmpeg.sh");
 binmode(FFMPEG, ":utf8");
-open(ALL, ">", "all-data.tsv");
+open(ALL, ">", "all-fuaimeanna-data.tsv");
 binmode(ALL, ":utf8");
 
 my $phones = scraper {
@@ -27,8 +33,8 @@ my $phones = scraper {
     };
 };
 
-if(! -d label) {
-    die "Directory 'label' does not exists\n";
+if(! -d "label") {
+    die "Directory 'label' does not exist\n";
 }
 
 # write shell headers to output files
@@ -37,6 +43,12 @@ print WGET "mkdir mp3\n";
 
 print FFMPEG "#!/bin/sh\n";
 print FFMPEG "mkdir wav\n";
+
+# write .tsv header
+print ALL "Orthographic\t"
+print ALL "Audio (Gaoth Dobhair)\tIPA (Gaoth Dobhair)\t";
+print ALL "Audio (Ceathrú Rua)\tIPA (Ceathrú Rua)\t";
+print ALL "Audio (Corca Dhuibhne)\tIPA (Corca Dhuibhne)\n";
 
 for my $i (1..77) {
     my $res = $phones->scrape(URI->new("http://www.fuaimeanna.ie/en/Recordings.aspx?Page=$i"));
