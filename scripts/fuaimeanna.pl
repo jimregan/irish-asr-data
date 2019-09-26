@@ -45,7 +45,7 @@ print FFMPEG "#!/bin/sh\n";
 print FFMPEG "mkdir wav\n";
 
 # write .tsv header
-print ALL "Orthographic\t"
+print ALL "Orthographic\t";
 print ALL "Audio (Gaoth Dobhair)\tIPA (Gaoth Dobhair)\t";
 print ALL "Audio (Ceathrú Rua)\tIPA (Ceathrú Rua)\t";
 print ALL "Audio (Corca Dhuibhne)\tIPA (Corca Dhuibhne)\n";
