@@ -54,6 +54,12 @@ sub process_page {
         $seen{$vid} = 1;
         for my $j (@{$i->{'pdfs'}}) {
             next if($j->as_string =~ /bun.pdf$/);
+            if($j->as_string =~ /TITLE/) {
+                my $corr = $j->as_string;
+                $corr =~ s/ME%C3%81NLEIBH%C3%89AL_DOC_TITLE_mean/20101123mean/;
+                print "$corr\n";
+                next;
+            }
             print "$j\n";
         }
     }
