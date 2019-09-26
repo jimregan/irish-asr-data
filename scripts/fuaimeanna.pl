@@ -75,6 +75,9 @@ for my $i (1..77) {
             my $phones_out = $phones_raw;
             # discard word boundary
             $phones_out =~ s/ \# / /g;
+            $phones_out =~ s/\.//g;
+            $phones_out =~ s/ˈ//g;
+            $phones_out =~ s/\s+/ /g;
             
             # write the script line
             print WGET "wget http://www.fuaimeanna.ie$sound_raw -O mp3/$sound_base.mp3\n";
