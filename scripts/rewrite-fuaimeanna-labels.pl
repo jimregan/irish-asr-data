@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Recreate labels created by fuaimeanna.pl (all-fuaimeanna-data.tsv)
+# Recreates labels created by fuaimeanna.pl (all-fuaimeanna-data.tsv)
 # Creates a set of labels in 'label/' (which must exist)
 
 use warnings;
