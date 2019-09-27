@@ -12,4 +12,6 @@ get_pdf_name() {
 	esac
 }
 
-
+num_pages() {
+    pdfinfo $1|grep '^Pages:'|awk '{print $2}'
+}
