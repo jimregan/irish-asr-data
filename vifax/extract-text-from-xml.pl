@@ -10,12 +10,21 @@ use Data::Dumper;
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
+open(IN, '<', $ARGV[0]);
+binmode(IN, ":utf8");
+my $basef = $ARGV[0];
+$basef =~ s/\.xml//;
+open(OUT, '>', "$basef.txt");
+binmode(OUT, ":utf8");
+open(PROBEN, '>', "$basef.english.txt");
+binmode(PROBEN, ":utf8");
+
 my @lines;
 my %counts = ();
 
 
 # first pass: trim non-text, build counts of 'font'
-while(<>) {
+while(<IN>) {
     if(/<text[^>]*font="([0-9]+)"[^>]*>.*<\/text>/) {
         my $font = $1;
         if(exists $counts{$font}) {
@@ -56,7 +65,11 @@ for my $l (@lines) {
         my $fnt = $1;
         my $txt = $2;
         if($fnt == $most_freq_key) {
-            print "$txt\n";
+            print OUT "$txt\n";
+            while($l =~ /<i>([^<]*)<\/i>/g) {
+                print PROBEN "$1\n";
+                next;
+            }
         }
     }
 }
