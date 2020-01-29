@@ -1,12 +1,12 @@
 #word	en-ipa	pseudo-ga	cu	cc	cm	equivalent	note
-Arbuckle  ˈɑɹbʌkəl  fhear-bocal	a ɾˠ bˠ o k ə l̻ˠ	a ɾˠ bˠ o k ə l̻ˠ	a ɾˠ bˠ o k ə lˠ
+Arbuckle	ˈɑɹbʌkəl	fhear-bocal	a ɾˠ bˠ o k ə l̻ˠ	a ɾˠ bˠ o k ə l̻ˠ	a ɾˠ bˠ o k ə lˠ
 wellington	ˈwɛlɪŋtən	bhuelingtan	vˠ e lʲ i ɲ tʲ ə n̻ˠ	vˠ e lʲ ə ɲ tʲ ə n̻ˠ	vˠ e lʲ ə ŋ t̪ˠ ə nˠ	buatais rubair	l?
 what	wɒt	bhat	vˠ a t̪ˠ	vˠ a t̪ˠ
 whiz	wɪz	bhuiz	vˠ i zʲ	vˠ i zʲ
 well	wɛl	bhuel	ˈ vˠ e lʲ	ˈ vˠ e l̻ˠ	ˈ vˠ e lʲ
 waxáil		wacsáil	vˠ a k sˠ a lʲ	ˈ vˠ a k sˠ aː lʲ	vˠ a k ˈ sˠ aː lʲ
 waxála		wacsála	vˠ a k sˠ aː l̻ˠ ə	ˈ vˠ a k sˠ aː l̻ˠ ə	vˠ a k ˈ sˠ aː lˠ ə
-#yoga	ˈjoʊɡə	dheoga	j oː ɡ ə	j oː ɡ ə	j oː ɡ ə	ióga
+yoga	ˈjoʊɡə	dheoga	j oː ɡ ə	j oː ɡ ə	j oː ɡ ə	ióga
 CDanna		suí-duíanna	sˠ iː dˠ iː a n̻ˠ ə	sˠ iː ˈ d̪ˠ iː ə n̻ˠ ə	sˠ iː ˈ d̪ˠ iː ə nˠ ə
 Cayman	ˈkeɪ.mən	kaeman	k eː mˠ ə n̻ˠ	ˈ k eː mˠ ə n̻ˠ	ˈ k eː mˠ ə nˠ
 Ryder	ˈɹaɪdəɹ	raghdar	ˈ ɾˠ ai d̪ˠ ə ɾˠ	ˈ ɾˠ ai d̪ˠ ə ɾˠ	ˈ ɾˠ ai d̪ˠ ə ɾˠ
@@ -30,12 +30,12 @@ age	eɪd͡ʒ	éid	eː dʲ	eː dʲ	eː dʲ
 ah	ɑː
 ahem	əˈhɛm	athuem	a h e mˠ	a h e mˠ
 Aimee	ˈeɪ.mi	aemuí	eː mˠ iː	eː mˠ iː
-Al	æl	al	a l̻ˠ	a l̻ˠ
-Albert	ˈæl.bɚt
-Alex	ˈæ.lɪks	al-iocs
+Al	æl	al	a l̻ˠ	a l̻ˠ	a lˠ
+Albert	ˈæl.bɚt	al-bart	a l̻ˠ bˠ a ɾˠ tˠ	a l̻ˠ bʲ a ɾˠ tʲ	a lˠ bˠ a ɾˠ tˠ
+Alex	ˈæ.lɪks	al-iocs	a l̻ˠ i kˠ sˠ	a l̻ˠ i kˠ sˠ	a lˠ i kˠ sˠ
 Alfred	ˈælfɹɛd
 Alfredo	ælfɹˈeɪdoʊ
-Ali	æli	aluí	a l̻ˠ iː	a l̻ˠ iː	
+Ali	æli	aluí	a l̻ˠ iː	a l̻ˠ iː	a lˠ iː
 Alice	ˈæ.lɪs	alui-s
 all	ɔːl	ál
 aloha	əˈloʊˌhɑ	alótha	a l̻ˠ oː h ə	a l̻ˠ oː h ə	
@@ -157,7 +157,7 @@ capers	ˈkeɪpɚz	caeparz	k eː pˠ ə ɾˠ zˠ
 cardamom	ˈkɑːɹdæməm	cardamam	k a ɾˠ d̪ˠ ə mˠ ə mˠ
 Carney	kˈɑːɹni	carnuí	k a ɾˠ n̻ˠ iː	k a ɾˠ n̻ˠ iː	k a ɾˠ nˠ iː
 carol	kˈæɹəl	caral	k a ɾˠ ə l̻ˠ	k a ɾˠ ə l̻ˠ	k a ɾˠ ə lˠ
-Carolina
+Carolina		caral-adhna
 carry	ˈkæ.ɹi	caraí	k a ɾˠ iː	k a ɾˠ iː	k a ɾˠ iː
 Casanova
 cash		cais	k a ʃ	k a ʃ	k a ʃ
@@ -167,7 +167,7 @@ casual
 cauldron
 Cavendish
 cayenne
-cc
+cc		suí-suí
 Cecil
 Celsius
 cent
@@ -193,7 +193,7 @@ chilli
 chips
 chow
 cinnamon
-Claire
+Claire		claer
 Clark
 classic
 Claude
@@ -201,110 +201,110 @@ Cleopatra
 clone		clón	k l̻ˠ oː n̻ˠ
 clones		clónz	k l̻ˠ oː n̻ˠ zˠ
 Clyde		cladhd	k l̻ˠ ai d̪ˠ	k l̻ˠ ai d̪ˠ	k lˠ ai d̪ˠ
-coach
-Cody
+coach	kˈəʊtʃ
+Cody	kˈəʊdi
 coke		cóc	k oː k	k oː k	k oː k
 cola		cóla	k oː l̻ˠ ə	k oː l̻ˠ ə	k oː lˠ ə
-college
+college	kˈɒlɪdʒ
 come		cum	k u mˠ	k u mˠ	k u mˠ
-comet
-Como
-complete
-connection
-contact
-cookies
-cool
-cop
+comet	kˈɒmɪt
+Como	
+complete	kəmplˈiːt
+connection	kənˈɛkʃən
+contact	kˈɒntakt
+cookies	kˈʊkɪz
+cool	kˈuːl	cúl
+cop	kˈɒp	cap
 cougar		cúgar	k uː ɡ ə ɾˠ
-countdown
-coverage
-cowboy
-cowboys
-cranberry
-credit
+countdown	kˈaʊntdaʊn
+coverage	kˈʌvəɹɪdʒ
+cowboy	kˈaʊbɔɪ
+cowboys	kˈaʊbɔɪz
+cranberry	kɹˈanbəɹi
+credit	
 creme
 crepe
-crisps
+crisps	kɹˈɪsps
 croissant
-curry
-cutie
+curry	kˈʌɹi
+cutie	kjˈuːti
 CV
-Cynthia
-dabber
-dad
-daddy
-damn
-Dan
-Dade		daed	d̪ˠ eː d̪ˠ	d̪ˠ eː d̪ˠ	d̪ˠ eː d̪ˠ
-Daniel
-Danny
-date
-daughter
-Dave
-David
-Davis
-day
-dead
-deal
-death
-debs
-Dee
-degree
-Deirdre
-delicious
-delivery
-deposit
-desperate
-dial
-diamonds
-diary
-dick
-diddle
-Dijon
-din
-dirk
-disease
-DJ
-DNA
-doc
-docket
-doghouse
-dote
-double
-down
-Dr
-druggie
-dude
-dull
-dun
-DVD
-Edam
-Eddie
-Edgar
-Edna
-eek
-eh
-Eiffel
-Ella
-Emily
-Emmy
-empire
-English
-Enid
-Eric
-Ernie
-escargot
-Esther
-euro
-Evan
-Everest
-exercise
-experiment
-facial
-fag
-fancy
-fans
-fashion		
+Cynthia	sˈɪnθɪə
+dabber	
+dad	dˈad
+daddy	dˈadi
+damn	dˈam
+Dan	dˈan
+Dade	dˈeɪd	daed	d̪ˠ eː d̪ˠ	d̪ˠ eː d̪ˠ	d̪ˠ eː d̪ˠ
+Daniel	dˈanjəl
+Danny	
+date	
+daughter	
+Dave	
+David	
+Davis	
+day	
+dead	
+deal	
+death	
+debs	
+Dee	
+degree	
+Deirdre	
+delicious	
+delivery	
+deposit	
+desperate	
+dial	
+diamonds	
+diary	
+dick	
+diddle	
+Dijon	
+din	
+dirk	
+disease	
+DJ	
+DNA	
+doc	
+docket	
+doghouse	dˈɒɡhaʊs
+dote	dˈəʊt
+double	dˈʌbəl
+down	dˈaʊn
+Dr	
+druggie	
+dude	
+dull	
+dun	
+DVD	
+Edam	
+Eddie	ˈɛdi
+Edgar	
+Edna	ˈɛdnə
+eek	ˈiːk	íoc
+eh	ˈeɪ	é
+Eiffel	ˈaɪfəl
+Ella	ˈɛlə
+Emily	ˈɛmɪlˌi
+Emmy	ˈɛmi
+empire	
+English	ˈɪŋɡlɪʃ
+Enid	
+Eric	ˈɛɹɪk
+Ernie	
+escargot	
+Esther	
+euro	jˈʊəɹəʊ
+Evan	ˈɛvən
+Everest	ˈɛvəɹəst
+exercise	ˈɛksəsˌaɪz
+experiment	ɛkspˈɛɹɪmənt
+facial	fˈeɪʃəl
+fag	fˈaɡ
+fancy	fˈansi
+fans	fˈanz
+fashion	fˈaʃən
 favourite
 fee		fuí	fˠ iː	fˠ iː	fˠ iː
 feelings
@@ -951,16 +951,16 @@ Wimbledon
 wimpy
 wonder
 wonderland
-woo		bhú
+woo	wˈuː	bhú
 works
-wow		bhabh
+wow	wˈaʊ	bhabh
 yanks
 yeah		dheadh
-yellow
-yo		dheó
-your
-yuck		dheoc
-yuk		dheoc
+yellow	jˈɛləʊ
+yo	jˈəʊ	dheó	j oː	j oː	j oː
+your	
+yuck	jˈʌk	dheoc	j oː kˠ	j oː kˠ	j oː kˠ
+yuk	jˈʌk	dheoc	j oː kˠ	j oː kˠ	j oː kˠ
 Zamboni
 zap
 zebra
@@ -971,5 +971,5 @@ complet		cómplae	k oː mˠ pˠ l̻ˠ eː	k oː mˠ pˠ l̻ˠ eː	k oː mˠ pˠ 
 Mhary		mhéirí	vʲ eː ɾˠ iː
 Ghracie		ghraesaí	ɣ ɾˠ eː sˠ iː
 Vincie		bhionsaí	vʲ i ɴˠ sˠ iː
-Charlie		tearlaí	tʲ a ɾˠ ʟˠ iː
+Charlie		tearlaí	tʲ a ɾˠ l̻ˠ iː
 Byrne		born	bˠ oː ɾˠ ɴˠ
