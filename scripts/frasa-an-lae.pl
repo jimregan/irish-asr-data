@@ -37,6 +37,8 @@ for my $line (@lines) {
             }
             
         }
+        $text =~ s/●/-/g;
+        $text =~ s/  +/ /g;
         $text =~ s/<br \/>/ /g;
         $text =~ s/\// /g;
         print OUT "$id\t$text";
