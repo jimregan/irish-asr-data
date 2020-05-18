@@ -23,7 +23,7 @@ for my $line (@lines) {
         my $text = $1;
         my $find = '';
         my $repl = '';
-        if($text =~ s/<br \/>\* ?pronounced '([^']+)'//) {
+        if($text =~ s/<br \/>\* ?pronounced ['‘]([^']+)['’]//) {
             $repl = $1;
             if($text =~ /Beidh mé\*/) {
                 $find = 'Beidh mé';
@@ -37,8 +37,10 @@ for my $line (@lines) {
             }
             
         }
-        $text =~ s/\// /g;
+        $text =~ s/●/-/g;
+        $text =~ s/  +/ /g;
         $text =~ s/<br \/>/ /g;
+        $text =~ s/\// /g;
         print OUT "$id\t$text";
         print OUT "\t$find\t$repl" if($find ne '');
         print OUT "\n";
