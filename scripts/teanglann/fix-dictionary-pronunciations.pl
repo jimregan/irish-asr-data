@@ -12,6 +12,9 @@ binmode(STDOUT, ":utf8");
 my %fixU = (
     'éigin' => 'inteacht',
     'a Dhia' => 'Dhia',
+    'cóngar' => 'cógar',
+    'cóngarach' => 'cógarach',
+    'cóngaracht' => 'cógaracht',
 );
 my %fixC = (
     'éigin' => 'eicint',
@@ -21,7 +24,11 @@ my %fixC = (
     'zip' => 'sip',
     'agam' => "a'am",
     'agat' => "a'at",
-
+#    'conga' => 'cunga',
+#    'cóngar' => 'cúngar',
+#    'cóngarach' => 'cúngarach',
+#    'cóngaracht' => 'cúngaracht',
+    'pionós' => 'píonós',
 );
 my %fixM = (
     'éigin' => 'éigint',
@@ -30,6 +37,7 @@ my %fixM = (
     'dearmad' => 'dearúd',
     'zónáilte' => 'zónáilthe',
     'seinn' => 'seinm',
+    'pionós' => 'píonós',
 );
 
 my %fixAll = (
