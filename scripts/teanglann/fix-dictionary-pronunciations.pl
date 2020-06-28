@@ -15,6 +15,7 @@ my %fixU = (
     'cóngar' => 'cógar',
     'cóngarach' => 'cógarach',
     'cóngaracht' => 'cógaracht',
+    'teanga' => 'teangaí',
 );
 my %fixC = (
     'éigin' => 'eicint',
