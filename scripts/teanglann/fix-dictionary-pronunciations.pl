@@ -32,6 +32,16 @@ my %fixM = (
     'seinn' => 'seinm',
 );
 
+my %fixAll = (
+    'praiticiúil' => 'praicticiúil',
+);
+
+for my $k (keys %fixAll) {
+    $fixM{$k} = $fixAll{$k};
+    $fixC{$k} = $fixAll{$k};
+    $fixU{$k} = $fixAll{$k};
+}
+
 sub get_replacement {
     my $word = $_[0];
     my $dialect = $_[1];
