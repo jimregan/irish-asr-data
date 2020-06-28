@@ -18,7 +18,7 @@ while(<>) {
 	my $r = join(" ", @parts);
 	$l =~ s/\([0-9]+\)//;
 	if(exists $seen{$l}) {
-		print "$l($seen{$l}) $r\n";
+		print "$l(" . ($seen{$l} + 1) . ") $r\n";
 		$seen{$l}++;
 	} else {
 		print "$l $r\n";
