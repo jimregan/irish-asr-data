@@ -1,0 +1,48 @@
+input_label_type: BYTE
+output_label_type: SYMBOL
+
+alignable { input: "a"       output: "æ" }
+alignable { input: "a"       output: "eɪ" }
+alignable { input: "b"       output: "b" }
+alignable { input: "c"       output: "s" }
+alignable { input: "c"       output: "k" }
+alignable { input: "ch"      output: "t͡ʃ" }
+alignable { input: "d"       output: "d" }
+alignable { input: "e"       output: "ɛ" }
+alignable { input: "e"       output: "" }
+alignable { input: "ee"      output: "iː" }
+alignable { input: "ee"      output: "i" }
+alignable { input: "ee"      output: "ɪə" }
+alignable { input: "ee"      output: "ɪ" }
+alignable { input: "er"      output: "ɚ" }
+alignable { input: "er"      output: "ə" }
+alignable { input: "f"       output: "f" }
+alignable { input: "i"       output: "ɪ" }
+alignable { input: "i"       output: "aɪ" }
+alignable { input: "i"       output: "ə" }
+alignable { input: "ir"      output: "ɚ" }
+alignable { input: "ir"      output: "ɜː" }
+alignable { input: "k"       output: "k" }
+alignable { input: "l"       output: "l" }
+alignable { input: "ll"      output: "l" }
+alignable { input: "n"       output: "n" }
+alignable { input: "ng"      output: "ŋ" }
+alignable { input: "nk"      output: "ŋ k" }
+alignable { input: "oi"      output: "ɔɪ" }
+alignable { input: "ou"      output: "ə" }
+alignable { input: "or"      output: "ɔː" }
+alignable { input: "or"      output: "ɔ ɹ" }
+alignable { input: "p"       output: "p" }
+alignable { input: "ui"      output: "j uː ə" }
+alignable { input: "ui"      output: "j uː ɪ" }
+alignable { input: "uou"     output: "uː ə" }
+alignable { input: "uou"     output: "u ə" }
+alignable { input: "r"       output: "ɹ" }
+alignable { input: "s"       output: "s" }
+alignable { input: "ss"      output: "s" }
+alignable { input: "s"       output: "z" }
+alignable { input: "t"       output: "t" }
+alignable { input: "t"       output: "t͡ʃ" }
+alignable { input: "v"       output: "v" }
+
+
