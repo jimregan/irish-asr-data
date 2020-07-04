@@ -3,36 +3,76 @@ output_label_type: SYMBOL
 
 alignable { input: "a"       output: "æ" }
 alignable { input: "a"       output: "eɪ" }
+alignable { input: "a"       output: "ə" }
+alignable { input: "a"       output: "ɔ" }	# US: talk
+alignable { input: "a"       output: "ɔː" }	# US: talk
 alignable { input: "b"       output: "b" }
 alignable { input: "c"       output: "s" }
 alignable { input: "c"       output: "k" }
+alignable { input: "cc"      output: "k s" }	# accent
+alignable { input: "cc"      output: "k" }	# stucco
+alignable { input: "ck"      output: "k" }
 alignable { input: "ch"      output: "t͡ʃ" }
+alignable { input: "ch"      output: "ʃ" }	# chateau
+alignable { input: "ch"      output: "k" }	# chimera
 alignable { input: "d"       output: "d" }
+alignable { input: "d"       output: "d j" }
+alignable { input: "d"       output: "d͡ʒ" }
 alignable { input: "e"       output: "ɛ" }
 alignable { input: "e"       output: "" }
+alignable { input: "e"       output: "ɪə" }	# chimera
+alignable { input: "e"       output: "ɨ" }	# roses
+alignable { input: "eau"     output: "əʊ" }	# UK: chateau
+alignable { input: "eau"     output: "oʊ" }	# US: chateau
 alignable { input: "ee"      output: "iː" }
-alignable { input: "ee"      output: "i" }
-alignable { input: "ee"      output: "ɪə" }
+alignable { input: "ee"      output: "i" }	# US: beer
+alignable { input: "ee"      output: "ɪə" }	# UK: beer
 alignable { input: "ee"      output: "ɪ" }
+alignable { input: "ene"     output: "iː n" }	# scene
 alignable { input: "er"      output: "ɚ" }
 alignable { input: "er"      output: "ə" }
+alignable { input: "ew"      output: "uː" }	# UK: new
+alignable { input: "ew"      output: "u" }	# US: new
 alignable { input: "f"       output: "f" }
+alignable { input: "g"       output: "ɡ" }
+alignable { input: "g"       output: "d͡ʒ" }	# age
+alignable { input: "h"       output: "h" }
 alignable { input: "i"       output: "ɪ" }
 alignable { input: "i"       output: "aɪ" }
+alignable { input: "i"       output: "ʌɪ" }	# UK: RP of /aɪ/
 alignable { input: "i"       output: "ə" }
+alignable { input: "i"       output: "i" }
+alignable { input: "i"       output: "iː" }	# magazine
 alignable { input: "ir"      output: "ɚ" }
 alignable { input: "ir"      output: "ɜː" }
+alignable { input: "j"       output: "d͡ʒ" }
 alignable { input: "k"       output: "k" }
 alignable { input: "l"       output: "l" }
 alignable { input: "ll"      output: "l" }
+alignable { input: "sl"      output: "l" }	# island
+alignable { input: "m"       output: "m" }
+alignable { input: "mm"      output: "m" }
+alignable { input: "mb"      output: "m" }	# thumb
+alignable { input: "mb"      output: "m b" }	# member
 alignable { input: "n"       output: "n" }
-alignable { input: "ng"      output: "ŋ" }
+alignable { input: "n"       output: "n j" }	# new
+alignable { input: "ng"      output: "ŋ" }	# thing
+alignable { input: "ng"      output: "ŋ ɡ" }	# finger
 alignable { input: "nk"      output: "ŋ k" }
+alignable { input: "o"       output: "əʊ" }	# UK
+alignable { input: "o"       output: "oʊ" }	# US
 alignable { input: "oi"      output: "ɔɪ" }
 alignable { input: "ou"      output: "ə" }
+alignable { input: "ough"    output: "oː" }
+alignable { input: "ough"    output: "ɔ" }
 alignable { input: "or"      output: "ɔː" }
 alignable { input: "or"      output: "ɔ ɹ" }
+alignable { input: "ow"      output: "aʊ" }	# cow
+alignable { input: "ow"      output: "əʊ" }	# UK: slow
+alignable { input: "ow"      output: "oʊ" }	# US: slow
 alignable { input: "p"       output: "p" }
+alignable { input: "p"       output: "pʰ" }
+alignable { input: "ph"      output: "f" }
 alignable { input: "ui"      output: "j uː ə" }
 alignable { input: "ui"      output: "j uː ɪ" }
 alignable { input: "uou"     output: "uː ə" }
@@ -40,9 +80,33 @@ alignable { input: "uou"     output: "u ə" }
 alignable { input: "r"       output: "ɹ" }
 alignable { input: "s"       output: "s" }
 alignable { input: "ss"      output: "s" }
+alignable { input: "sh"      output: "ʃ" }
 alignable { input: "s"       output: "z" }
+alignable { input: "s"       output: "ʒ" }	# erasure
+alignable { input: "si"      output: "ʒ" }	# Asia
+alignable { input: "si"      output: "ʃ" }	# Asia
+alignable { input: "sl"      output: "s l" }	# slow
 alignable { input: "t"       output: "t" }
+alignable { input: "tt"      output: "t" }
+alignable { input: "t"       output: "tʰ" }
+alignable { input: "t"       output: "ɾ" }
+alignable { input: "tt"      output: "ɾ" }
+alignable { input: "t"       output: "ʔ" }
+alignable { input: "tt"      output: "ʔ" }
 alignable { input: "t"       output: "t͡ʃ" }
+alignable { input: "th"      output: "θ" }
+alignable { input: "th"      output: "ð" }
 alignable { input: "v"       output: "v" }
-
+alignable { input: "w"       output: "w" }
+alignable { input: "x"       output: "k s" }	# exile
+alignable { input: "x"       output: "ɛ k s" }	# x-ray
+alignable { input: "x"       output: "ɡ z" }	# exam
+alignable { input: "x"       output: "z" }	# xenon
+alignable { input: "y"       output: "j" }	# yellow
+alignable { input: "y"       output: "ɨ" }	# pyjamas
+alignable { input: "y"       output: "aɪ" }	# by
+alignable { input: "y"       output: "ɪ" }	# triptych
+alignable { input: "z"       output: "z" }
+alignable { input: "z"       output: "ʒ" }
+alignable { input: "z"       output: "z j" }
 
