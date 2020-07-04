@@ -396,7 +396,7 @@ alignable { input: "nd"      output: "nʲ" }
 alignable { input: "nd"      output: "nˠ d̪ˠ" }
 alignable { input: "nd"      output: "nʲ dʲ" }
 
-alignable { input: "bhf"     output: "w" }
+alignable { input: "bhf"     output: "vˠ" }
 alignable { input: "bhf"     output: "vʲ" }
 
 alignable { input: "ng"      output: "ŋ" }
