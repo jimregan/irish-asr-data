@@ -1,6 +1,68 @@
 input_label_type: BYTE
 output_label_type: SYMBOL
 
+output_symbol { key: "a"   value: 1 }
+output_symbol { key: "aː"  value: 2 }
+output_symbol { key: "ai"  value: 3 }
+output_symbol { key: "au"  value: 4 }
+output_symbol { key: "bˠ"  value: 5 }
+output_symbol { key: "bʲ"  value: 6 }
+output_symbol { key: "c"   value: 7 }
+output_symbol { key: "ç"   value: 8 }
+output_symbol { key: "ʤ"   value: 9 }
+output_symbol { key: "d̪ˠ"  value: 10 }
+output_symbol { key: "dʲ"  value: 11 }
+output_symbol { key: "e"   value: 12 }
+output_symbol { key: "ə"   value: 13 }
+output_symbol { key: "eː"  value: 14 }
+output_symbol { key: "əi"  value: 15 }
+output_symbol { key: "fˠ"  value: 16 }
+output_symbol { key: "fʲ"  value: 17 }
+output_symbol { key: "ɣ"   value: 18 }
+output_symbol { key: "ɡ"   value: 19 }
+output_symbol { key: "h"   value: 20 }
+output_symbol { key: "i"   value: 21 }
+output_symbol { key: "iː"  value: 22 }
+output_symbol { key: "ia"  value: 23 }
+output_symbol { key: "iˑə" value: 24 }
+output_symbol { key: "j"   value: 25 }
+output_symbol { key: "ɟ"   value: 26 }
+output_symbol { key: "k"   value: 27 }
+output_symbol { key: "lˠ"  value: 28 }
+output_symbol { key: "l̥ˠ"  value: 29 }
+output_symbol { key: "lʲ"  value: 30 }
+output_symbol { key: "l̥ʲ"  value: 31 }
+output_symbol { key: "mˠ"  value: 32 }
+output_symbol { key: "m̥ˠ"  value: 33 }
+output_symbol { key: "mʲ"  value: 34 }
+output_symbol { key: "m̥ʲ"  value: 35 }
+output_symbol { key: "ɲ"   value: 36 }
+output_symbol { key: "nˠ"  value: 37 }
+output_symbol { key: "n̥ˠ"  value: 38 }
+output_symbol { key: "nʲ"  value: 39 }
+output_symbol { key: "n̥ʲ"  value: 40 }
+output_symbol { key: "n̻ʲ"  value: 41 }
+output_symbol { key: "ŋ"   value: 42 }
+output_symbol { key: "o"   value: 43 }
+output_symbol { key: "oː"  value: 44 }
+output_symbol { key: "pˠ"  value: 45 }
+output_symbol { key: "pʲ"  value: 46 }
+output_symbol { key: "ɾˠ"  value: 47 }
+output_symbol { key: "ɾ̥ˠ"  value: 48 }
+output_symbol { key: "ɾʲ"  value: 49 }
+output_symbol { key: "ɾ̥ʲ"  value: 50 }
+output_symbol { key: "ʃ"   value: 51 }
+output_symbol { key: "sˠ"  value: 52 }
+output_symbol { key: "t̪ˠ"  value: 53 }
+output_symbol { key: "tʲ"  value: 54 }
+output_symbol { key: "u"   value: 55 }
+output_symbol { key: "uː"  value: 56 }
+output_symbol { key: "uˑə" value: 57 }
+output_symbol { key: "vˠ"  value: 58 }
+output_symbol { key: "vʲ"  value: 59 }
+output_symbol { key: "w"   value: 60 }
+output_symbol { key: "x"   value: 61 }
+
 alignable { input: "a"       output: "a" }	# stressed
 alignable { input: "a"       output: "ə" }	# unstressed
 alignable { input: "a"       output: "au" }	# _ nn, etc.; e.g., ann
