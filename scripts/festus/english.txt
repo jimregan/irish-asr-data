@@ -17,8 +17,9 @@ alignable { input: "age"     output: "eɪ ʤ" }	# age, rage
 alignable { input: "age"     output: "ɑː ʒ" }	# UK: montage
 alignable { input: "age"     output: "ɑ ʒ" }	# US: montage
 alignable { input: "ao"      output: "aʊ" }	# Taoism
-alignable { input: "aor"     output: "eɪ ɔː" }	# UK: aorta
-alignable { input: "aor"     output: "eɪ ɔː ɹ" }	# US: aorta
+#alignable { input: "aor"     output: "eɪ ɔː" }	# UK: aorta
+alignable { input: "ao"      output: "eɪ ɔː" }	# aorta
+#alignable { input: "aor"     output: "eɪ ɔː ɹ" }	# US: aorta
 alignable { input: "aor"     output: "eɪ ə ɹ" }	# aorist
 
 alignable { input: "b"       output: "b" }
@@ -44,6 +45,8 @@ alignable { input: "e"       output: "ɛ" }
 alignable { input: "e"       output: "" }
 alignable { input: "e"       output: "ɪə" }	# chimera
 alignable { input: "e"       output: "ɨ" }	# roses
+alignable { input: "e"       output: "ɪ" }	# roses, women
+alignable { input: "e"       output: "ə" }	# women
 alignable { input: "eau"     output: "əʊ" }	# UK: chateau
 alignable { input: "eau"     output: "oʊ" }	# US: chateau
 alignable { input: "ee"      output: "iː" }
@@ -105,6 +108,7 @@ alignable { input: "o"       output: "əʊ" }	# UK
 alignable { input: "o"       output: "oʊ" }	# US
 alignable { input: "o"       output: "ɒ" }	# UK: top
 alignable { input: "o"       output: "ɑ" }	# US: top
+alignable { input: "o"       output: "ɪ" }	# women
 alignable { input: "oi"      output: "ɔɪ" }
 alignable { input: "oo"      output: "uː" }	# root
 alignable { input: "oo"      output: "ʊ" }	# book
@@ -193,6 +197,7 @@ alignable { input: "pt"      output: "t" }	# Ptolemy
 alignable { input: "pt"      output: "p t" }	# abrupt
 alignable { input: "th"      output: "θ" }
 alignable { input: "th"      output: "ð" }
+alignable { input: "ti"      output: "ʃ" }	# nation, 'ghoti'
 alignable { input: "u"       output: "ʌ" }	# up
 alignable { input: "u"       output: "ʊ" }	# butch
 alignable { input: "u"       output: "uː" }	# Ruth
