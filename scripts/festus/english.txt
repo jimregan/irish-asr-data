@@ -8,6 +8,7 @@ alignable { input: "a"       output: "ə" }
 alignable { input: "a"       output: "ɔ" }	# US: talk
 alignable { input: "a"       output: "ɔː" }	# UK: talk
 alignable { input: "a"       output: "oː" }	# UK: talk
+alignable { input: "a"       output: "ɪ" }	# language (2nd)
 alignable { input: "ae"      output: "aɪ" }	# maestro
 alignable { input: "ae"      output: "eə" }	# aeroplane
 alignable { input: "ae"      output: "iː" }	# aegis
@@ -18,9 +19,11 @@ alignable { input: "age"     output: "ɑː ʒ" }	# UK: montage
 alignable { input: "age"     output: "ɑ ʒ" }	# US: montage
 alignable { input: "ao"      output: "aʊ" }	# Taoism
 #alignable { input: "aor"     output: "eɪ ɔː" }	# UK: aorta
-alignable { input: "ao"      output: "eɪ ɔː" }	# aorta
 #alignable { input: "aor"     output: "eɪ ɔː ɹ" }	# US: aorta
-alignable { input: "aor"     output: "eɪ ə ɹ" }	# aorist
+alignable { input: "ao"      output: "eɪ ɔː" }	# aorta
+alignable { input: "ao"      output: "eɪ ə" }	# aorist
+#alignable { input: "aor"     output: "eɪ ə ɹ" }	# aorist
+alignable { input: "as"      output: "ɔ" }	# Arkansas
 
 alignable { input: "b"       output: "b" }
 alignable { input: "bb"      output: "b" }
@@ -47,6 +50,12 @@ alignable { input: "e"       output: "ɪə" }	# chimera
 alignable { input: "e"       output: "ɨ" }	# roses
 alignable { input: "e"       output: "ɪ" }	# roses, women
 alignable { input: "e"       output: "ə" }	# women
+alignable { input: "ea"      output: "iː" }	# UK: leave
+alignable { input: "ea"      output: "i" }	# US: leave
+alignable { input: "ea"      output: "ɛ ə" }	# UK: wear
+alignable { input: "ea"      output: "ɛ ɚ" }	# US: wear
+alignable { input: "ea"      output: "ɪ ə" }	# UK: tear
+alignable { input: "ea"      output: "ɪ ɚ" }	# US: tear
 alignable { input: "eau"     output: "əʊ" }	# UK: chateau
 alignable { input: "eau"     output: "oʊ" }	# US: chateau
 alignable { input: "ee"      output: "iː" }
@@ -61,7 +70,10 @@ alignable { input: "eu"      output: "j ɔː" }	# UK: Europe
 alignable { input: "eu"      output: "j ʊ" }	# US: Europe
 alignable { input: "eur"     output: "j ɝ" }	# US: Europe
 alignable { input: "eu"      output: "j uː" }	# eunuch, Teutonic
-alignable { input: "ew"      output: "uː" }	# UK: new
+#alignable { input: "eux"     output: "ɜː" }	# pas-de-deux
+alignable { input: "ew"      output: "j uː" }	# UK: new
+alignable { input: "ew"      output: "uː" }	# yew
+alignable { input: "ew"      output: "j u" }	# US: new, few
 alignable { input: "ew"      output: "u" }	# US: new
 alignable { input: "oe"      output: "iː" }	# foetus
 alignable { input: "f"       output: "f" }
@@ -79,6 +91,13 @@ alignable { input: "i"       output: "ʌɪ" }	# UK: RP of /aɪ/
 alignable { input: "i"       output: "ə" }
 alignable { input: "i"       output: "i" }
 alignable { input: "i"       output: "iː" }	# magazine
+alignable { input: "ie"      output: "aɪ ə" }	# hierarchy
+alignable { input: "ie"      output: "aɪ" }	# hierarchy; vie, die
+alignable { input: "ier"     output: "ɪ ə" }	# UK: tier (layer)
+alignable { input: "ier"     output: "ɪ ɚ" }	# US: tier (layer)
+alignable { input: "ier"     output: "aɪ ə" }	# UK: tier (sth/sb that ties)
+alignable { input: "ier"     output: "aɪ ɚ" }	# US: tier (sth/sb that ties)
+alignable { input: "igh"     output: "aɪ" }	# night
 alignable { input: "ioux"    output: "uː" }	# Sioux
 
 alignable { input: "ir"      output: "ɚ" }
@@ -95,14 +114,14 @@ alignable { input: "sl"      output: "l" }	# island
 alignable { input: "m"       output: "m" }
 alignable { input: "mm"      output: "m" }
 alignable { input: "mb"      output: "m" }	# thumb
-alignable { input: "mb"      output: "m b" }	# member
+#alignable { input: "mb"      output: "m b" }	# member
 alignable { input: "n"       output: "n" }
 alignable { input: "n"       output: "n j" }	# new
 alignable { input: "ng"      output: "ŋ" }	# thing
 alignable { input: "ng"      output: "ŋ ɡ" }	# finger
 alignable { input: "nk"      output: "ŋ k" }
 alignable { input: "gn"      output: "n" }	# sign
-alignable { input: "gn"      output: "ɡ n" }	# Agnes
+#alignable { input: "gn"      output: "ɡ n" }	# Agnes
 alignable { input: "mn"      output: "n" }	# mnemonic
 alignable { input: "o"       output: "əʊ" }	# UK
 alignable { input: "o"       output: "oʊ" }	# US
@@ -110,7 +129,7 @@ alignable { input: "o"       output: "ɒ" }	# UK: top
 alignable { input: "o"       output: "ɑ" }	# US: top
 alignable { input: "o"       output: "ɪ" }	# women
 alignable { input: "oi"      output: "ɔɪ" }
-alignable { input: "oo"      output: "uː" }	# root
+alignable { input: "oo"      output: "uː" }	# root, you
 alignable { input: "oo"      output: "ʊ" }	# book
 alignable { input: "ou"      output: "ə" }
 alignable { input: "ou"      output: "aʊ" }	# about; south
@@ -167,7 +186,7 @@ alignable { input: "ss"      output: "ʃ" }	# fissure
 alignable { input: "sz"      output: "s" }	# Liszt
 alignable { input: "sh"      output: "ʃ" }
 alignable { input: "sch"     output: "ʃ" }	# schmuck
-alignable { input: "sch"     output: "s k" }	# school
+#alignable { input: "sch"     output: "s k" }	# school
 alignable { input: "s"       output: "z" }
 alignable { input: "'s"      output: "s" }	# cat's
 alignable { input: "'s"      output: "z" }	# dog's
@@ -228,6 +247,8 @@ alignable { input: "ua"      output: "u ɛ" }	# US: February
 alignable { input: "uar"     output: "ɑː" }	# UK: guard
 alignable { input: "uar"     output: "ɑ ɹ" }	# US: guard
 alignable { input: "ue"      output: "j uː" }	# hue
+alignable { input: "ue"      output: "uː" }	# UK: blue
+alignable { input: "ue"      output: "u" }	# US: blue
 alignable { input: "ugh"     output: "j uː" }	# Hugh
 alignable { input: "uu"      output: "j uː" }	# vacuum
 alignable { input: "uu"      output: "j uː ə" }	# vacuum
@@ -258,3 +279,5 @@ alignable { input: "ire"     output: "ə ɹ" }	# UK: -shire
 alignable { input: "ire"     output: "ɚ" }	# -shire
 alignable { input: "ire"     output: "i ɹ" }	# US: -shire
 alignable { input: "ire"     output: "aɪ ɚ" }	# US: -shire
+alignable { input: "ewe"     output: "j uː" }	# ewe
+alignable { input: "ewe"     output: "j oː" }	# Ireland: ewe
