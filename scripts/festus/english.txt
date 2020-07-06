@@ -3,7 +3,7 @@ output_label_type: SYMBOL
 
 alignable { input: "a"       output: "æ" }
 alignable { input: "a"       output: "ɒ" }	# UK: wash
-alignable { input: "a"       output: "eɪ" }
+alignable { input: "a"       output: "eɪ" }	# lazy
 alignable { input: "a"       output: "ə" }
 alignable { input: "a"       output: "ɔ" }	# US: talk
 alignable { input: "a"       output: "ɔː" }	# UK: talk
@@ -11,6 +11,11 @@ alignable { input: "a"       output: "oː" }	# UK: talk
 alignable { input: "ae"      output: "aɪ" }	# maestro
 alignable { input: "ae"      output: "eə" }	# aeroplane
 alignable { input: "ae"      output: "iː" }	# aegis
+alignable { input: "ae"      output: "ɛ" }	# haemorrhage
+alignable { input: "age"     output: "ɪ ʤ" }	# haemorrhage, baggage
+alignable { input: "age"     output: "eɪ ʤ" }	# age, rage
+alignable { input: "age"     output: "ɑː ʒ" }	# UK: montage
+alignable { input: "age"     output: "ɑ ʒ" }	# US: montage
 alignable { input: "ao"      output: "aʊ" }	# Taoism
 alignable { input: "aor"     output: "eɪ ɔː" }	# UK: aorta
 alignable { input: "aor"     output: "eɪ ɔː ɹ" }	# US: aorta
@@ -22,6 +27,7 @@ alignable { input: "c"       output: "s" }
 alignable { input: "c"       output: "k" }
 alignable { input: "cc"      output: "k s" }	# accent
 alignable { input: "cc"      output: "k" }	# stucco
+alignable { input: "cc"      output: "t͡ʃ" }	# Gucci
 alignable { input: "ck"      output: "k" }
 alignable { input: "ch"      output: "t͡ʃ" }
 alignable { input: "ch"      output: "ʃ" }	# chateau
@@ -64,10 +70,13 @@ alignable { input: "i"       output: "ʌɪ" }	# UK: RP of /aɪ/
 alignable { input: "i"       output: "ə" }
 alignable { input: "i"       output: "i" }
 alignable { input: "i"       output: "iː" }	# magazine
+alignable { input: "ioux"    output: "uː" }	# Sioux
+
 alignable { input: "ir"      output: "ɚ" }
 alignable { input: "ir"      output: "ɜː" }
 alignable { input: "j"       output: "ʤ" }
 alignable { input: "j"       output: "h" }	# jalapeno
+alignable { input: "j"       output: "ʒ" }	# bijou
 alignable { input: "k"       output: "k" }
 alignable { input: "l"       output: "l" }
 alignable { input: "ll"      output: "l" }
@@ -90,11 +99,11 @@ alignable { input: "o"       output: "əʊ" }	# UK
 alignable { input: "o"       output: "oʊ" }	# US
 alignable { input: "oi"      output: "ɔɪ" }
 alignable { input: "ou"      output: "ə" }
-alignable { input: "ou"      output: "aʊ" }	# about
+alignable { input: "ou"      output: "aʊ" }	# about; south
 alignable { input: "ou"      output: "ʌʊ" }	# about (Canada, Scotland)
 alignable { input: "ou"      output: "ɐʊ" }	# about (Canada, Scotland) - phonetic of above
 alignable { input: "ou"      output: "ɛʊ" }	# about (Canada, Ireland)
-alignable { input: "ou"      output: "uː" }	# UK: route
+alignable { input: "ou"      output: "uː" }	# UK: route; bijou
 alignable { input: "oo"      output: "uː" }	# root
 alignable { input: "oo"      output: "ʊ" }	# book
 alignable { input: "ough"    output: "oː" }
@@ -120,6 +129,8 @@ alignable { input: "rr"      output: "ɹ" }
 alignable { input: "rrh"     output: "ɹ" }	# diarrhoea
 alignable { input: "rh"      output: "ɹ" }	# rheology
 alignable { input: "s"       output: "s" }
+alignable { input: "s"       output: "ʒ" }	# usually
+alignable { input: "s"       output: "ʃ" }	# Seán
 alignable { input: "ss"      output: "s" }
 alignable { input: "ss"      output: "ʒ" }	# fission
 alignable { input: "ss"      output: "ʃ" }	# fissure
@@ -156,7 +167,37 @@ alignable { input: "pt"      output: "t" }	# Ptolemy
 alignable { input: "pt"      output: "p t" }	# abrupt
 alignable { input: "th"      output: "θ" }
 alignable { input: "th"      output: "ð" }
+alignable { input: "u"       output: "ʌ" }	# up
+alignable { input: "u"       output: "ʊ" }	# butch
+alignable { input: "u"       output: "uː" }	# Ruth
+alignable { input: "u"       output: "j uː" }	# puke, useful
+alignable { input: "u"       output: "ɪ" }	# busy, business
+alignable { input: "u"       output: "ə" }	# orangutan, focus
+alignable { input: "u"       output: "w" }	# guacamole
+alignable { input: "ful"     output: "f l̩" }	# harmful, useful
+alignable { input: "ful"     output: "f ə l" }	# harmful, useful (schwa for syllabic marker)
+alignable { input: "ful"     output: "f l" }	# harmful, useful (missing syllabic marker)
+alignable { input: "ua"      output: "j ʊ ə" }	# UK: January
+alignable { input: "ua"      output: "j ə" }	# UK: January
+alignable { input: "ua"      output: "j u ɛ" }	# US: January
+alignable { input: "ua"      output: "j u æ" }	# US: January
+# the below can probably be simplified
+alignable { input: "ruar"    output: "ɹ ʊ ə ɹ" }	# UK: February
+alignable { input: "ruar"    output: "j ʊ ə ɹ" }	# UK: February
+alignable { input: "ruar"    output: "j ə ɹ" }	# UK: February
+alignable { input: "ruar"    output: "ɹ ə ɹ" }	# UK: February
+alignable { input: "ruar"    output: "ɹ" }	# UK: February
+alignable { input: "ruar"    output: "ɹ u ɛ ɹ" }	# US: February
+alignable { input: "ruar"    output: "j u ɛ ə ɹ" }	# US: February
+alignable { input: "ruar"    output: "j u ɛ ɹ" }	# US: February
+alignable { input: "uar"     output: "ɑː" }	# UK: guard
+alignable { input: "uar"     output: "ɑ ɹ" }	# US: guard
+alignable { input: "uu"      output: "j uː" }	# vacuum
+alignable { input: "uu"      output: "j uː ə" }	# vacuum
+alignable { input: "uy"      output: "aɪ" }	# buy
+
 alignable { input: "v"       output: "v" }
+alignable { input: "vv"      output: "v" }	# savvy
 alignable { input: "w"       output: "w" }
 alignable { input: "wh"      output: "w" }
 alignable { input: "wh"      output: "ʍ" }
