@@ -3,6 +3,7 @@ output_label_type: SYMBOL
 
 alignable { input: "a"       output: "æ" }
 alignable { input: "a"       output: "ɒ" }	# UK: wash
+alignable { input: "a"       output: "ɑː" }	# UK: pass
 alignable { input: "a"       output: "eɪ" }	# lazy
 alignable { input: "a"       output: "ə" }
 alignable { input: "a"       output: "ɔ" }	# US: talk
@@ -24,6 +25,7 @@ alignable { input: "ao"      output: "eɪ ɔː" }	# aorta
 alignable { input: "ao"      output: "eɪ ə" }	# aorist
 #alignable { input: "aor"     output: "eɪ ə ɹ" }	# aorist
 alignable { input: "as"      output: "ɔ" }	# Arkansas
+alignable { input: "as"      output: "ɑː" }	# pas-de-deux
 
 alignable { input: "b"       output: "b" }
 alignable { input: "bb"      output: "b" }
@@ -93,11 +95,18 @@ alignable { input: "i"       output: "i" }
 alignable { input: "i"       output: "iː" }	# magazine
 alignable { input: "ie"      output: "aɪ ə" }	# hierarchy
 alignable { input: "ie"      output: "aɪ" }	# hierarchy; vie, die
+alignable { input: "ie"      output: "iː" }	# mien
 alignable { input: "ier"     output: "ɪ ə" }	# UK: tier (layer)
 alignable { input: "ier"     output: "ɪ ɚ" }	# US: tier (layer)
 alignable { input: "ier"     output: "aɪ ə" }	# UK: tier (sth/sb that ties)
 alignable { input: "ier"     output: "aɪ ɚ" }	# US: tier (sth/sb that ties)
 alignable { input: "igh"     output: "aɪ" }	# night
+alignable { input: "ieu"     output: "j u" }	# US: lieutenant
+alignable { input: "ieu"     output: "u" }	# US: lieutenant
+alignable { input: "ieu"     output: "ɛ f" }	# UK: lieutenant
+alignable { input: "ieu"     output: "ə" }	# UK: lieutenant
+alignable { input: "ieu"     output: "j uː" }	# lieu
+alignable { input: "ieu"     output: "uː" }	# lieu
 alignable { input: "ioux"    output: "uː" }	# Sioux
 
 alignable { input: "ir"      output: "ɚ" }
