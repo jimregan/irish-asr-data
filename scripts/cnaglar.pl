@@ -38,20 +38,6 @@ my $index_scraper = scraper {
     };
 };
 
-#my $index = URI->new("https://www.scss.tcd.ie/~uidhonne/comhra/index.utf8.html");
-
-#my $idxres = $index_scraper->scrape($index);
-
-#my @pages = ();
-
-#for my $span (@{$idxres->{'spans'}}) {
-#    for my $item (@{$span->{'items'}}) {     
-#            if(exists $item->{'link'} && $item->{'link'} =~ m!/comhra/!) {
-#                push @pages, $item->{'link'};
-#            }
-#    }
-#}
-
 sub extract_mp3 {
     if(exists $_[0]->{'_content'}) {
         my @content = @{$_[0]->{'_content'}};
