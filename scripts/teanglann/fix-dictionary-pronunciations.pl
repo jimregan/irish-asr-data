@@ -12,6 +12,10 @@ binmode(STDOUT, ":utf8");
 my %fixU = (
     'éigin' => 'inteacht',
     'a Dhia' => 'Dhia',
+    'cóngar' => 'cógar',
+    'cóngarach' => 'cógarach',
+    'cóngaracht' => 'cógaracht',
+    'teanga' => 'teangaí',
 );
 my %fixC = (
     'éigin' => 'eicint',
@@ -21,7 +25,12 @@ my %fixC = (
     'zip' => 'sip',
     'agam' => "a'am",
     'agat' => "a'at",
-
+#    'conga' => 'cunga',
+#    'cóngar' => 'cúngar',
+#    'cóngarach' => 'cúngarach',
+#    'cóngaracht' => 'cúngaracht',
+    'pionós' => 'píonós',
+    'feidhmiú teanga' => 'feidhmiú teangan'
 );
 my %fixM = (
     'éigin' => 'éigint',
@@ -30,7 +39,19 @@ my %fixM = (
     'dearmad' => 'dearúd',
     'zónáilte' => 'zónáilthe',
     'seinn' => 'seinm',
+    'pionós' => 'píonós',
+    'feidhmiú teanga' => 'feidhmiú teangan'
 );
+
+my %fixAll = (
+    'praiticiúil' => 'praicticiúil',
+);
+
+for my $k (keys %fixAll) {
+    $fixM{$k} = $fixAll{$k};
+    $fixC{$k} = $fixAll{$k};
+    $fixU{$k} = $fixAll{$k};
+}
 
 sub get_replacement {
     my $word = $_[0];

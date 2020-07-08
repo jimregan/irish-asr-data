@@ -6,7 +6,7 @@ use utf8;
 
 use FindBin qw($RealBin);
 
-open(MAP, '<', "$RealBin/abair-map.tsv");
+open(MAP, '<', "$RealBin/mappings/abair-map.tsv");
 binmode(MAP, ":utf8");
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
@@ -15,6 +15,7 @@ my %map = ();
 
 while(<MAP>) {
     chomp;
+    s/\r//g;
     next if(/^$/);
     next if(/^#/);
     my ($l, $r) = split/\t/;

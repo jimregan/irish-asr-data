@@ -1,0 +1,292 @@
+input_label_type: BYTE
+output_label_type: SYMBOL
+
+alignable { input: "a"       output: "æ" }
+alignable { input: "a"       output: "ɒ" }	# UK: wash
+alignable { input: "a"       output: "ɑː" }	# UK: pass
+alignable { input: "a"       output: "eɪ" }	# lazy
+alignable { input: "a"       output: "ə" }
+alignable { input: "a"       output: "ɔ" }	# US: talk
+alignable { input: "a"       output: "ɔː" }	# UK: talk
+alignable { input: "a"       output: "oː" }	# UK: talk
+alignable { input: "a"       output: "ɪ" }	# language (2nd)
+alignable { input: "ae"      output: "aɪ" }	# maestro
+alignable { input: "ae"      output: "eə" }	# aeroplane
+alignable { input: "ae"      output: "iː" }	# aegis
+alignable { input: "ae"      output: "ɛ" }	# haemorrhage
+alignable { input: "age"     output: "ɪ ʤ" }	# haemorrhage, baggage
+alignable { input: "age"     output: "eɪ ʤ" }	# age, rage
+alignable { input: "age"     output: "ɑː ʒ" }	# UK: montage
+alignable { input: "age"     output: "ɑ ʒ" }	# US: montage
+alignable { input: "ao"      output: "aʊ" }	# Taoism
+#alignable { input: "aor"     output: "eɪ ɔː" }	# UK: aorta
+#alignable { input: "aor"     output: "eɪ ɔː ɹ" }	# US: aorta
+alignable { input: "ao"      output: "eɪ ɔː" }	# aorta
+alignable { input: "ao"      output: "eɪ ə" }	# aorist
+#alignable { input: "aor"     output: "eɪ ə ɹ" }	# aorist
+alignable { input: "as"      output: "ɔ" }	# Arkansas
+alignable { input: "as"      output: "ɑː" }	# pas-de-deux
+
+alignable { input: "b"       output: "b" }
+alignable { input: "bb"      output: "b" }
+alignable { input: "c"       output: "s" }
+alignable { input: "c"       output: "k" }
+alignable { input: "cc"      output: "k s" }	# accent
+alignable { input: "cc"      output: "k" }	# stucco
+alignable { input: "cc"      output: "t͡ʃ" }	# Gucci
+alignable { input: "ck"      output: "k" }
+alignable { input: "ch"      output: "t͡ʃ" }
+alignable { input: "ch"      output: "ʃ" }	# chateau
+alignable { input: "ch"      output: "k" }	# chimera
+alignable { input: "cz"      output: "t͡ʃ" }	# Czech
+alignable { input: "d"       output: "d" }
+alignable { input: "dd"      output: "d" }
+alignable { input: "d"       output: "d j" }
+alignable { input: "d"       output: "ʤ" }
+alignable { input: "ed"      output: "ɪ d" }	# wanted
+alignable { input: "ed"      output: "t" }	# jumped
+alignable { input: "ed"      output: "ɛ d" }	# editor
+alignable { input: "e"       output: "ɛ" }
+alignable { input: "e"       output: "" }
+alignable { input: "e"       output: "ɪə" }	# chimera
+alignable { input: "e"       output: "ɨ" }	# roses
+alignable { input: "e"       output: "ɪ" }	# roses, women
+alignable { input: "e"       output: "ə" }	# women
+alignable { input: "ea"      output: "iː" }	# UK: leave
+alignable { input: "ea"      output: "i" }	# US: leave
+alignable { input: "ea"      output: "ɛ ə" }	# UK: wear
+alignable { input: "ea"      output: "ɛ ɚ" }	# US: wear
+alignable { input: "ea"      output: "ɪ ə" }	# UK: tear
+alignable { input: "ea"      output: "ɪ ɚ" }	# US: tear
+alignable { input: "eau"     output: "əʊ" }	# UK: chateau
+alignable { input: "eau"     output: "oʊ" }	# US: chateau
+alignable { input: "ee"      output: "iː" }
+alignable { input: "ee"      output: "i" }	# US: beer
+alignable { input: "ee"      output: "ɪə" }	# UK: beer
+alignable { input: "ee"      output: "ɪ" }
+#alignable { input: "ene"     output: "iː n" }	# scene
+alignable { input: "er"      output: "ɚ" }
+alignable { input: "er"      output: "ə" }
+alignable { input: "eu"      output: "j ʊə" }	# UK: Europe
+alignable { input: "eu"      output: "j ɔː" }	# UK: Europe
+alignable { input: "eu"      output: "j ʊ" }	# US: Europe
+alignable { input: "eur"     output: "j ɝ" }	# US: Europe
+alignable { input: "eu"      output: "j uː" }	# eunuch, Teutonic
+#alignable { input: "eux"     output: "ɜː" }	# pas-de-deux
+alignable { input: "ew"      output: "j uː" }	# UK: new
+alignable { input: "ew"      output: "uː" }	# yew
+alignable { input: "ew"      output: "j u" }	# US: new, few
+alignable { input: "ew"      output: "u" }	# US: new
+alignable { input: "oe"      output: "iː" }	# foetus
+alignable { input: "f"       output: "f" }
+alignable { input: "ff"      output: "f" }
+alignable { input: "f"       output: "v" }	# of
+alignable { input: "g"       output: "ɡ" }
+alignable { input: "gg"      output: "ɡ" }
+alignable { input: "g"       output: "ʤ" }	# age
+alignable { input: "g"       output: "ʒ" }
+alignable { input: "gh"      output: "f" }	# tough
+alignable { input: "h"       output: "h" }
+alignable { input: "i"       output: "ɪ" }
+alignable { input: "i"       output: "aɪ" }
+alignable { input: "i"       output: "ʌɪ" }	# UK: RP of /aɪ/
+alignable { input: "i"       output: "ə" }
+alignable { input: "i"       output: "i" }
+alignable { input: "i"       output: "iː" }	# magazine
+alignable { input: "ie"      output: "aɪ ə" }	# hierarchy
+alignable { input: "ie"      output: "aɪ" }	# hierarchy; vie, die
+alignable { input: "ie"      output: "iː" }	# mien
+alignable { input: "ier"     output: "ɪ ə" }	# UK: tier (layer)
+alignable { input: "ier"     output: "ɪ ɚ" }	# US: tier (layer)
+alignable { input: "ier"     output: "aɪ ə" }	# UK: tier (sth/sb that ties)
+alignable { input: "ier"     output: "aɪ ɚ" }	# US: tier (sth/sb that ties)
+alignable { input: "igh"     output: "aɪ" }	# night
+alignable { input: "ieu"     output: "j u" }	# US: lieutenant
+alignable { input: "ieu"     output: "u" }	# US: lieutenant
+alignable { input: "ieu"     output: "ɛ f" }	# UK: lieutenant
+alignable { input: "ieu"     output: "ə" }	# UK: lieutenant
+alignable { input: "ieu"     output: "j uː" }	# lieu
+alignable { input: "ieu"     output: "uː" }	# lieu
+alignable { input: "ioux"    output: "uː" }	# Sioux
+
+alignable { input: "ir"      output: "ɚ" }
+alignable { input: "ir"      output: "ɜː" }
+alignable { input: "j"       output: "ʤ" }
+alignable { input: "j"       output: "h" }	# jalapeno
+alignable { input: "j"       output: "ʒ" }	# bijou
+alignable { input: "k"       output: "k" }
+alignable { input: "l"       output: "l" }
+alignable { input: "ll"      output: "l" }
+alignable { input: "l"       output: "ɫ" }
+alignable { input: "ll"      output: "ɫ" }
+alignable { input: "sl"      output: "l" }	# island
+alignable { input: "m"       output: "m" }
+alignable { input: "mm"      output: "m" }
+alignable { input: "mb"      output: "m" }	# thumb
+#alignable { input: "mb"      output: "m b" }	# member
+alignable { input: "n"       output: "n" }
+alignable { input: "n"       output: "n j" }	# new
+alignable { input: "ng"      output: "ŋ" }	# thing
+alignable { input: "ng"      output: "ŋ ɡ" }	# finger
+alignable { input: "nk"      output: "ŋ k" }
+alignable { input: "gn"      output: "n" }	# sign
+#alignable { input: "gn"      output: "ɡ n" }	# Agnes
+alignable { input: "mn"      output: "n" }	# mnemonic
+alignable { input: "o"       output: "əʊ" }	# UK
+alignable { input: "o"       output: "oʊ" }	# US
+alignable { input: "o"       output: "ɒ" }	# UK: top
+alignable { input: "o"       output: "ɑ" }	# US: top
+alignable { input: "o"       output: "ɪ" }	# women
+alignable { input: "oi"      output: "ɔɪ" }
+alignable { input: "oo"      output: "uː" }	# root, you
+alignable { input: "oo"      output: "ʊ" }	# book
+alignable { input: "ou"      output: "ə" }
+alignable { input: "ou"      output: "aʊ" }	# about; south
+alignable { input: "ou"      output: "ʌʊ" }	# about (Canada, Scotland)
+alignable { input: "ou"      output: "ɐʊ" }	# about (Canada, Scotland) - phonetic of above
+alignable { input: "ou"      output: "ɛʊ" }	# about (Canada, Ireland)
+alignable { input: "ou"      output: "uː" }	# UK: route; bijou
+alignable { input: "ou"      output: "ʌ" }	# tough
+alignable { input: "ou"      output: "ɒ" }	# UK: cough
+alignable { input: "ou"      output: "ɔː" }	# UK: cough
+alignable { input: "ou"      output: "ɔ" }	# US: cough
+alignable { input: "ou"      output: "ɑ" }	# US: cough
+alignable { input: "ough"    output: "oː" }
+alignable { input: "ough"    output: "ɔ" }
+alignable { input: "ough"    output: "aʊ" }	# plough
+#alignable { input: "ough"    output: "ʌ f" }	# tough
+#alignable { input: "ough"    output: "ɒ f" }	# UK: cough
+#alignable { input: "ough"    output: "ɔː f" }	# UK: cough
+#alignable { input: "ough"    output: "ɔ f" }	# US: cough
+#alignable { input: "ough"    output: "ɑ f" }	# US: cough
+alignable { input: "or"      output: "ɔː" }
+alignable { input: "or"      output: "ɔ ɹ" }
+alignable { input: "or"      output: "ɚ" }	# US: color
+alignable { input: "our"     output: "ə" }	# UK: colour
+alignable { input: "our"     output: "ə ɹ" }	# UK: colour
+alignable { input: "our"     output: "ɚ" }	# UK: colour
+alignable { input: "ow"      output: "aʊ" }	# cow
+alignable { input: "ow"      output: "əʊ" }	# UK: slow
+alignable { input: "ow"      output: "oʊ" }	# US: slow
+alignable { input: "p"       output: "p" }
+alignable { input: "p"       output: "pʰ" }
+alignable { input: "ph"      output: "f" }
+#alignable { input: "qu"      output: "k w" }	# queen
+alignable { input: "q"       output: "k" }	# queen
+alignable { input: "q"       output: "k w" }	# Qantas
+alignable { input: "u"       output: "ʌ" }	# jump
+alignable { input: "u"       output: "uː" }	# rule
+alignable { input: "ui"      output: "j uː ə" }
+alignable { input: "ui"      output: "j uː ɪ" }
+alignable { input: "uou"     output: "uː ə" }
+alignable { input: "uou"     output: "u ə" }
+alignable { input: "r"       output: "ɹ" }
+alignable { input: "rr"      output: "ɹ" }
+alignable { input: "rrh"     output: "ɹ" }	# diarrhoea
+alignable { input: "rh"      output: "ɹ" }	# rheology
+alignable { input: "r"       output: "j" }	# February
+alignable { input: "r"       output: "" }	# Non-rhotic deletion
+alignable { input: "s"       output: "s" }
+alignable { input: "s"       output: "ʒ" }	# usually
+alignable { input: "s"       output: "ʃ" }	# Seán
+alignable { input: "ss"      output: "s" }
+alignable { input: "ss"      output: "ʒ" }	# fission
+alignable { input: "ss"      output: "ʃ" }	# fissure
+alignable { input: "sz"      output: "s" }	# Liszt
+alignable { input: "sh"      output: "ʃ" }
+alignable { input: "sch"     output: "ʃ" }	# schmuck
+#alignable { input: "sch"     output: "s k" }	# school
+alignable { input: "s"       output: "z" }
+alignable { input: "'s"      output: "s" }	# cat's
+alignable { input: "'s"      output: "z" }	# dog's
+alignable { input: "s"       output: "ʒ" }	# erasure
+alignable { input: "si"      output: "ʒ" }	# Asia
+alignable { input: "si"      output: "ʃ" }	# Asia
+alignable { input: "sl"      output: "s l" }	# slow
+alignable { input: "sl"      output: "z l" }	# Islington
+alignable { input: "t"       output: "t" }
+alignable { input: "tt"      output: "t" }
+alignable { input: "t"       output: "tʰ" }
+alignable { input: "t"       output: "ɾ" }
+alignable { input: "tt"      output: "ɾ" }
+alignable { input: "t"       output: "ʔ" }
+alignable { input: "tt"      output: "ʔ" }
+alignable { input: "t"       output: "t͡ʃ" }
+alignable { input: "ts"      output: "t s" }	# tsar
+alignable { input: "ts"      output: "s" }	# tsar
+alignable { input: "ts"      output: "z" }	# tsar
+alignable { input: "tz"      output: "t s" }	# matzo, tzar
+alignable { input: "tz"      output: "s" }	# tzar
+alignable { input: "tz"      output: "z" }	# tzar
+alignable { input: "cz"      output: "t s" }	# tsar
+alignable { input: "cz"      output: "s" }	# tsar
+alignable { input: "cz"      output: "z" }	# tsar
+alignable { input: "pt"      output: "t" }	# Ptolemy
+alignable { input: "pt"      output: "p t" }	# abrupt
+alignable { input: "th"      output: "θ" }
+alignable { input: "th"      output: "ð" }
+alignable { input: "ti"      output: "ʃ" }	# nation, 'ghoti'
+alignable { input: "u"       output: "ʌ" }	# up
+alignable { input: "u"       output: "ʊ" }	# butch
+alignable { input: "u"       output: "uː" }	# Ruth
+alignable { input: "u"       output: "j uː" }	# puke, useful
+alignable { input: "u"       output: "ɪ" }	# busy, business
+alignable { input: "u"       output: "ə" }	# orangutan, focus
+alignable { input: "u"       output: "w" }	# guacamole
+alignable { input: "ful"     output: "f l̩" }	# harmful, useful
+alignable { input: "ful"     output: "f ə l" }	# harmful, useful (schwa for syllabic marker)
+alignable { input: "ful"     output: "f l" }	# harmful, useful (missing syllabic marker)
+alignable { input: "ua"      output: "j ʊ ə" }	# UK: January
+alignable { input: "ua"      output: "j ə" }	# UK: January
+alignable { input: "ua"      output: "j u ɛ" }	# US: January
+alignable { input: "ua"      output: "j u æ" }	# US: January
+# the below can probably be simplified
+#alignable { input: "ruar"    output: "ɹ ʊ ə ɹ" }	# UK: February
+#alignable { input: "ruar"    output: "j ʊ ə ɹ" }	# UK: February
+#alignable { input: "ruar"    output: "j ə ɹ" }	# UK: February
+#alignable { input: "ruar"    output: "ɹ ə ɹ" }	# UK: February
+alignable { input: "ruar"    output: "ɹ" }	# UK: February
+#alignable { input: "ruar"    output: "ɹ u ɛ ɹ" }	# US: February
+#alignable { input: "ruar"    output: "j u ɛ ə ɹ" }	# US: February
+#alignable { input: "ruar"    output: "j u ɛ ɹ" }	# US: February
+alignable { input: "ua"      output: "ʊ ə" }	# UK: February
+alignable { input: "ua"      output: "ə" }	# UK: February
+alignable { input: "ua"      output: "u ɛ ə" }	# US: February
+alignable { input: "ua"      output: "u ɛ" }	# US: February
+alignable { input: "uar"     output: "ɑː" }	# UK: guard
+alignable { input: "uar"     output: "ɑ ɹ" }	# US: guard
+alignable { input: "ue"      output: "j uː" }	# hue
+alignable { input: "ue"      output: "uː" }	# UK: blue
+alignable { input: "ue"      output: "u" }	# US: blue
+alignable { input: "ugh"     output: "j uː" }	# Hugh
+alignable { input: "uu"      output: "j uː" }	# vacuum
+alignable { input: "uu"      output: "j uː ə" }	# vacuum
+alignable { input: "uy"      output: "aɪ" }	# buy
+
+alignable { input: "v"       output: "v" }
+alignable { input: "vv"      output: "v" }	# savvy
+alignable { input: "w"       output: "w" }
+alignable { input: "wh"      output: "w" }
+alignable { input: "wh"      output: "ʍ" }
+alignable { input: "x"       output: "k s" }	# exile
+alignable { input: "x"       output: "ɛ k s" }	# x-ray
+alignable { input: "x"       output: "ɡ z" }	# exam
+alignable { input: "x"       output: "z" }	# xenon
+alignable { input: "y"       output: "j" }	# yellow
+alignable { input: "y"       output: "ɨ" }	# pyjamas
+alignable { input: "y"       output: "aɪ" }	# by
+alignable { input: "y"       output: "ɪ" }	# triptych
+alignable { input: "z"       output: "z" }
+alignable { input: "zz"      output: "z" }
+alignable { input: "z"       output: "ʒ" }
+alignable { input: "z"       output: "z j" }
+alignable { input: "zz"      output: "t s" }	# pizza
+
+alignable { input: "orce"    output: "ʊ" }	# Worcester
+alignable { input: "ire"     output: "ə" }	# UK: -shire
+alignable { input: "ire"     output: "ə ɹ" }	# UK: -shire
+alignable { input: "ire"     output: "ɚ" }	# -shire
+alignable { input: "ire"     output: "i ɹ" }	# US: -shire
+alignable { input: "ire"     output: "aɪ ɚ" }	# US: -shire
+alignable { input: "ewe"     output: "j uː" }	# ewe
+alignable { input: "ewe"     output: "j oː" }	# Ireland: ewe
