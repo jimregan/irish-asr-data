@@ -30,6 +30,7 @@ my %fixC = (
 #    'cóngarach' => 'cúngarach',
 #    'cóngaracht' => 'cúngaracht',
     'pionós' => 'píonós',
+    'feidhmiú teanga' => 'feidhmiú teangan'
 );
 my %fixM = (
     'éigin' => 'éigint',
@@ -39,6 +40,7 @@ my %fixM = (
     'zónáilte' => 'zónáilthe',
     'seinn' => 'seinm',
     'pionós' => 'píonós',
+    'feidhmiú teanga' => 'feidhmiú teangan'
 );
 
 my %fixAll = (
