@@ -22,17 +22,37 @@ my %stripapos = map { $_ => 1 } qw(
 	cll_z0002_448 cll_z0002_481 cll_z0002_484 cll_z0002_495
 );
 
+sub lower_irish_word {
+	my $word = shift;
+	if($word =~ /^([nt])([AEIOUÁÉÍÓÚ].*)/) {
+		my $pfx = $1;
+		my $rest = $2;
+		my $lwr = lc($rest);
+		return "$pfx-$lwr";
+	} else {
+		return lc($word);
+	}
+}
+
+sub tolower {
+	my $t = shift;
+	my @words = split/ /, $t;
+	my @res = map { lower_irish_word $_ } @words;
+	return join(' ', @res);
+}
+
 my $dom = XML::LibXML->load_xml(location => $filename) or die "$!";
 
-foreach my $utt ($dom->findnodes('//lex')) {
-	my $text = NFC($lex->to_literal());
-	my $id = $lex->{'id'};
+foreach my $utt ($dom->findnodes('//fileid')) {
+	my $text = NFC($utt->to_literal());
+	my $id = $utt->{'id'};
 	if(exists $stripapos{$id}) {
 		$text =~ s/'//g;
 	} elsif($id eq 'cll_z0002_319') {
 		$text =~ s/ '/ /;
 		$text =~ s/' / /;
 	}
-	$text =~ s/[\?!\.,"]//g;
-	print "$word\t$pron\n";
+	$text =~ s/[\?!\.,":;]//g;
+	my $out = tolower($text);
+	print "$id\t$out\n";
 }
