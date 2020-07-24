@@ -19,6 +19,6 @@ grep 'fileid' text.xml|awk -F'"' '{print $2}'|while read id;do
 done
 
 echo Converting the things
-perl convert-idlak-text.pl
+perl convert-idlak-text.pl > text
 perl convert-idlak-lexicon.pl | perl adjust-phones.pl -a > lexicon.txt
 
