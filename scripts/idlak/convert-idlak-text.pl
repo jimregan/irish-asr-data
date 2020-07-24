@@ -22,13 +22,19 @@ my %stripapos = map { $_ => 1 } qw(
 	cll_z0002_448 cll_z0002_481 cll_z0002_484 cll_z0002_495
 );
 
+open(FIXES, ">", "lexicon-fixes.tsv");
+binmode(FIXES, ":utf8");
+
 sub lower_irish_word {
 	my $word = shift;
 	if($word =~ /^([nt])([AEIOUÁÉÍÓÚ].*)/) {
 		my $pfx = $1;
 		my $rest = $2;
 		my $lwr = lc($rest);
-		return "$pfx-$lwr";
+		my $lword = lc($word);
+		my $out = $pfx . '-' . $lwr;
+		print FIXES "$lword\t$out\n";
+		return "$out";
 	} else {
 		return lc($word);
 	}
