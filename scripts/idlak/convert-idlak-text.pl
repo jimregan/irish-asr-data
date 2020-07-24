@@ -6,8 +6,12 @@ use utf8;
 
 use XML::LibXML;
 use Unicode::Normalize;
+use Getopt::Std;
 
 binmode(STDOUT, ":utf8");
+
+our($opt_s);
+getopts('s');
 
 # https://raw.githubusercontent.com/Idlak/Living-Audio-Dataset/master/ga/ie/cll/text.xml
 my $filename;
@@ -60,5 +64,9 @@ foreach my $utt ($dom->findnodes('//fileid')) {
 	}
 	$text =~ s/[\?!\.,":;]//g;
 	my $out = tolower($text);
-	print "$id\t$out\n";
+	if($opt_s) {
+		print "<s> $out </s> ($id)\n";
+	} else {
+		print "$id $out\n";
+	}
 }
