@@ -1,21 +1,21 @@
-0.000000	1.120000	Caibidil a haon
-2.100000	5.730000	Mar a tháinig Jimín ar an saol agus mar a chuir sé dúil i gcíste milis
-6.790000	9.033340	An Máistir a dúirt liom é seo a scríobh
-9.547432	12.962476	Cuntas a scríobh mar gheall orm féin sin é a dúirt sé a bhí uaidh
-13.366405	15.422775	N'fheadar cad ab áil leis dá leithéid sin
-15.881787	18.213563	Ach tá sé chomh maith agam tosú ar an gcuntas úd
-18.397168	20.526980	-breath- N'fheadar i gceart cá dtosóidh mé
-20.802386	23.207605	Dúirt an Máistir liom m'ainm a chur síos ar dtúis
-23.317768	27.390000	ach ní féidir dom anois é a chur síos ar dtúis mar tá barr an pháipéir seo lán
-28.280000	29.505238	Cuirfidh mé anseo é
-30.019331	31.598329	Jimín Mháire Thaidhg
-31.928817	33.287490	Is mise Jimín
-33.893385	35.343860	Tá ainm eile leis orm
-35.545825	36.775975	Séamas Ó Breasail
-37.179905	38.520218	Sin é an t-ainm atá ar mo Dhaid
-38.667101	41.512970	ach ní thugann aon duine a ainm sin ormsa ach ainm mo Mham -breath-
-41.751656	43.680000	Is í Máire Thaidhg mo mháthair, tá fhios agat
-44.524084	46.103082	Is iontach an duine Mam
-46.598814	48.471580	Bíonn eagla orainn go léir roimpí
-48.765347	50.656473	Tá sí ina máistir ar an teach
-50.968601	56.490000	-breath- Ní bheifeá cúig nóiméad inár dteachna -breath- nuair a bheadh fhios agat gurb í Mam bun agus barr gach aon ní
+0.082331	1.062957	Caibidil a haon
+2.180312	5.730000	Mar a tháinig Jimín ar an saol agus mar a chuir sé dúil i gcíste milis
+6.790000	8.900611	An Máistir a dúirt liom é seo a scríobh
+9.653356	12.962476	Cuntas a scríobh mar gheall orm féin sin é a dúirt sé a bhí uaidh
+13.390271	15.293056	N'fheadar cad ab áil leis dá leithéid sin
+15.982581	18.213563	Ach tá sé chomh maith agam tosú ar an gcuntas úd
+18.724511	20.274105	N'fheadar i gceart cá dtosóidh mé
+20.766179	23.005743	Dúirt an Máistir liom m'ainm a chur síos ar dtúis
+23.462976	27.390000	ach ní féidir dom anois é a chur síos ar dtúis mar tá barr an pháipéir seo lán
+28.361694	29.273220	Cuirfidh mé anso é
+30.105355	31.598329	Jimín Mháire Thaidhg
+32.069547	33.167789	Is mise Jimín
+33.986692	35.343860	Tá ainm eile leis orm
+35.577452	36.775975	Séamas Ó Breasail
+37.243193	38.413474	Sin é an t-ainm atá ar mo Dhaid
+38.773674	41.350941	ach ní thugann aon duine a ainm sin ormsa ach ainm mo Mham
+41.774359	43.680000	Sí Máire Thaidhg mo mháthair, tá fhios agat
+44.672130	46.103082	Is iontach an duine Mam
+46.730415	48.471580	Bíonn eagla orainn go léir roimpí
+48.859270	50.656473	Tá sí ina máistir ar an teach
+51.290986	56.490000	Ní bheifeá cúig nóiméad inár dteachna -breath- nuair a bheadh fhios agat gurb í Mam bun agus barr gach aon ní
