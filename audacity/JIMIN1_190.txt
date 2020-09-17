@@ -18,4 +18,5 @@
 44.672130	46.103082	Is iontach an duine Mam
 46.730415	48.471580	Bíonn eagla orainn go léir roimpí
 48.859270	50.656473	Tá sí ina máistir ar an teach
-51.290986	56.490000	Ní bheifeá cúig nóiméad inár dteachna -breath- nuair a bheadh fhios agat gurb í Mam bun agus barr gach aon ní
+51.290986	53.162086	Ní bheifeá cúig nóiméad inár dteachna
+53.556825	56.447710	nuair a bheadh fhios agat gurb í Mam bun agus barr gach aon ní
