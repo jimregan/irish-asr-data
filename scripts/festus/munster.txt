@@ -221,6 +221,9 @@ alignable { input: "eabha"   output: "au" }	# stressed
 alignable { input: "eabha"   output: "ə" }	# unstressed
 alignable { input: "eabhai"  output: "au" }	# stressed
 alignable { input: "eabhai"  output: "ə" }	# unstressed
+alignable { input: "abhfai"  output: "au" }	# 
+alignable { input: "eabhfai"  output: "au" }	# 
+
 
 alignable { input: "amh"     output: "au" }	# stressed
 alignable { input: "amh"     output: "ə vˠ" }	# unstressed
@@ -364,6 +367,7 @@ alignable { input: "dh"      output: "ɣ" }
 alignable { input: "dh"      output: "j" }
 
 alignable { input: "fh"      output: "" }
+alignable { input: "f"       output: "" }
 
 alignable { input: "gh"      output: "ɣ" }
 alignable { input: "gh"      output: "j" }
@@ -455,6 +459,7 @@ alignable { input: "shn"      output: "n̥ˠ" }
 alignable { input: "shn"      output: "n̥ʲ" }
 alignable { input: "thn"      output: "n̥ˠ" }
 alignable { input: "thn"      output: "n̥ʲ" }
+alignable { input: "thn"      output: "h ə nʲ" } # aithne
 
 alignable { input: "sp"       output: "sˠ pˠ" }
 alignable { input: "sp"       output: "sˠ pʲ" }
@@ -596,6 +601,9 @@ alignable { input: "rm"      output: "ɾʲ ə mʲ" }
 #alignable { input: "rmh"     output: "ɾʲ vʲ" }
 alignable { input: "rmh"     output: "ɾˠ ə vˠ" }
 alignable { input: "rmh"     output: "ɾʲ ə vʲ" }
+
+# prefixes
+alignable { input: "ath"     output: "a" }
 
 alignable { input: "'"       output: "" }
 alignable { input: "’"       output: "" }
