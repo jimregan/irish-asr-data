@@ -68,12 +68,15 @@ alignable { input: "a"       output: "a" }	# stressed
 alignable { input: "a"       output: "ə" }	# unstressed
 alignable { input: "a"       output: "au" }	# _ nn, etc.; e.g., ann
 alignable { input: "a"       output: "aː" }	# carr
+alignable { input: "a"       output: "u" }	# agam
 alignable { input: "ea"      output: "a" }	# stressed
 alignable { input: "ea"      output: "ə" }	# unstressed
 alignable { input: "ea"      output: "au" }	# _ nn, etc.; e.g., ceann
 alignable { input: "ea"      output: "aː" }	# fearr
 alignable { input: "ai"      output: "a" }	# stressed
 alignable { input: "ai"      output: "ə" }	# unstressed
+alignable { input: "ai"      output: "e" }	# aici
+alignable { input: "ai"      output: "ai" }	# aimsir
 alignable { input: "eai"     output: "a" }	# stressed
 alignable { input: "eai"     output: "ə" }	# unstressed
 
@@ -93,6 +96,7 @@ alignable { input: "io"      output: "ə" }	# unstressed
 alignable { input: "io"      output: "iː" }
 alignable { input: "io"      output: "əi" }
 alignable { input: "io"      output: "u" }	# sliocht
+alignable { input: "io"      output: "uː" }	# iompar
 alignable { input: "ui"      output: "i" }	# stressed
 alignable { input: "ui"      output: "ə" }	# unstressed
 alignable { input: "ui"      output: "iː" }	# muintir, cuing
@@ -107,6 +111,8 @@ alignable { input: "oi"      output: "o" }	# stressed
 alignable { input: "oi"      output: "ə" }	# unstressed
 alignable { input: "oi"      output: "ai" }	# roinn
 alignable { input: "oi"      output: "oː" }
+alignable { input: "oi"      output: "i" }	# loinge
+alignable { input: "oi"      output: "iː" }	# boinn
 
 alignable { input: "u"       output: "u" }	# stressed
 alignable { input: "u"       output: "ə" }	# unstressed
@@ -117,6 +123,7 @@ alignable { input: "á"       output: "aː" }
 alignable { input: "eá"      output: "aː" }
 alignable { input: "ái"      output: "aː" }
 alignable { input: "eái"     output: "aː" }
+alignable { input: "ádh"     output: "aː" } # ádh
 
 alignable { input: "ae"      output: "eː" }
 alignable { input: "aei"     output: "eː" }
@@ -185,8 +192,8 @@ alignable { input: "agh"     output: "ai" }	# stressed
 alignable { input: "agh"     output: "ə" }	# unstressed
 alignable { input: "agha"    output: "ai" }	# stressed
 alignable { input: "agha"    output: "ə" }	# unstressed
-alignable { input: "aighai"  output: "ai" }	# stressed
-alignable { input: "aighai"  output: "ə" }	# unstressed
+alignable { input: "aghai"   output: "ai" }	# stressed
+alignable { input: "aghai"   output: "ə" }	# unstressed
 
 alignable { input: "oidh"    output: "ai" }	# stressed
 alignable { input: "oidh"    output: "i ɟ" }	# unstressed/final
@@ -259,6 +266,8 @@ alignable { input: "iuai"    output: "uˑə" }
 
 alignable { input: "ia"      output: "ia" }
 alignable { input: "iai"     output: "ia" }
+alignable { input: "ia"      output: "iˑə" }
+alignable { input: "iai"     output: "iˑə" }
 
 alignable { input: "iá"      output: "i aː" }
 alignable { input: "iái"     output: "i aː" }
@@ -333,6 +342,8 @@ alignable { input: "r"       output: "ɾˠ" }
 alignable { input: "r"       output: "ɾʲ" }
 alignable { input: "rr"      output: "ɾˠ" }
 alignable { input: "rr"      output: "ɾʲ" }
+alignable { input: "r-r"      output: "ɾˠ" }
+alignable { input: "r-r"      output: "ɾʲ" }
 # devoiced
 alignable { input: "r"       output: "ɾ̥ˠ" }
 alignable { input: "r"       output: "ɾ̥ʲ" }
@@ -365,6 +376,9 @@ alignable { input: "ch"      output: "" }
 
 alignable { input: "dh"      output: "ɣ" }
 alignable { input: "dh"      output: "j" }
+# endings
+alignable { input: "dh"      output: "x" }
+alignable { input: "dh"      output: "ɟ" }
 
 alignable { input: "fh"      output: "" }
 alignable { input: "f"       output: "" }
@@ -441,6 +455,8 @@ alignable { input: "rt"      output: "ɾˠ tʲ" }
 alignable { input: "rrt"     output: "ɾˠ t̪ˠ" }
 alignable { input: "rrt"     output: "ɾˠ tʲ" }
 
+alignable { input: "rth"      output: "ɾˠ ə h" } # aertha
+alignable { input: "rth"      output: "ɾ̥ʲ ə h" } # FIXME
 alignable { input: "rth"      output: "ɾ̥ˠ" }
 alignable { input: "rth"      output: "ɾ̥ʲ" }
 alignable { input: "rrth"     output: "ɾ̥ˠ" }
