@@ -581,6 +581,7 @@ alignable { input: "rf"      output: "ɾˠ fˠ" }
 alignable { input: "rf"      output: "ɾʲ fʲ" }
 alignable { input: "rf"      output: "ɾˠ ə fˠ" }
 alignable { input: "rf"      output: "ɾʲ ə fʲ" }
+alignable { input: "rf"      output: "ɾˠ" }
 
 alignable { input: "rg"      output: "ɾˠ ɡ" }
 alignable { input: "rg"      output: "ɾʲ ɟ" }
