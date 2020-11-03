@@ -344,6 +344,8 @@ alignable { input: "rr"      output: "ɾˠ" }
 alignable { input: "rr"      output: "ɾʲ" }
 alignable { input: "r-r"      output: "ɾˠ" }
 alignable { input: "r-r"      output: "ɾʲ" }
+alignable { input: "rfhr"      output: "ɾˠ" }
+alignable { input: "rfhr"      output: "ɾʲ" }
 # devoiced
 alignable { input: "r"       output: "ɾ̥ˠ" }
 alignable { input: "r"       output: "ɾ̥ʲ" }
