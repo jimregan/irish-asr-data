@@ -356,12 +356,12 @@ how	h aʊ
 i	aɪ
 if	ɪ f
 i'll	aɪ l
-i'll	ɑː l
-i'll	a l
+i'll	ɑ l
+i'll	æ l
 i'll	ə l
 i'll	ʌ l
 i'm	aɪ m
-i'm	a m
+i'm	æ m
 i'm	ə m
 i'm	ʌ m
 in	ɪ n
@@ -384,7 +384,7 @@ now	n aʊ
 of	ʌ v
 of	ə v
 oh	oʊ
-OK	oʊ k eɪ
+ok	oʊ k eɪ
 okay	oʊ k eɪ
 on	ɑ n
 one	w ʌ n
@@ -409,7 +409,7 @@ that's	ð æ t s
 the	ð i
 the	ð ə
 then	ð ɛ n
-there	ð ɛ ə ɹ
+there	ð ɛ ɚ
 they	ð eɪ
 think	θ ɪ ŋ k
 this	ð ɪ s

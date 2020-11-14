@@ -306,11 +306,27 @@ alignable { input: "oo" output: "ɔ" } # poor
 alignable { input: "u" output: "ɔ" } # 
 alignable { input: "eu" output: "ə" } # pneumonic
 alignable { input: "ou" output: "oʊ" } # bouquet
+alignable { input: "oh" output: "oʊ" } # oh
 alignable { input: "uo" output: "u" } # buoy
 alignable { input: "ah" output: "ə" } # hallelujah
 alignable { input: "u" output: "ə" } # column
 alignable { input: "n't" output: "ə n t" } # couldn't
 #alignable { input: "n't" output: "n t" } # can't
+
+alignable { input: "k" output: "k eɪ" } # letter-k
+
+alignable { input: "ou're" output: "ɚ" } # you're
+alignable { input: "eah" output: "ɛ" } # yeah
+alignable { input: "ere" output: "ɚ" } # were
+alignable { input: "a" output: "ʌ" } # what, was
+alignable { input: "y" output: "ə" } # my (unstressed)
+alignable { input: "ause" output: "ʌ z" } # because
+alignable { input: "o" output: "w ʌ" } # one
+alignable { input: "ea" output: "ɪ" } # really
+alignable { input: "ee" output: "ɪ" } # been
+alignable { input: "i" output: "æ" } # I'll, reduced
+alignable { input: "i" output: "ɑ" } # I'll, reduced
+alignable { input: "i" output: "ʌ" } # I'll, reduced
 
 alignable { input: "-" output: "" }
 alignable { input: "'" output: "" }
@@ -422,6 +438,15 @@ forbidden {
 forbidden {
     alignable { input: "e" output: "" }
     alignable { input: "igh" output: "aɪ" }
+}
+# ere -> ɚ
+forbidden {
+    alignable { input: "e" output: "" }
+    alignable { input: "re" output: "ɚ" }
+}
+forbidden {
+    alignable { input: "er" output: "ɚ" }
+    alignable { input: "e" output: "" }
 }
 
 # guy :: g/ɡ uy/aɪ
