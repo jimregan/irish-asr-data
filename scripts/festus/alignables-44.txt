@@ -303,12 +303,14 @@ alignable { input: "of" output: "ə" } # of
 alignable { input: "o" output: "ə" } # carrot
 alignable { input: "o" output: "ɔ" } # often
 alignable { input: "oo" output: "ɔ" } # poor
-alignable { input: "u" output: "ɔ" } # column
+alignable { input: "u" output: "ɔ" } # 
 alignable { input: "eu" output: "ə" } # pneumonic
 alignable { input: "ou" output: "oʊ" } # bouquet
 alignable { input: "uo" output: "u" } # buoy
 alignable { input: "ah" output: "ə" } # hallelujah
 alignable { input: "u" output: "ə" } # column
+alignable { input: "n't" output: "ə n t" } # couldn't
+#alignable { input: "n't" output: "n t" } # can't
 
 alignable { input: "-" output: "" }
 alignable { input: "'" output: "" }

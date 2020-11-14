@@ -302,3 +302,150 @@ loud	l aʊ d
 cloud	k l aʊ d
 proud	p ɹ aʊ d
 crowd	k ɹ aʊ d
+a	eɪ
+a	ə
+about	ə b aʊ t
+all	ɔ l
+and	æ n d
+are	ɑ ɹ
+as	æ z
+as	ə z
+at	æ t
+at	ə t
+back	b æ k
+be	b i
+because	b i k ɔ z
+because	b i k ʌ z
+because	b ə k ʌ z
+been	b ɪ n
+bin	b ɪ n
+but	b ʌ t
+can	k æ n
+can't	k æ n t
+come	k ʌ m
+could	k ʊ d
+could	k ə d
+did	d ɪ d
+didn't	d ɪ d ə n t
+do	d u
+don't	d oʊ n t
+for	f ɔ ɹ
+for	f ɚ
+from	f ɹ ʌ m
+from	f ɹ ə m
+get	ɡ ɛ t
+get	ɡ ɪ t
+go	ɡ oʊ
+going	ɡ oʊ ɪ ŋ
+good	ɡ ʊ d
+got	ɡ ɑ t
+had	h æ d
+have	h æ v
+have	h ə v
+he	h i
+her	h ɝ
+her	ɚ
+here	h ɪ ɹ
+describe	d ə s k ɹ aɪ b
+describe	d ɪ s k ɹ aɪ b
+he's	h i z
+hey	h eɪ
+him	h ɪ m
+his	h ɪ z
+how	h aʊ
+i	aɪ
+if	ɪ f
+i'll	aɪ l
+i'll	ɑː l
+i'll	a l
+i'll	ə l
+i'll	ʌ l
+i'm	aɪ m
+i'm	a m
+i'm	ə m
+i'm	ʌ m
+in	ɪ n
+in	ə n
+is	ɪ z
+it	ɪ t
+it	ə t
+it's	ɪ t s
+just	dʒ ʌ s t
+know	n oʊ
+like	l aɪ k
+look	l ʊ k
+me	m i
+mean	m i n
+my	m aɪ
+my	m ə
+no	n oʊ
+not	n ɑ t
+now	n aʊ
+of	ʌ v
+of	ə v
+oh	oʊ
+OK	oʊ k eɪ
+okay	oʊ k eɪ
+on	ɑ n
+one	w ʌ n
+won	w ʌ n
+or	ɔ ɹ
+or	ɚ
+out	aʊ t
+really	ɹ ɪ l i
+really	ɹ i l i
+really	ɹ i ə l i
+right	ɹ aɪ t
+say	s eɪ
+see	s i
+she	ʃ i
+so	s oʊ
+some	s ʌ m
+sum	s ʌ m
+something	s ʌ m θ ɪ ŋ
+tell	t ɛ l
+that	ð æ t
+that's	ð æ t s
+the	ð i
+the	ð ə
+then	ð ɛ n
+there	ð ɛ ə ɹ
+they	ð eɪ
+think	θ ɪ ŋ k
+this	ð ɪ s
+this	ð ə s
+time	t aɪ m
+to	t u
+to	t ə
+to	t ʊ
+up	ʌ p
+want	w ɑ n t
+was	w ʌ z
+was	w ɑ z
+we	w i
+well	w ɛ l
+were	w ɝ
+were	w ɚ
+what	ʍ ʌ t
+what	w ʌ t
+when	ʍ ɛ n
+when	w ɛ n
+who	h u
+why	ʍ aɪ
+why	w aɪ
+will	w ɪ l
+with	w ɪ θ
+would	w ʊ d
+wood	w ʊ d
+would	w ə d
+yeah	j ɛ ə
+yeah	j ɛ
+yes	j ɛ s
+you	j u
+you	j ə
+your	j ɔ ɹ
+your	j ʊ ə ɹ
+your	j ɝ
+you're	j ʊ ɹ
+you're	j ɔ ɹ
+you're	j ɚ
