@@ -1,0 +1,24 @@
+ag ‘a t’ [cj] and the verbal noun particle ag [a], [ag], or [aj] {ag rith ‘running’, ag
+61 ‘drinking’, ag ithe ‘eating’). Distinguishing between homographs in this way
+is im portant because in this case, and in many other cases, homographs are
+pronounced differently. For the phonetiser to be able to make the distinction,
+first the grammatical information would have first to be obtained, either from a
+dictionary or from a part-of-speech tagger (Uf Dhonnchadha & Van Genabith,
+2006), and then used to distinguish between homographs. After this, the addition
+of a post-lexical module, a module th at deals with cross-word coarticulation and
+other phenomena, would enable the phonetiser to select the correct one of the
+three possible pronunciations of the verbal noun particle ag ([a], [ag], or [aj]).
+Deciding what pronunciation is correct in this case depends on whether or not the
+verbal noun begins with a consonant, a back vowel, or a front vowel. The addition
+of such modules would constitute a significant enhancement to the phonetiser.
+One other possible enhancement would be the full integration of phonetisation
+with spell checking. This way, spelling errors could be removed before phonetisation, thus improving the quality of phonetisation, which depends crucially on
+the quality of the spelling.
+Finally, the extent to which the phonetiser meets some of its stated goals
+remains to be seen. For example, while the architecture of the system should
+allow a fairly straightforward extension to new dialects by other researchers and
+developers, this has not yet been demonstrated. And while the phonetiser has so
+far been used to build three synthetic voices th at have been used in a number of
+applications, many other applications, such as the use of an extended version of
+the phonetiser in electronic dictionaries (see Chapter 8), remain to be explored.
+I look forward to working on some of these research questions and also hope

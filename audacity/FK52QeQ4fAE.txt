@@ -1,0 +1,7 @@
+0.000000	9.340596	chuaigh na trí bhéar amach ag siúl agus tháinig Cinnín Óir agus th- tháinig sí ocras uirthi
+9.497039	19.537029	D'ith sí brachán Mhamaí béar agus d'ith sí brachán Dheaidí béar agus d'ith sí brachán Bhabaí béar
+19.721080	21.966504	Agus e cén píosa is fearr leatsa
+22.435835	26.199681	Is maith liom an scéal uilig
+26.622998	31.215074	An píosa is fearr liomsa ná Cinnín Óir ag ithe an brachán
+31.656797	39.561794	An píosa is fearr liomsa ná an píosa nuair a bhris Cinnín Óir an cathaoir
+40.666101	43.601716	um an béar beag buí
