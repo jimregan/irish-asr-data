@@ -287,8 +287,6 @@ alignable { input: "augh" output: "ɔ" } # taught
 #alignable { input: "ar" output: "ɔ ɹ" } # war
 #alignable { input: "ear" output: "ɪ ɹ" } # ear
 #alignable { input: "eer" output: "ɪ ɹ" } # steer
-alignable { input: "ea" output: "ɪ" } # ear
-alignable { input: "ee" output: "ɪ" } # steer
 #alignable { input: "ere" output: "ɪ ɹ" } # here
 #alignable { input: "ier" output: "ɪ ɚ" } # tier
 #alignable { input: "ure" output: "ʊ ɹ" } # lure
