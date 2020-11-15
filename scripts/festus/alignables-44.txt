@@ -385,6 +385,11 @@ forbidden {
     alignable { input: "t" output: "t" }
     alignable { input: "ho" output: "ɑ" }
 }
+# same with 'shot'
+forbidden {
+    alignable { input: "s" output: "ʃ" }
+    alignable { input: "ho" output: "ɑ" }
+}
 # gue like prologue
 #forbidden {
 #    alignable { input: "gu" output: "ɡ" }

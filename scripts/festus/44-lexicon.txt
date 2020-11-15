@@ -276,6 +276,7 @@ ear	i ɹ
 steer	s t ɪ ɹ
 steer	s t i ɹ
 here	h ɪ ɹ
+hear	h ɪ ɹ
 tier	t ɪ ɚ
 tier	t aɪ ɚ
 cure	k j ʊ ɹ
@@ -449,3 +450,27 @@ your	j ɝ
 you're	j ʊ ɹ
 you're	j ɔ ɹ
 you're	j ɚ
+dug	d ʌ ɡ
+dog	d ɑ ɡ
+crow	k ɹ oʊ
+thirst	θ ɝ s t
+think	θ ɪ ŋ k
+plough	p l aʊ
+plow	p l aʊ
+sow	s aʊ
+sow	s oʊ
+how	h aʊ
+now	n aʊ
+grow	ɡ ɹ oʊ
+allow	ə l aʊ
+endow	ɪ n d aʊ
+shot	ʃ ɑ t
+shut	ʃ ʌ t
+chute	ʃ u t
+shoot	ʃ u t
+shit	ʃ ɪ t
+pit	p ɪ t
+bit	b ɪ t
+tit	t ɪ t
+sit	s ɪ t
+kit	k ɪ t
