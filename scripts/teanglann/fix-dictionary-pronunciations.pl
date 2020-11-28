@@ -18,6 +18,7 @@ my %fixU = (
     'teanga' => 'teangaí',
     'gnóthach' => 'gnítheach',
     'athghafa' => 'athghoite',
+    'geata' => 'geafta',
 );
 my %fixC = (
     'éigin' => 'eicint',
