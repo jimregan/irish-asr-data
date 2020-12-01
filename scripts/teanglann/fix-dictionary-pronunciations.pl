@@ -45,6 +45,7 @@ my %fixM = (
     'seinn' => 'seinm',
     'pionós' => 'píonós',
     'feidhmiú teanga' => 'feidhmiú teangan'
+    'teorainn' => 'teora',
 );
 
 my %fixAll = (
