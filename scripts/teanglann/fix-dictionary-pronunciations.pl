@@ -35,6 +35,7 @@ my %fixC = (
     'pionós' => 'píonós',
     'feidhmiú teanga' => 'feidhmiú teangan',
     'gnóthach' => 'gnathach',
+    'bláthanna' => 'bláthannaí',
 );
 my %fixM = (
     'éigin' => 'éigint',
