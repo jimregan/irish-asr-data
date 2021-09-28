@@ -16,6 +16,9 @@ my %fixU = (
     'cóngarach' => 'cógarach',
     'cóngaracht' => 'cógaracht',
     'teanga' => 'teangaí',
+    'gnóthach' => 'gnítheach',
+    'athghafa' => 'athghoite',
+    'geata' => 'geafta',
 );
 my %fixC = (
     'éigin' => 'eicint',
@@ -30,7 +33,9 @@ my %fixC = (
 #    'cóngarach' => 'cúngarach',
 #    'cóngaracht' => 'cúngaracht',
     'pionós' => 'píonós',
-    'feidhmiú teanga' => 'feidhmiú teangan'
+    'feidhmiú teanga' => 'feidhmiú teangan',
+    'gnóthach' => 'gnathach',
+    'bláthanna' => 'bláthannaí',
 );
 my %fixM = (
     'éigin' => 'éigint',
@@ -41,6 +46,7 @@ my %fixM = (
     'seinn' => 'seinm',
     'pionós' => 'píonós',
     'feidhmiú teanga' => 'feidhmiú teangan'
+    'teorainn' => 'teora',
 );
 
 my %fixAll = (

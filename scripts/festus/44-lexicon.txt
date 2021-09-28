@@ -1,0 +1,476 @@
+bug	b ʌ ɡ
+bubble	b ʌ b ə l
+dad	d æ d
+add	æ d
+would	w ʊ d
+would	w ə d
+would	ə d
+milled	m ɪ l d	m ɪ ɫ d
+fat	f æ t
+cliff	k l ɪ f	k l̥ʰ ɪ f
+phone	f oʊ n	f oʊ̯ n
+enough	ə n ʌ f
+enough	ɪ n ʌ f
+enough	i n ʌ f
+half	h æ f
+often	ɔ f t ə n
+often	ɔ f ə n
+often	ɑ f t ə n
+often	ɑ f ə n
+gun	ɡ ʌ n
+egg	ɛ ɡ
+ghost	ɡ oʊ s t
+guest	ɡ ɛ s t
+prologue	p ɹ oʊ l ɔ ɡ
+prologue	p ɹ oʊ l ɑ ɡ
+hop	h ɑ p
+who	h u
+jam	dʒ æ m
+wage	w eɪ dʒ
+giraffe	dʒ ə ɹ æ f
+edge	ɛ dʒ
+soldier	s oʊ l dʒ ɚ
+exaggerate	ɛ ɡ z æ dʒ ə ɹ eɪ t	
+exaggerate	ɪ ɡ z æ dʒ ə ɹ eɪ t	
+kit	k ɪ t
+cat	k æ t	kʰ æ t̚
+cure	k j ʊ ɹ
+cure	k j ɚ
+accuse	ə k j u z
+chris	k ɹ ɪ s
+accent	æ k s ə n t
+folk	f oʊ k	
+bouquet	b oʊ k eɪ
+bouquet	b u k eɪ
+queen	k w i n	kʷ w i n
+rack	ɹ æ k
+box	b ɑ k s
+exam	ɪ ɡ z æ m
+exam	ɛ ɡ z æ m
+live	l ɪ v
+well	w ɛ l
+aisle	aɪ l
+man	m æ n
+summer	s ʌ m ɚ
+comb	k oʊ m
+column	k ɑ l ə m
+palm	p ɑ m
+palm	p ɑ l m
+palm	p ɔ m
+palm	p ɔ l m
+net	n ɛ t
+funny	f ʌ n i	
+know	n oʊ
+gnat	n æ t
+mnemonic	n ə m ɑ n ɪ k
+mnemonic	n i m ɑ n ɪ k
+pneumonic	n ə m ɑ n ɪ k
+pneumonic	n u m ɑ n ɪ k
+pneumonia	n u m oʊ n i ə
+pneumonia	n ə m oʊ n i ə
+pin	p ɪ n	pʰ ɪ n
+dippy	d ɪ p i
+run	ɹ ʌ n
+carrot	k æ ɹ ə t
+carrot	k ɛ ɹ ə t
+wrench	ɹ ɛ n tʃ
+rhyme	ɹ aɪ m
+sit	s ɪ t
+less	l ɛ s
+circle	s ɝ k ə l
+scene	s i n
+psycho	s aɪ k oʊ
+listen	l ɪ s ə n	l ɪ s n̩
+pace	p eɪ s
+course	k ɔ ɹ s
+tip	t ɪ p
+matter	m æ t ɚ	m æ ɾ ɚ
+thomas	t ɑ m ə s
+ripped	ɹ ɪ p t
+vine	v aɪ n
+of	ʌ v
+of	ə v
+of	ə
+stephen	s t i v ə n
+stephen	s t ɛ f ə n
+five	f aɪ v
+wit	w ɪ t
+why	w aɪ
+why	ʍ aɪ
+quick	k w ɪ k	k w̥ ɪ k
+choir	k w aɪ ɚ
+zed	z ɛ d
+buzz	b ʌ z
+his	h ɪ z
+scissors	s ɪ z ɚ z
+xylophone	z aɪ l ə f oʊ n
+craze	k ɹ eɪ z
+phase	f eɪ z
+treasure	t ɹ ɛ ʒ ɚ
+treasure	tʃ ɹ ɛ ʒ ɚ
+division	d ɪ v ɪ ʒ ə n
+azure	æ ʒ ɚ
+azure	ə ʒ ʊ ɹ
+chip	tʃ ɪ p
+watch	w ɔ tʃ
+watch	w ɑ tʃ
+future	f j u tʃ ɚ
+action	æ k ʃ ə n
+righteous	ɹ aɪ tʃ ə s
+sham	ʃ æ m
+ocean	oʊ ʃ ə n
+sure	ʃ ʊ ɹ
+sure	ʃ ɔ ɹ
+sure	ʃ ɝ
+special	s p ɛ ʃ ə l
+pension	p ɛ n ʃ ə n
+machine	m ə ʃ i n
+conscience	k ɑ n ʃ ə n s
+station	s t eɪ ʃ ə n
+thongs	θ ɑ ŋ z
+leather	l ɛ ð ɚ
+ring	ɹ ɪ ŋ
+pink	p ɪ ŋ k
+pink	p i ŋ k
+tongue	t ʌ ŋ
+you	j u
+onion	ʌ n j ə n
+hallelujah	h æ l ɪ l u j ə
+hallelujah	h æ l ɪ l j u j ə
+cat	k æ t	kʰ æ t	kʰ æ t̚
+plaid	p l æ d
+laugh	l æ f
+bay	b eɪ
+maid	m eɪ d
+weigh	w eɪ
+straight	s t ɹ eɪ t
+pay	p eɪ	pʰeɪ
+foyer	f ɔɪ ɝ
+foyer	f ɔɪ eɪ
+filet	f ɪ l eɪ
+eight	eɪ t
+gauge	ɡ eɪ dʒ
+mate	m eɪ t
+break	b ɹ eɪ k	b ɹʷ eɪ̯ k
+they	ð eɪ
+end	ɛ n d
+bread	b ɹ ɛ d
+bury	b ɛ ɹ i
+friend	f ɹ ɛ n d
+said	s ɛ d
+many	m ɛ n i
+leopard	l ɛ p ɚ d
+heifer	h ɛ f ɚ
+aesthetic	ɛ s θ ɛ t ɪ k
+be	b i
+bee	b i
+meat	m i t
+lady	l eɪ d i
+key	k i
+phoenix	f i n ɪ k s
+grief	ɡ ɹ i f
+ski	s k i
+deceive	d ɪ s i v
+people	p i p ə l	pʰ i p ɫ̩
+quay	k i
+quay	k eɪ
+quay	k w eɪ
+it	ɪ t
+it	ə t
+england	ɪ ŋ ɡ l ə n d
+england	ɪ ŋ l ə n d
+women	w ɪ m ɪ n
+women	w ɪ m ə n
+busy	b ɪ z i
+guild	ɡ ɪ l d
+gym	dʒ ɪ m
+sieve	s ɪ v
+spider	s p aɪ d ɚ
+sky	s k aɪ
+night	n aɪ t
+pie	p aɪ
+guy	ɡ aɪ
+stye	s t aɪ
+aisle	aɪ l	aɪ̯ l
+island	aɪ l ə n d
+height	h aɪ t
+kite	k aɪ t
+swan	s w ɑ n
+honest	ɑ n ɪ s t
+maul	m ɔ l
+slaw	s l ɔ
+fought	f ɔ t
+open	oʊ p ə n
+bone	b oʊ n
+moat	m oʊ t
+toe	t oʊ
+sow	s aʊ
+sow	s oʊ
+dough	d oʊ
+beau	b oʊ
+brooch	b ɹ oʊ tʃ
+brooch	b ɹ u tʃ
+sew	s oʊ
+wolf	w ʊ l f	w ʊ̠ ɫ f	w ɫ̩ f
+look	l ʊ k
+bush	b ʊ ʃ
+lug	l ʌ ɡ
+monkey	m ʌ ŋ k i
+blood	b l ʌ d
+double	d ʌ b ə l	d ʌ b ɫ
+who	h u
+loon	l u n
+dew	d u
+blue	b l u
+flute	f l u t
+shoe	ʃ u
+through	θ ɹ u	θ ɾ̪̊ ʊu
+fruit	f ɹ u t
+manoeuvre	m ə n u v ɚ
+maneuver	m ə n u v ɚ
+group	ɡ ɹ u p
+join	dʒ ɔɪ n
+boy	b ɔɪ
+buoy	b ɔɪ
+buoy	b u i
+now	n aʊ
+shout	ʃ aʊ t
+bough	b aʊ
+about	ə b aʊ t
+pencil	p ɛ n s ə l
+ladder	l æ d ɚ	l æ ɾ ɚ
+dollar	d ɑ l ɚ
+honour	ɑ n ɚ
+future	f j u tʃ ɚ
+augur	ɔ ɡ ɚ
+augur	ɑ ɡ ɚ
+chair	tʃ ɛ ə ɹ
+dare	d ɛ ɚ
+dare	d ɛ ɹ
+pear	p ɛ ɚ
+prayer	p ɹ ɛ ɚ
+prayer	p ɹ eɪ ɚ
+arm	ɑ ɹ m
+bird	b ɝ d
+term	t ɝ m
+burn	b ɝ n
+pearl	p ɝ l	pʰ ɝ ɫ
+word	w ɝ d
+journey	dʒ ɝ n i
+myrtle	m ɝ t ə l	m ɝ tᵊ ɫ	m ɝ ɾᵊ ɫ
+paw	p ɔ
+ball	b ɑ l
+fork	f ɔ ɹ k
+poor	p ʊ ɹ
+poor	p ɔ ɹ
+fore	f ɔ ɹ
+board	b ɔ ɹ d
+four	f ɔ ɹ
+taught	t ɔ t
+war	w ɔ ɹ
+bought	b ɔ t
+sauce	s ɔ s
+sauce	s ɑ s
+ear	ɪ ɹ
+ear	i ɹ
+steer	s t ɪ ɹ
+steer	s t i ɹ
+here	h ɪ ɹ
+hear	h ɪ ɹ
+tier	t ɪ ɚ
+tier	t aɪ ɚ
+cure	k j ʊ ɹ
+cure	k j ɝ
+tourist	t ʊ ɹ ɪ s t
+tourist	t ɝ ɪ s t
+tourist	t ɔ ɹ ɪ s t
+save	s eɪ v
+give	ɡ ɪ v
+their	ð ɛ ɚ
+where	w ɛ ɚ
+where	ʍ ɛ ɚ
+use	j u s
+use	j u z
+enthuse	ɛ n θ j u z
+able	eɪ b ə l
+table	t eɪ b ə l
+stable	s t eɪ b ə l
+countable	k aʊ n t ə b ə l
+humble	h ʌ m b ə l
+fore	f ɔ ɹ
+ball	b ɔ l
+loud	l aʊ d
+cloud	k l aʊ d
+proud	p ɹ aʊ d
+crowd	k ɹ aʊ d
+a	eɪ
+a	ə
+about	ə b aʊ t
+all	ɔ l
+and	æ n d
+are	ɑ ɹ
+as	æ z
+as	ə z
+at	æ t
+at	ə t
+back	b æ k
+be	b i
+because	b i k ɔ z
+because	b i k ʌ z
+because	b ə k ʌ z
+been	b ɪ n
+bin	b ɪ n
+but	b ʌ t
+can	k æ n
+can't	k æ n t
+come	k ʌ m
+could	k ʊ d
+could	k ə d
+did	d ɪ d
+didn't	d ɪ d ə n t
+do	d u
+don't	d oʊ n t
+for	f ɔ ɹ
+for	f ɚ
+from	f ɹ ʌ m
+from	f ɹ ə m
+get	ɡ ɛ t
+get	ɡ ɪ t
+go	ɡ oʊ
+going	ɡ oʊ ɪ ŋ
+good	ɡ ʊ d
+got	ɡ ɑ t
+had	h æ d
+have	h æ v
+have	h ə v
+he	h i
+her	h ɝ
+her	ɚ
+here	h ɪ ɹ
+describe	d ə s k ɹ aɪ b
+describe	d ɪ s k ɹ aɪ b
+he's	h i z
+hey	h eɪ
+him	h ɪ m
+his	h ɪ z
+how	h aʊ
+i	aɪ
+if	ɪ f
+i'll	aɪ l
+i'll	ɑ l
+i'll	æ l
+i'll	ə l
+i'll	ʌ l
+i'm	aɪ m
+i'm	æ m
+i'm	ə m
+i'm	ʌ m
+in	ɪ n
+in	ə n
+is	ɪ z
+it	ɪ t
+it	ə t
+it's	ɪ t s
+just	dʒ ʌ s t
+know	n oʊ
+like	l aɪ k
+look	l ʊ k
+me	m i
+mean	m i n
+my	m aɪ
+my	m ə
+no	n oʊ
+not	n ɑ t
+now	n aʊ
+of	ʌ v
+of	ə v
+oh	oʊ
+ok	oʊ k eɪ
+okay	oʊ k eɪ
+on	ɑ n
+one	w ʌ n
+won	w ʌ n
+or	ɔ ɹ
+or	ɚ
+out	aʊ t
+really	ɹ ɪ l i
+really	ɹ i l i
+really	ɹ i ə l i
+right	ɹ aɪ t
+say	s eɪ
+see	s i
+she	ʃ i
+so	s oʊ
+some	s ʌ m
+sum	s ʌ m
+something	s ʌ m θ ɪ ŋ
+tell	t ɛ l
+that	ð æ t
+that's	ð æ t s
+the	ð i
+the	ð ə
+then	ð ɛ n
+there	ð ɛ ɚ
+they	ð eɪ
+think	θ ɪ ŋ k
+this	ð ɪ s
+this	ð ə s
+time	t aɪ m
+to	t u
+to	t ə
+to	t ʊ
+up	ʌ p
+want	w ɑ n t
+was	w ʌ z
+was	w ɑ z
+we	w i
+well	w ɛ l
+were	w ɝ
+were	w ɚ
+what	ʍ ʌ t
+what	w ʌ t
+when	ʍ ɛ n
+when	w ɛ n
+who	h u
+why	ʍ aɪ
+why	w aɪ
+will	w ɪ l
+with	w ɪ θ
+would	w ʊ d
+wood	w ʊ d
+would	w ə d
+yeah	j ɛ ə
+yeah	j ɛ
+yes	j ɛ s
+you	j u
+you	j ə
+your	j ɔ ɹ
+your	j ʊ ə ɹ
+your	j ɝ
+you're	j ʊ ɹ
+you're	j ɔ ɹ
+you're	j ɚ
+dug	d ʌ ɡ
+dog	d ɑ ɡ
+crow	k ɹ oʊ
+thirst	θ ɝ s t
+think	θ ɪ ŋ k
+plough	p l aʊ
+plow	p l aʊ
+sow	s aʊ
+sow	s oʊ
+how	h aʊ
+now	n aʊ
+grow	ɡ ɹ oʊ
+allow	ə l aʊ
+endow	ɪ n d aʊ
+shot	ʃ ɑ t
+shut	ʃ ʌ t
+chute	ʃ u t
+shoot	ʃ u t
+shit	ʃ ɪ t
+pit	p ɪ t
+bit	b ɪ t
+tit	t ɪ t
+sit	s ɪ t
+kit	k ɪ t

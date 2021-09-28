@@ -1,79 +1,82 @@
-input_label_type: BYTE
+input_label_type: UNICODE
 output_label_type: SYMBOL
 
-output_symbol { key: "a"   value: 1 }
-output_symbol { key: "aː"  value: 2 }
-output_symbol { key: "ai"  value: 3 }
-output_symbol { key: "au"  value: 4 }
-output_symbol { key: "bˠ"  value: 5 }
-output_symbol { key: "bʲ"  value: 6 }
-output_symbol { key: "c"   value: 7 }
-output_symbol { key: "ç"   value: 8 }
-output_symbol { key: "ʤ"   value: 9 }
-output_symbol { key: "d̪ˠ"  value: 10 }
-output_symbol { key: "dʲ"  value: 11 }
-output_symbol { key: "e"   value: 12 }
-output_symbol { key: "ə"   value: 13 }
-output_symbol { key: "eː"  value: 14 }
-output_symbol { key: "əi"  value: 15 }
-output_symbol { key: "fˠ"  value: 16 }
-output_symbol { key: "fʲ"  value: 17 }
-output_symbol { key: "ɣ"   value: 18 }
-output_symbol { key: "ɡ"   value: 19 }
-output_symbol { key: "h"   value: 20 }
-output_symbol { key: "i"   value: 21 }
-output_symbol { key: "iː"  value: 22 }
-output_symbol { key: "ia"  value: 23 }
-output_symbol { key: "iˑə" value: 24 }
-output_symbol { key: "j"   value: 25 }
-output_symbol { key: "ɟ"   value: 26 }
-output_symbol { key: "k"   value: 27 }
-output_symbol { key: "lˠ"  value: 28 }
-output_symbol { key: "l̥ˠ"  value: 29 }
-output_symbol { key: "lʲ"  value: 30 }
-output_symbol { key: "l̥ʲ"  value: 31 }
-output_symbol { key: "mˠ"  value: 32 }
-output_symbol { key: "m̥ˠ"  value: 33 }
-output_symbol { key: "mʲ"  value: 34 }
-output_symbol { key: "m̥ʲ"  value: 35 }
-output_symbol { key: "ɲ"   value: 36 }
-output_symbol { key: "nˠ"  value: 37 }
-output_symbol { key: "n̥ˠ"  value: 38 }
-output_symbol { key: "nʲ"  value: 39 }
-output_symbol { key: "n̥ʲ"  value: 40 }
-output_symbol { key: "n̻ʲ"  value: 41 }
-output_symbol { key: "ŋ"   value: 42 }
-output_symbol { key: "o"   value: 43 }
-output_symbol { key: "oː"  value: 44 }
-output_symbol { key: "pˠ"  value: 45 }
-output_symbol { key: "pʲ"  value: 46 }
-output_symbol { key: "ɾˠ"  value: 47 }
-output_symbol { key: "ɾ̥ˠ"  value: 48 }
-output_symbol { key: "ɾʲ"  value: 49 }
-output_symbol { key: "ɾ̥ʲ"  value: 50 }
-output_symbol { key: "ʃ"   value: 51 }
-output_symbol { key: "sˠ"  value: 52 }
-output_symbol { key: "t̪ˠ"  value: 53 }
-output_symbol { key: "tʲ"  value: 54 }
-output_symbol { key: "u"   value: 55 }
-output_symbol { key: "uː"  value: 56 }
-output_symbol { key: "uˑə" value: 57 }
-output_symbol { key: "vˠ"  value: 58 }
-output_symbol { key: "vʲ"  value: 59 }
-output_symbol { key: "w"   value: 60 }
-output_symbol { key: "x"   value: 61 }
-output_symbol { key: "zˠ"  value: 62 }
+output_symbol { key: "a" value: 1 }
+output_symbol { key: "ai" value: 2 }
+output_symbol { key: "au" value: 3 }
+output_symbol { key: "aː" value: 4 }
+output_symbol { key: "bʲ" value: 5 }
+output_symbol { key: "bˠ" value: 6 }
+output_symbol { key: "c" value: 7 }
+output_symbol { key: "dʲ" value: 8 }
+output_symbol { key: "d̪ˠ" value: 9 }
+output_symbol { key: "e" value: 10 }
+output_symbol { key: "eː" value: 11 }
+output_symbol { key: "fʲ" value: 12 }
+output_symbol { key: "fˠ" value: 13 }
+output_symbol { key: "h" value: 14 }
+output_symbol { key: "i" value: 15 }
+output_symbol { key: "ia" value: 16 }
+output_symbol { key: "iː" value: 17 }
+output_symbol { key: "iˑə" value: 18 }
+output_symbol { key: "j" value: 19 }
+output_symbol { key: "k" value: 20 }
+output_symbol { key: "lʲ" value: 21 }
+output_symbol { key: "lˠ" value: 22 }
+output_symbol { key: "l̥ʲ" value: 23 }
+output_symbol { key: "l̥ˠ" value: 24 }
+output_symbol { key: "mʲ" value: 25 }
+output_symbol { key: "mˠ" value: 26 }
+output_symbol { key: "m̥ʲ" value: 27 }
+output_symbol { key: "m̥ˠ" value: 28 }
+output_symbol { key: "nʲ" value: 29 }
+output_symbol { key: "nˠ" value: 30 }
+output_symbol { key: "n̥ʲ" value: 31 }
+output_symbol { key: "n̥ˠ" value: 32 }
+output_symbol { key: "n̻ʲ" value: 33 }
+output_symbol { key: "o" value: 34 }
+output_symbol { key: "oː" value: 35 }
+output_symbol { key: "pʲ" value: 36 }
+output_symbol { key: "pˠ" value: 37 }
+output_symbol { key: "sˠ" value: 38 }
+output_symbol { key: "tʲ" value: 39 }
+output_symbol { key: "t̪ˠ" value: 40 }
+output_symbol { key: "u" value: 41 }
+output_symbol { key: "uː" value: 42 }
+output_symbol { key: "uˑə" value: 43 }
+output_symbol { key: "vʲ" value: 44 }
+output_symbol { key: "vˠ" value: 45 }
+output_symbol { key: "w" value: 46 }
+output_symbol { key: "x" value: 47 }
+output_symbol { key: "zˠ" value: 48 }
+output_symbol { key: "ç" value: 49 }
+output_symbol { key: "ŋ" value: 50 }
+output_symbol { key: "ə" value: 51 }
+output_symbol { key: "əi" value: 52 }
+output_symbol { key: "ɟ" value: 53 }
+output_symbol { key: "ɡ" value: 54 }
+output_symbol { key: "ɣ" value: 55 }
+output_symbol { key: "ɲ" value: 56 }
+output_symbol { key: "ɾʲ" value: 57 }
+output_symbol { key: "ɾˠ" value: 58 }
+output_symbol { key: "ɾ̥ʲ" value: 59 }
+output_symbol { key: "ɾ̥ˠ" value: 60 }
+output_symbol { key: "ʃ" value: 61 }
+output_symbol { key: "ʤ" value: 62 }
 
 alignable { input: "a"       output: "a" }	# stressed
 alignable { input: "a"       output: "ə" }	# unstressed
 alignable { input: "a"       output: "au" }	# _ nn, etc.; e.g., ann
 alignable { input: "a"       output: "aː" }	# carr
+alignable { input: "a"       output: "u" }	# agam
 alignable { input: "ea"      output: "a" }	# stressed
 alignable { input: "ea"      output: "ə" }	# unstressed
 alignable { input: "ea"      output: "au" }	# _ nn, etc.; e.g., ceann
 alignable { input: "ea"      output: "aː" }	# fearr
 alignable { input: "ai"      output: "a" }	# stressed
 alignable { input: "ai"      output: "ə" }	# unstressed
+alignable { input: "ai"      output: "e" }	# aici
+alignable { input: "ai"      output: "ai" }	# aimsir
 alignable { input: "eai"     output: "a" }	# stressed
 alignable { input: "eai"     output: "ə" }	# unstressed
 
@@ -93,6 +96,7 @@ alignable { input: "io"      output: "ə" }	# unstressed
 alignable { input: "io"      output: "iː" }
 alignable { input: "io"      output: "əi" }
 alignable { input: "io"      output: "u" }	# sliocht
+alignable { input: "io"      output: "uː" }	# iompar
 alignable { input: "ui"      output: "i" }	# stressed
 alignable { input: "ui"      output: "ə" }	# unstressed
 alignable { input: "ui"      output: "iː" }	# muintir, cuing
@@ -107,6 +111,8 @@ alignable { input: "oi"      output: "o" }	# stressed
 alignable { input: "oi"      output: "ə" }	# unstressed
 alignable { input: "oi"      output: "ai" }	# roinn
 alignable { input: "oi"      output: "oː" }
+alignable { input: "oi"      output: "i" }	# loinge
+alignable { input: "oi"      output: "iː" }	# boinn
 
 alignable { input: "u"       output: "u" }	# stressed
 alignable { input: "u"       output: "ə" }	# unstressed
@@ -117,6 +123,7 @@ alignable { input: "á"       output: "aː" }
 alignable { input: "eá"      output: "aː" }
 alignable { input: "ái"      output: "aː" }
 alignable { input: "eái"     output: "aː" }
+alignable { input: "ádh"     output: "aː" } # ádh
 
 alignable { input: "ae"      output: "eː" }
 alignable { input: "aei"     output: "eː" }
@@ -142,9 +149,11 @@ alignable { input: "aío"     output: "iː" }	# stressed
 alignable { input: "aío"     output: "iˑə" }	# unstressed
 
 alignable { input: "ó"       output: "oː" }
+alignable { input: "ó"       output: "uː" } # mór
 alignable { input: "ió"      output: "oː" }
 alignable { input: "eó"      output: "oː" }
 alignable { input: "eo"      output: "oː" }
+alignable { input: "eo"      output: "o" } # seo
 alignable { input: "ói"      output: "oː" }
 alignable { input: "eoi"     output: "oː" }
 
@@ -185,8 +194,8 @@ alignable { input: "agh"     output: "ai" }	# stressed
 alignable { input: "agh"     output: "ə" }	# unstressed
 alignable { input: "agha"    output: "ai" }	# stressed
 alignable { input: "agha"    output: "ə" }	# unstressed
-alignable { input: "aighai"  output: "ai" }	# stressed
-alignable { input: "aighai"  output: "ə" }	# unstressed
+alignable { input: "aghai"   output: "ai" }	# stressed
+alignable { input: "aghai"   output: "ə" }	# unstressed
 
 alignable { input: "oidh"    output: "ai" }	# stressed
 alignable { input: "oidh"    output: "i ɟ" }	# unstressed/final
@@ -221,6 +230,9 @@ alignable { input: "eabha"   output: "au" }	# stressed
 alignable { input: "eabha"   output: "ə" }	# unstressed
 alignable { input: "eabhai"  output: "au" }	# stressed
 alignable { input: "eabhai"  output: "ə" }	# unstressed
+alignable { input: "abhfai"  output: "au" }	# 
+alignable { input: "eabhfai"  output: "au" }	# 
+
 
 alignable { input: "amh"     output: "au" }	# stressed
 alignable { input: "amh"     output: "ə vˠ" }	# unstressed
@@ -234,6 +246,8 @@ alignable { input: "eamha"   output: "au" }	# stressed
 alignable { input: "eamha"   output: "ə" }	# unstressed
 alignable { input: "eamhai"  output: "au" }	# stressed
 alignable { input: "eamhai"  output: "ə" }	# unstressed
+
+alignable { input: "an" output: "a nˠ ə" } # an-mhór
 
 alignable { input: "ogh"     output: "au" }	# stressed
 alignable { input: "ogh"     output: "ə" }	# unstressed
@@ -254,6 +268,8 @@ alignable { input: "iuai"    output: "uˑə" }
 
 alignable { input: "ia"      output: "ia" }
 alignable { input: "iai"     output: "ia" }
+alignable { input: "ia"      output: "iˑə" }
+alignable { input: "iai"     output: "iˑə" }
 
 alignable { input: "iá"      output: "i aː" }
 alignable { input: "iái"     output: "i aː" }
@@ -328,20 +344,33 @@ alignable { input: "r"       output: "ɾˠ" }
 alignable { input: "r"       output: "ɾʲ" }
 alignable { input: "rr"      output: "ɾˠ" }
 alignable { input: "rr"      output: "ɾʲ" }
+alignable { input: "r-r"      output: "ɾˠ" }
+alignable { input: "r-r"      output: "ɾʲ" }
+alignable { input: "rfhr"      output: "ɾˠ" }
+alignable { input: "rfhr"      output: "ɾʲ" }
 # devoiced
 alignable { input: "r"       output: "ɾ̥ˠ" }
 alignable { input: "r"       output: "ɾ̥ʲ" }
 alignable { input: "rr"      output: "ɾ̥ˠ" }
 alignable { input: "rr"      output: "ɾ̥ʲ" }
 
+alignable { input: "rn"      output: "ɾˠ ə nˠ" } # Satharn
+
 alignable { input: "s"       output: "sˠ" }
 alignable { input: "s"       output: "ʃ" }
 
 alignable { input: "t"       output: "t̪ˠ" }
 alignable { input: "t"       output: "tʲ" }
+alignable { input: "dt"       output: "t̪ˠ" }
+alignable { input: "dt"       output: "tʲ" }
 
 alignable { input: "v"       output: "vʲ" }
+alignable { input: "v"       output: "vˠ" }
 alignable { input: "v"       output: "w" }	# svuít, tvuít
+alignable { input: "nv"     output: "nˠ ə vˠ" }
+alignable { input: "nv"     output: "nʲ ə vʲ" }
+alignable { input: "n-v"     output: "nˠ ə vˠ" }
+alignable { input: "n-v"     output: "nʲ ə vʲ" }
 
 alignable { input: "w"       output: "w" }
 
@@ -360,8 +389,12 @@ alignable { input: "ch"      output: "" }
 
 alignable { input: "dh"      output: "ɣ" }
 alignable { input: "dh"      output: "j" }
+# endings
+alignable { input: "dh"      output: "x" }
+alignable { input: "dh"      output: "ɟ" }
 
 alignable { input: "fh"      output: "" }
+alignable { input: "f"       output: "" }
 
 alignable { input: "gh"      output: "ɣ" }
 alignable { input: "gh"      output: "j" }
@@ -435,6 +468,8 @@ alignable { input: "rt"      output: "ɾˠ tʲ" }
 alignable { input: "rrt"     output: "ɾˠ t̪ˠ" }
 alignable { input: "rrt"     output: "ɾˠ tʲ" }
 
+alignable { input: "rth"      output: "ɾˠ ə h" } # aertha
+alignable { input: "rth"      output: "ɾ̥ʲ ə h" } # FIXME
 alignable { input: "rth"      output: "ɾ̥ˠ" }
 alignable { input: "rth"      output: "ɾ̥ʲ" }
 alignable { input: "rrth"     output: "ɾ̥ˠ" }
@@ -453,6 +488,7 @@ alignable { input: "shn"      output: "n̥ˠ" }
 alignable { input: "shn"      output: "n̥ʲ" }
 alignable { input: "thn"      output: "n̥ˠ" }
 alignable { input: "thn"      output: "n̥ʲ" }
+alignable { input: "thn"      output: "h ə nʲ" } # aithne
 
 alignable { input: "sp"       output: "sˠ pˠ" }
 alignable { input: "sp"       output: "sˠ pʲ" }
@@ -475,125 +511,136 @@ alignable { input: "tsl"      output: "tʲ l̥ʲ" }
 alignable { input: "tsr"       output: "t̪ˠ ɾ̥ˠ" }
 alignable { input: "tsr"       output: "tʲ ɾ̥ʲ" }
 
-alignable { input: "lb"      output: "lˠ bˠ" }
-alignable { input: "lb"      output: "lʲ bʲ" }
+#alignable { input: "lb"      output: "lˠ bˠ" }
+#alignable { input: "lb"      output: "lʲ bʲ" }
 alignable { input: "lb"      output: "lˠ ə bˠ" }
 alignable { input: "lb"      output: "lʲ ə bʲ" }
 
-alignable { input: "bl"      output: "bˠ lˠ" }
-alignable { input: "bl"      output: "bʲ lʲ" }
+#alignable { input: "bl"      output: "bˠ lˠ" }
+#alignable { input: "bl"      output: "bʲ lʲ" }
 alignable { input: "bl"      output: "bˠ ə lˠ" }
 alignable { input: "bl"      output: "bʲ ə lʲ" }
 
-alignable { input: "lbh"     output: "lˠ vˠ" }
-alignable { input: "lbh"     output: "lʲ vʲ" }
+#alignable { input: "lbh"     output: "lˠ vˠ" }
+#alignable { input: "lbh"     output: "lʲ vʲ" }
 alignable { input: "lbh"     output: "lˠ ə vˠ" }
 alignable { input: "lbh"     output: "lʲ ə vʲ" }
 
-alignable { input: "lch"     output: "lˠ x" }
-alignable { input: "lch"     output: "lʲ ç" }
+#alignable { input: "lch"     output: "lˠ x" }
+#alignable { input: "lch"     output: "lʲ ç" }
 alignable { input: "lch"     output: "lˠ ə x" }
 alignable { input: "lch"     output: "lʲ ə ç" }
 
-alignable { input: "lmh"     output: "lˠ vˠ" }
-alignable { input: "lmh"     output: "lʲ vʲ" }
+#alignable { input: "lmh"     output: "lˠ vˠ" }
+#alignable { input: "lmh"     output: "lʲ vʲ" }
 alignable { input: "lmh"     output: "lˠ ə vˠ" }
 alignable { input: "lmh"     output: "lʲ ə vʲ" }
 
-alignable { input: "dr"      output: "d̪ˠ ɾˠ" }
-alignable { input: "dr"      output: "dʲ ɾʲ" }
+#alignable { input: "dr"      output: "d̪ˠ ɾˠ" }
+#alignable { input: "dr"      output: "dʲ ɾʲ" }
 alignable { input: "dr"      output: "d̪ˠ ə ɾˠ" }
 alignable { input: "dr"      output: "dʲ ə ɾʲ" }
 
-alignable { input: "lg"      output: "lˠ ɡ" }
-alignable { input: "lg"      output: "lʲ ɟ" }
+#alignable { input: "lg"      output: "lˠ ɡ" }
+#alignable { input: "lg"      output: "lʲ ɟ" }
 alignable { input: "lg"      output: "lˠ ə ɡ" }
 alignable { input: "lg"      output: "lʲ ə ɟ" }
 
-alignable { input: "gl"      output: "ɡ lˠ" }
-alignable { input: "gl"      output: "ɟ lʲ" }
+#alignable { input: "gl"      output: "ɡ lˠ" }
+#alignable { input: "gl"      output: "ɟ lʲ" }
 alignable { input: "gl"      output: "ɡ ə lˠ" }
 alignable { input: "gl"      output: "ɟ ə lʲ" }
 
-alignable { input: "lm"      output: "lˠ mˠ" }
-alignable { input: "lm"      output: "lʲ mʲ" }
+#alignable { input: "lm"      output: "lˠ mˠ" }
+#alignable { input: "lm"      output: "lʲ mʲ" }
 alignable { input: "lm"      output: "lˠ ə mˠ" }
 alignable { input: "lm"      output: "lʲ ə mʲ" }
 
-alignable { input: "gn"      output: "ɡ nˠ" }
-alignable { input: "gn"      output: "ɟ nʲ" }
+#alignable { input: "gn"      output: "ɡ nˠ" }
+#alignable { input: "gn"      output: "ɟ nʲ" }
 alignable { input: "gn"      output: "ɡ ə nˠ" }
 alignable { input: "gn"      output: "ɟ ə nʲ" }
 
-alignable { input: "gr"      output: "ɡ ɾˠ" }
-alignable { input: "gr"      output: "ɟ ɾʲ" }
+#alignable { input: "gr"      output: "ɡ ɾˠ" }
+#alignable { input: "gr"      output: "ɟ ɾʲ" }
 alignable { input: "gr"      output: "ɡ ə ɾˠ" }
 alignable { input: "gr"      output: "ɟ ə ɾʲ" }
 
-alignable { input: "nb"      output: "nˠ bˠ" }
-alignable { input: "nb"      output: "nʲ bʲ" }
+#alignable { input: "nb"      output: "nˠ bˠ" }
+#alignable { input: "nb"      output: "nʲ bʲ" }
 alignable { input: "nb"      output: "nˠ ə bˠ" }
 alignable { input: "nb"      output: "nʲ ə bʲ" }
 
-alignable { input: "nbh"     output: "nˠ vˠ" }
-alignable { input: "nbh"     output: "nʲ vʲ" }
+#alignable { input: "nbh"     output: "nˠ vˠ" }
+#alignable { input: "nbh"     output: "nʲ vʲ" }
 alignable { input: "nbh"     output: "nˠ ə vˠ" }
 alignable { input: "nbh"     output: "nʲ ə vʲ" }
+alignable { input: "n-bh"     output: "nˠ ə vˠ" }
+alignable { input: "n-bh"     output: "nʲ ə vʲ" }
 
-alignable { input: "nch"     output: "nˠ x" }
-alignable { input: "nch"     output: "nʲ ç" }
+#alignable { input: "nch"     output: "nˠ x" }
+#alignable { input: "nch"     output: "nʲ ç" }
 alignable { input: "nch"     output: "nˠ ə x" }
 alignable { input: "nch"     output: "nʲ ə ç" }
+alignable { input: "n-ch"     output: "nˠ ə x" }
+alignable { input: "n-ch"     output: "nʲ ə ç" }
 
-alignable { input: "nnch"    output: "nˠ x" }
-alignable { input: "nnch"    output: "n̻ʲ ç" }
+#alignable { input: "nnch"    output: "nˠ x" }
+#alignable { input: "nnch"    output: "n̻ʲ ç" }
 alignable { input: "nnch"    output: "nˠ ə x" }
 alignable { input: "nnch"    output: "n̻ʲ ə ç" }
+alignable { input: "nn-ch"    output: "nˠ ə x" }
+alignable { input: "nn-ch"    output: "n̻ʲ ə ç" }
 
-alignable { input: "nm"      output: "nˠ mˠ" }
-alignable { input: "nm"      output: "nʲ mʲ" }
+#alignable { input: "nm"      output: "nˠ mˠ" }
+#alignable { input: "nm"      output: "nʲ mʲ" }
 alignable { input: "nm"      output: "nˠ ə mˠ" }
 alignable { input: "nm"      output: "nʲ ə mʲ" }
 
-alignable { input: "nmh"     output: "nˠ vˠ" }
-alignable { input: "nmh"     output: "nʲ vʲ" }
+#alignable { input: "nmh"     output: "nˠ vˠ" }
+#alignable { input: "nmh"     output: "nʲ vʲ" }
 alignable { input: "nmh"     output: "nˠ ə vˠ" }
 alignable { input: "nmh"     output: "nʲ ə vʲ" }
+alignable { input: "n-mh"     output: "nˠ ə vˠ" }
+alignable { input: "n-mh"     output: "nʲ ə vʲ" }
 
-alignable { input: "rb"      output: "ɾˠ bˠ" }
-alignable { input: "rb"      output: "ɾʲ bʲ" }
+#alignable { input: "rb"      output: "ɾˠ bˠ" }
+#alignable { input: "rb"      output: "ɾʲ bʲ" }
 alignable { input: "rb"      output: "ɾˠ ə bˠ" }
 alignable { input: "rb"      output: "ɾʲ ə bʲ" }
 
-alignable { input: "rbh"     output: "ɾˠ vˠ" }
-alignable { input: "rbh"     output: "ɾʲ vʲ" }
+#alignable { input: "rbh"     output: "ɾˠ vˠ" }
+#alignable { input: "rbh"     output: "ɾʲ vʲ" }
 alignable { input: "rbh"     output: "ɾˠ ə vˠ" }
 alignable { input: "rbh"     output: "ɾʲ ə vʲ" }
 
-alignable { input: "rch"     output: "ɾˠ x" }
-alignable { input: "rch"     output: "ɾʲ ç" }
+#alignable { input: "rch"     output: "ɾˠ x" }
+#alignable { input: "rch"     output: "ɾʲ ç" }
 alignable { input: "rch"     output: "ɾˠ ə x" }
 alignable { input: "rch"     output: "ɾʲ ə ç" }
 
-alignable { input: "rf"      output: "ɾˠ fˠ" }
-alignable { input: "rf"      output: "ɾʲ fʲ" }
+#alignable { input: "rf"      output: "ɾˠ fˠ" }
+#alignable { input: "rf"      output: "ɾʲ fʲ" }
 alignable { input: "rf"      output: "ɾˠ ə fˠ" }
 alignable { input: "rf"      output: "ɾʲ ə fʲ" }
 
-alignable { input: "rg"      output: "ɾˠ ɡ" }
-alignable { input: "rg"      output: "ɾʲ ɟ" }
+#alignable { input: "rg"      output: "ɾˠ ɡ" }
+#alignable { input: "rg"      output: "ɾʲ ɟ" }
 alignable { input: "rg"      output: "ɾˠ ə ɡ" }
 alignable { input: "rg"      output: "ɾʲ ə ɟ" }
 
-alignable { input: "rm"      output: "ɾˠ mˠ" }
-alignable { input: "rm"      output: "ɾʲ mʲ" }
+#alignable { input: "rm"      output: "ɾˠ mˠ" }
+#alignable { input: "rm"      output: "ɾʲ mʲ" }
 alignable { input: "rm"      output: "ɾˠ ə mˠ" }
 alignable { input: "rm"      output: "ɾʲ ə mʲ" }
 
-alignable { input: "rmh"     output: "ɾˠ vˠ" }
-alignable { input: "rmh"     output: "ɾʲ vʲ" }
+#alignable { input: "rmh"     output: "ɾˠ vˠ" }
+#alignable { input: "rmh"     output: "ɾʲ vʲ" }
 alignable { input: "rmh"     output: "ɾˠ ə vˠ" }
 alignable { input: "rmh"     output: "ɾʲ ə vʲ" }
+
+# prefixes
+alignable { input: "ath"     output: "a" }
 
 alignable { input: "'"       output: "" }
 alignable { input: "’"       output: "" }
