@@ -26,7 +26,7 @@ function ex() {
   then
     opt="$opt --appendpunct $5"
   fi
-  perl $SCRIPTPATH/pdfextract.pl --first $2 --last $3 $opt "$1"
+  perl "$SCRIPTPATH/pdfextract.pl" --first $2 --last $3 $opt "$1"
 }
 
 function exseadna() {
@@ -35,7 +35,7 @@ function exseadna() {
   then
     opt=""
   fi
-  perl $SCRIPTPATH/pdfextract.pl --first $2 --last $3 --pagenums last $opt --leftx 20 --rightx 375 --y 20 --width 450 --height 550 --firstside $4 --lastside $5 "$1"
+  perl "$SCRIPTPATH/pdfextract.pl" --first $2 --last $3 --pagenums last $opt --leftx 20 --rightx 375 --y 20 --width 450 --height 550 --firstside $4 --lastside $5 "$1"
 }
 
 function procfile() {

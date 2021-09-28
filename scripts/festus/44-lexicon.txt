@@ -276,6 +276,7 @@ ear	i ɹ
 steer	s t ɪ ɹ
 steer	s t i ɹ
 here	h ɪ ɹ
+hear	h ɪ ɹ
 tier	t ɪ ɚ
 tier	t aɪ ɚ
 cure	k j ʊ ɹ
@@ -356,12 +357,12 @@ how	h aʊ
 i	aɪ
 if	ɪ f
 i'll	aɪ l
-i'll	ɑː l
-i'll	a l
+i'll	ɑ l
+i'll	æ l
 i'll	ə l
 i'll	ʌ l
 i'm	aɪ m
-i'm	a m
+i'm	æ m
 i'm	ə m
 i'm	ʌ m
 in	ɪ n
@@ -384,7 +385,7 @@ now	n aʊ
 of	ʌ v
 of	ə v
 oh	oʊ
-OK	oʊ k eɪ
+ok	oʊ k eɪ
 okay	oʊ k eɪ
 on	ɑ n
 one	w ʌ n
@@ -409,7 +410,7 @@ that's	ð æ t s
 the	ð i
 the	ð ə
 then	ð ɛ n
-there	ð ɛ ə ɹ
+there	ð ɛ ɚ
 they	ð eɪ
 think	θ ɪ ŋ k
 this	ð ɪ s
@@ -449,3 +450,27 @@ your	j ɝ
 you're	j ʊ ɹ
 you're	j ɔ ɹ
 you're	j ɚ
+dug	d ʌ ɡ
+dog	d ɑ ɡ
+crow	k ɹ oʊ
+thirst	θ ɝ s t
+think	θ ɪ ŋ k
+plough	p l aʊ
+plow	p l aʊ
+sow	s aʊ
+sow	s oʊ
+how	h aʊ
+now	n aʊ
+grow	ɡ ɹ oʊ
+allow	ə l aʊ
+endow	ɪ n d aʊ
+shot	ʃ ɑ t
+shut	ʃ ʌ t
+chute	ʃ u t
+shoot	ʃ u t
+shit	ʃ ɪ t
+pit	p ɪ t
+bit	b ɪ t
+tit	t ɪ t
+sit	s ɪ t
+kit	k ɪ t

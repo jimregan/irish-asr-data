@@ -6,9 +6,14 @@ use File::Copy;
 use Data::Dumper;
 
 if (!@ARGV) {
-	die "Usage: guess-and-copy-pdfs.pl [path to pdfs]\n";
+	die "Usage: guess-and-copy-pdfs.pl [path to pdfs] [output directory]\n";
 }
 my $PATH=$ARGV[0];
+my $OPATH=$ARGV[1];
+
+if ( ! -d $OPATH ) {
+	mkdir($OPATH);
+}
 
 my %copyto = (
 	"njtGr95vD0p8ArHEb3P87A" => "an_tiriseoir_c1.pdf",
@@ -46,6 +51,6 @@ for my $file (@files) {
 		next;
 	}
 #	print "\t\"$digest\" => \"$file\",\n";
-	my $outfile = "$PATH/$copyto{$digest}";
+	my $outfile = "$OPATH/$copyto{$digest}";
 	copy($infile, $outfile) or die "$!";
 }
