@@ -1,3 +1,0 @@
-atá; ata|bolgadh nó séideadh; 100000;
-bhur; bhúr|duine garbh gan mhúineadh; 100000;
-aos; aois; 10000;
