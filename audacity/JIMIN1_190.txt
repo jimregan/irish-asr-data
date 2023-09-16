@@ -3,8 +3,8 @@
 6.790000	8.900611	An Máistir a dúirt liom é seo a scríobh
 9.653356	12.962476	Cuntas a scríobh mar gheall orm féin sin é a dúirt sé a bhí uaidh
 13.390271	15.293056	N'fheadar cad ab áil leis dá leithéid sin
-15.982581	18.213563	Ach tá sé chomh maith agam tosú ar an gcuntas úd
-18.724511	20.274105	N'fheadar i gceart cá dtosóidh mé
+15.982581	18.213563	Ach tá sé chomh maith agam tosnú ar an gcuntas úd
+18.724511	20.274105	N'fheadar i gceart cá dtosnóidh mé
 20.766179	23.005743	Dúirt an Máistir liom m'ainm a chur síos ar dtúis
 23.462976	27.390000	ach ní féidir dom anois é a chur síos ar dtúis mar tá barr an pháipéir seo lán
 28.361694	29.273220	Cuirfidh mé anso é
